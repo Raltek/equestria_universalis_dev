@@ -60,7 +60,7 @@ PYT = "countries/Greifenmarschen.txt"
 #Trade City Area
 TRD = "countries/Skyfall.txt"
 STR = "countries/Grifftonia.txt"
-FEZ = "countries/Fezera.txt"
+FZR = "countries/Fezera.txt"
 VLE = "countries/Vleugeland.txt"
 
 # Riverlands

@@ -1,8 +1,8 @@
-owner = FEZ
-controller = FEZ
+owner = FZR
+controller = FZR
 culture = featherisian
 religion = featherisian
-add_core = FEZ
+add_core = FZR
 hre = no
 base_tax = 1
 base_production = 1
