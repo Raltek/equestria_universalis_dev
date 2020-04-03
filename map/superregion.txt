@@ -10,6 +10,7 @@ northern_griffonia_superregion = {
 	verenia_region
 	aquileia_region
 	western_riverlands_region
+	eastern_riverlands_region
 }
 
 southern_griffonia_superregion = {

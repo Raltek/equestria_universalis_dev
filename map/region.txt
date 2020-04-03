@@ -106,6 +106,7 @@ hill_ponies_region = {
 		farbrook_area
 		north_farbrook_area
 		watertown_area
+		greneclyf_area
 	}
 }
 
@@ -180,6 +181,16 @@ western_riverlands_region = {
 		diamond_mountain_area
 		var_woolth_area
 		dit_kazar_area
+		eygsic_forest_area
+		wolfrest_area
+		despoina_area
+		deponya_area
+		coltsovo_area
+		coltubarski_area
+		bucka_area
+		jezeragrad_area
+		shayrmia_area
+		blessedzemlja_area
 	}
 }
 
@@ -274,6 +285,16 @@ southern_riverlands_region = {
 		darnish_highlands_area
 		cumlia_area
 		fyrdland_area
+	}
+}
+
+eastern_riverlands_region = {
+	areas = {
+		bakara_area
+		vetalije_area
+		kotailia_area
+		mareibor_area
+		coltovac_area
 	}
 }
 ########################################

@@ -513,6 +513,10 @@ coldmouth_area = {
     1956 4254 4259
 }
 
+greneclyf_area {
+	312 4129 4257
+}
+
 ########################################
 # Herzland					 		   #
 ########################################
@@ -754,6 +758,46 @@ var_woolth_area {
 
 dit_kazar_area {
 	295 1957 4262
+}
+
+despoina_area {
+	289 1941 4115 4247
+}
+
+wolfrest_area {
+	302 304 1777 
+}
+
+deponya_area {
+	1081 2415 2418 2419  
+}
+
+eygsic_forest_area {
+	2421 4264 4267
+}
+
+coltsovo_area {
+	297 2408 4116 4244
+}
+
+coltubarski_area {
+	281 2962 4539 
+}
+
+bucka_area {
+	280 1942 1944 4540 
+}
+
+jezeragrad_area {
+	473 474 475 1965 2420 4265
+}
+
+shayrmia_area {
+	1062 1072 1073 1971 2445
+}
+
+blessedzemlja_area {
+	1059 1964 2430 2431 2436
 }
 ########################################
 # Evi Valley			    		   #
@@ -1047,6 +1091,29 @@ cumlia_area {
 fyrdland_area {
 	1055 1060 2351 2365 4339 
 }
+
+########################################
+# Eastern Riverlands				   #
+########################################
+bakara_area {
+	479 1079 2422 4266 
+}
+
+vetalije_area {
+	301 4255 4256
+}
+
+kotailia_area {
+	293 1754 1778 4122
+}
+
+mareibor_area {
+	307 1083 1753 
+}
+
+coltovac_area {
+	1082 4686 4688
+}
 ########################################
 # France					 		   #
 ########################################
@@ -1122,7 +1189,7 @@ macaronesia_area = { #3
 ########################################
 
 laponia_area = { #3
-	 1777 4151
+	  4151
 }
 
 subarctic_islands_area = { #2
@@ -1140,116 +1207,20 @@ greenland_area = { #2
 # Eastern Europe    			 	   #
 ########################################
 
-
-podolia_volhynia_area = { #3
-	281 4540  
-}
-
-volhynia_area = { # 4
-	 2962 4539 
-}
-
-pripyat_area = { #4
-	  1941  
-}
-
-
-west_dniepr_area = { #4 Right Bank Ukraine
-	280 1942 1944 4247
-}
-
-
-
 chernigov_area = {
-	1945 289 
-}
-
-sloboda_ukraine_area = { #4
-	   2408
-}
-
-
-minsk_area = { #4
-	 4115  
-}
-
-#Opolye
-
-ryazan_area = { #4
-	301 1778 4255
-}
-
-vladimir_area = { #3
-	307  
-}
-
-yaroslavl_area = { #4
-	 1753 
-}
-
-
-suzdal_area = { #3
-	1754
-}
-
-smolensk_area = { #4
-	293 297 4244 
-}
-
-oka_area = { #3
-	  4116
-}
-
-beloozero_area = { #3
-	312
-}
-
-lower_don_area = { #4
-	  1971 
-}
-
-kazan_area = { #3
-	1082 2422 4264
-}
-
-samara_area = { #3
-	473 1081 
-}
-
-lower_yik_area = { #4
-	 474  
+	1945  
 }
 
 ural_area = { #5
 	 1078   2441 
 }
 
-arkhangelsk_area = { #4
-	4122 4256 4257
-}
-
 bashkiria_area = { #5
-	475 1965  2420 2444
-}
-
-volga_area = { #3
-	2421 4265 4267
-}
-
-galich_area = { #4
-	1079 1083 
+	    2444
 }
 
 kama_area = { #4
-	305 1962  4266
-}
-
-tambov_area = { #3
-	302 304 2415 
-}
-
-saratov_area = { #3
-	 2418 2419
+	305 1962 
 }
 
 ########################################
@@ -2583,16 +2554,12 @@ buryatia_area = { #5
 	 1056 1057 1058 2446
 }
 
-tunguska_area = { #5
-	1059  2431  2436  
-}
-
 central_siberia_area = { #5
-	1064  1068 1070 2430
+	1064  1068 1070 
 }
 
 kara_area = { #5
-	1069 1072 1073 2445 
+	1069   
 }
 
 ob_area = { #4
@@ -2600,11 +2567,11 @@ ob_area = { #4
 }
 
 irkutsk_area = { #5
-	 1062  2442 
+	   2442 
 }
 
 perm_area = { #5
-	1077 1755  1964 4129
+	1077 1755   
 }
 
 balchasj_area = { #5
@@ -2620,7 +2587,7 @@ syr_darya_area = { #4
 }
 
 yrtesh_area = { #5
-	1071  4687 4688 4689
+	1071  4687  4689
 }
 
 ishim_area = { #5
@@ -2628,7 +2595,7 @@ ishim_area = { #5
 }
 
 aqmola_area = { #5
-	479 2354  4686 4690
+	 2354   4690
 }
 
 ########################################
