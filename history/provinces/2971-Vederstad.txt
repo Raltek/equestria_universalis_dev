@@ -1,7 +1,7 @@
 owner = VLE
 controller = VLE
 culture = featherisian
-religion = featherisian
+religion = archonate
 add_core = VLE
 hre = no
 base_tax = 1

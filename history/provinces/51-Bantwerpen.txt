@@ -1,7 +1,7 @@
 owner = STR
 controller = STR
 culture = featherisian
-religion = featherisian
+religion = archonate
 add_core = STR
 hre = no
 base_tax = 1

@@ -1,7 +1,7 @@
 owner = TRD
 controller = TRD
 culture = featherisian
-religion = featherisian
+religion = archonate
 add_core = TRD
 hre = no
 base_tax = 1
