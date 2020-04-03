@@ -57,6 +57,12 @@ GRN = "countries/Greenback.txt"
 YAL = "countries/Yale.txt"
 PYT = "countries/Greifenmarschen.txt"
 
+#Trade City Area
+TRD = "countries/Skyfall.txt"
+STR = "countries/Grifftonia.txt"
+FEZ = "countries/Fezera.txt"
+VLE = "countries/Vleugeland.txt"
+
 # Riverlands
 RCT = "countries/RiverCity.txt"
 LCT = "countries/LakeCity.txt"

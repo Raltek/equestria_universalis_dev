@@ -1,0 +1,21 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = featherisian
+religion = archonate
+capital = 44
+fixed_capital = 44
+
+1440.6.20 = {
+	monarch = {
+		name = ""
+		dynasty = ""
+		female = yes
+		birth_date = 1396.10.5
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

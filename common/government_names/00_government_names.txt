@@ -52,6 +52,7 @@ griffon_county = {
 			tag = STA
 			tag = MID
 			tag = GRN
+			tag = VLE
 		}
 	}
 }
