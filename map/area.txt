@@ -1114,6 +1114,34 @@ mareibor_area {
 coltovac_area {
 	1082 4686 4688
 }
+
+coltonia_area {
+	305 1069 1755 2354
+}
+
+rijekograd_area {
+	2429 2441 2442
+}
+
+neighretva_area {
+	440 1962 2428 2433 4554 4687
+}
+
+pterygapolis_area {
+	1045 1071 1077 2437 4689 4690
+}
+
+nimbusia_area {
+	456 480 1064 1078 4547
+}
+
+kataigida_area {
+	1054 1068 1070 2444
+}
+
+oreino_tropo_area {
+	219 476 2358 4551 4685 4692
+}
 ########################################
 # France					 		   #
 ########################################
@@ -1148,19 +1176,15 @@ upper_andalucia_area = { #4
 
 castille_area = { #3
 	color = { 58 58 207 }
-	  2755 4551
+	  2755 
 }
 
 toledo_area = { #5
-	219 221 2751 4547
+	 221 2751 
 }
 
 asturias_area = { #4
 	 207 4552 
-}
-
-galicia_area = { #4
-	 4554 
 }
 
 baleares_area = {
@@ -1209,18 +1233,6 @@ greenland_area = { #2
 
 chernigov_area = {
 	1945  
-}
-
-ural_area = { #5
-	 1078   2441 
-}
-
-bashkiria_area = { #5
-	    2444
-}
-
-kama_area = { #4
-	305 1962 
 }
 
 ########################################
@@ -1919,10 +1931,6 @@ termez_area = { #3
 	1968 4344 4343
 }
 
-khiva_area = { #5
-	440    
-}
-
 kabulistan_area = { #5
 	color = { 96 219 }
 	448 451 452 578 2226
@@ -2543,7 +2551,7 @@ okhotsk_area = { #4
 }
 
 yakutia_area = { #5
-	1045 1051 1054 2435 2437
+	 1051  2435 
 }
 
 sakha_area = { #3
@@ -2554,48 +2562,8 @@ buryatia_area = { #5
 	 1056 1057 1058 2446
 }
 
-central_siberia_area = { #5
-	1064  1068 1070 
-}
-
-kara_area = { #5
-	1069   
-}
-
-ob_area = { #4
-	480 2428 2429 2433 
-}
-
-irkutsk_area = { #5
-	   2442 
-}
-
-perm_area = { #5
-	1077 1755   
-}
-
-balchasj_area = { #5
-	    4685
-}
-
-kazakhstan_area = { #5
-	476   2358 
-}
-
 syr_darya_area = { #4
-	456 1969  
-}
-
-yrtesh_area = { #5
-	1071  4687  4689
-}
-
-ishim_area = { #5
-	=   4692
-}
-
-aqmola_area = { #5
-	 2354   4690
+	 1969  
 }
 
 ########################################

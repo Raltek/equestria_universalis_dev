@@ -295,6 +295,13 @@ eastern_riverlands_region = {
 		kotailia_area
 		mareibor_area
 		coltovac_area
+		coltonia_area
+		rijekograd_area
+		neighretva_area
+		pterygapolis_area
+		nimbusia_area
+		kataigida_area
+		oreino_tropo_area
 	}
 }
 ########################################
