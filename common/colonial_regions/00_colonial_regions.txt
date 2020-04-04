@@ -35,6 +35,27 @@ colonial_nova_griffonia = {
 	}
 }
 
+colonial_new_mareland = {
+	color = { 57 143 97 }
+	
+	provinces = {
+		4552 2755 207 208 221 1750 4384 172 171 170 169 211 1746 2989 2751 4557 214 210 4549 220 4559 333 4550 4560 2990
+	}
+	
+	names = {
+		name = "COLONIAL_NEW_MARELAND_new_mareland"
+	}
+	names = {
+		name = "COLONIAL_AUSTRALIA_Root_Culture_GetName_Australia"
+	}
+	names = {
+		name = "COLONIAL_REGION_New_Root_GetName"
+	}
+	names = {
+		name = "COLONIAL_REGION_Terra_Griffonia"
+	}
+}
+
 # Used for RNW
 colonial_placeholder_1 = {
 	color = { 211 108 45 }

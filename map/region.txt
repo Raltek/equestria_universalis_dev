@@ -267,6 +267,12 @@ transfolinia_region = {
 		talononte_area
 		griffbound_area
 		navarro_area
+		cross_island_area
+		boltaire_and_eldoran_area
+		new_griffish_area
+		north_new_mareland
+		celestia_area
+		south_new_mareland_area
 	}
 }
 

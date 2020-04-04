@@ -1,6 +1,14 @@
 ﻿l_english:
  short_colonial_nova_griffonia:0 "North-East Equus"
+ short_colonial_nova_griffonia:0 "North-East Equus"
  colonial_nova_griffonia:0 "Colonial North-East Equus"
+ short_colonial_new_mareland:0 "South-West Griffonia"
+ colonial_new_mareland:0 "Colonial South-West Griffonia"
+ COLONIAL_NEW_MARELAND_new_mareland:0 "New Mareland"
+ COLONIAL_NEW_MARELAND_new_mareland_ajd:0 "New Marelander"
+ COLONIAL_REGION_Terra_Griffonia:0 "Terra Griffonia"
+ COLONIAL_REGION_Terra_Griffonia_adj:0 "Terra Griffonian"
+ 
  vedina_region:0 "Vedina"
  vedina_region_name:0 "Vedina"
  vedina_region_adj:0 "Vedinian"
@@ -563,6 +571,18 @@
  navarro_area:0 "Navarro"
  navarro_area_name:0 "Navarro"
  navarro_area_adj:0 "Navarronese"
+ cross_island_area:0 "Cross Island"
+ cross_island_area_adj:0 "Cross Islander"
+ boltaire_and_eldoran_area:0 "Boltaire and Eldoran"
+ boltaire_and_eldoran_area_adj:0 "Boltaireian and Eldoranian"
+ new_griffish_area:0 "New Griffish Island"
+ new_griffish_area_adj:0 "New Griffish"
+ north_new_mareland:0 "North New Mareland"
+ north_new_mareland_adj:0 "North New Marelandian"
+ celestia_area:0 "Celestia"
+ celestia_area_adj:0 "Celestian"
+ south_new_mareland_area:0 "South New Mareland"
+ south_new_mareland_area_adj:0 "South New Marelandian"
 
  #Southern Riverlands
  fireshore_area:0 "Fireshore"
