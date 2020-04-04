@@ -1,0 +1,3 @@
+# No previous file for Terra Cava
+culture = taloncan
+religion = archonate

@@ -1,0 +1,3 @@
+# No previous file for Grossa Ala
+culture = fracittcan
+religion = archonate

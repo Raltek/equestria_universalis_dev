@@ -1,0 +1,3 @@
+# No previous file for Griffano
+culture = taloncan
+religion = archonate

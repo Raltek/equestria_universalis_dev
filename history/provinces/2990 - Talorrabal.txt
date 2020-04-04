@@ -1,0 +1,3 @@
+# No previous file for Talorrabal
+culture = aboriginal
+religion = old_believer

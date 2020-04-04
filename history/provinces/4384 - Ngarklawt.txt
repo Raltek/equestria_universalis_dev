@@ -1,0 +1,2 @@
+culture = aboriginal
+religion = old_believer# No previous file for Ngarklawt

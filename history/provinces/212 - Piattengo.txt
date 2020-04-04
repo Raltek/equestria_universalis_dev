@@ -1,0 +1,3 @@
+# No previous file for Piattengo
+culture = fracittcan
+religion = archonate

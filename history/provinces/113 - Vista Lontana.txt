@@ -1,0 +1,3 @@
+# No previous file for Vista Lontana
+culture = falcorian
+religion = archonate

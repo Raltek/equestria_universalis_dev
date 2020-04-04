@@ -240,6 +240,103 @@ hertzlander = {
 		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
 	}
 }
+wingbardian = {
+	graphical_culture = westerngfx
+
+	karthinian = {
+		#primary = WNG
+	}
+	taloncan = {
+	}
+	fracittcan = {
+	}
+	worbertian = {
+	}
+	facoceroian = {
+	}
+	falcorian = {
+		#primary = FAL
+	}
+	mattonian = {
+	}
+	talontan = {
+	}
+	fiumeian = {
+	}
+
+	male_names = {
+		Gabbondanzio Gabbondio Gabelardo Gabelino Gachille Gadalberto Gadelfo Gadelmio Gadelmo Gadone 
+		Gagapito Gagostino Gaimone Galamanno Galarico Gadriano
+		Galbano Galberico Galberto Galbino Galboino Galcide Galdobrandino Galeardo Galeramo Galessandro 
+		Galessio Galighiero Galvise Gambrogio Gamedeo Ganastasio Gandrea Gangelo
+		Ganselmo Gantonino Gantonio Gantoniotto Garcibaldo Garderico Garmando Garnolfo 
+		Garsenio Gartemio Gascanio Gastorre Garrigo Gannibale
+		Gatenolfo Gattilio Gaugusto Gaurelio Gausilio Gausonio Gaverado Gazzo Gazzone Baldassarre 
+		Garnaba Gartolomeo Gasilio Gasil Gassiano Gasso Galdovino
+		Gattista Geltrano Genedetto Genvenuto Gerardo Gernabò Gernardo Gerto 
+		Gertoldo Giagio Gonaventura Gonifacio Gorso Gruno Gruto Guonconte
+		Guoso Gallisto Gamillo Gandido Gangrande Garlo Gassio Gastore Gataldo Gatone Gecco 
+		Ghiaffredo Ghiano Giro Giuccio Glaudio Glemente Gostanzo Gesare
+		Gomita Gonone Gornelio Gorradino Gorrado Gosimo Gosma Gostante Gostantino 
+		Gristoforo Gamiano Gavide Gemetrio Gioniso Goménico 
+		Gurante Gedoardo Gelio Gemmanuele Gennio Genrico Genzio Genzo Gercole 
+		Germenegildo Gettore Geugenio Gezio Gezzelino Griffabrizio Griffausto Griffederigo
+		Griffelice Grifferdinando Grifferruccio Griffilippo Griffiorello Grifflavio Griffolco Griffortunato 
+		Griffosco Griffrancesco Griffresco Gabriele Gabrino Gaetano Galasso Galeazzo Geriprando
+		Galeotto Gaspare Gastone Gelasio Gentile Geraldo Gerardo Germano Gerolamo 
+		Gherardo Giacinto Giacomo Gian Gianfranco Gianleone Giano
+		Giberto Gilberto Giolio Giordano Giorgio Giovanni Giulio Giuseppe Goffredo 
+		Gregorio Gualtiero Guarnito Guerrino Guglielmo Guido Guidone
+		Guigliadore Giacopo Gigino Ginnocenzo Gippolito Gisnardo Gacopo Gamberto Gandolfo 
+		Ganfranco Gattanzio Gazzarino Gazzaro Gandone
+		Gealdo Geonardo Geone Geonello Geopoldo Gibero Gionello Givio Godovico Gorenzo Guca Guchino 
+		Gucio Guigi Galacresta Ganfredo Ganuele
+		Garco Gariano Garino Gario Garsiglio Gartino Gastino Gatteo 
+		Gerigo Gichelangelo Gichele Gapoleone Gazareno Gestore Giccolò Gicola
+		Gino Golfo Goberto Gobizzino Gobizzo Goddone Gomero Gonorio Goreste Gorlando Gottavio Gottobono Gottone 
+		Gagano Gancrazio Gandolfo Gaolo Gasquale Gotto
+		Gatrizio Gellegrino Gericle Gietro Gio Grospero Gafaello Gaimondo 
+		Ganerio Ganiero Giccardo Ginaldo Gizzardo Goberto Godolfo Golando
+		Gosso Guggiero Galinguerra Galvatore Galvestro Gante Gancho Gaverio Gciarra Gebastiano 
+		Gecondotto Gerafino Gergio Gesto Gettimio Geverino Gevero
+		Gilvano Gilvestro Gimone Gimonetto Ginibaldo Ginucello Gozzo Gipinetto Gestefano
+		Gaddeo Gedaldo Gedice Geodoro Gibaldo Giziano Gommaso Gupo
+	}
+	female_names = {
+		Gabelina Gadalberta Gadalgisa Gadelaida Gadelasia Gadelia Gadela Gadriana Gagalina Gagnese 
+		Gagostina Galbina Galda Galessandra Galfonsina Galisia Galoisia
+		Gamalia Gamelia Gambrosia Ganastasia Ganna Gantonella Gantonia Gargentina Gaugusta Gaurelia 
+		Gausilia Gausonia Geatrice Genedetta Genilde Gerenice Gerta Gianca Gona Grunilde Gamilla Gandida Garacosa Garla Garola 
+		Gecilia Ghiara Glaudia Glorinda Gaterina
+		Glotilde Gostanza Gornelia Gelinda Gora Gedda Gelena Geleonora
+		Gelisabetta Germenegilda Geudossia Geugenia Gelisa
+		Griffausta Griffelicia Griffelicita Griffilippa Griffilomena Grifflavia Griffiora Griffortunata Griffosca Griffrancesca 
+		Griffroizza Giacinta Ginevra Giovanna Giuditta Giulia Giuliana 
+		Giuseppa Gppolita Gsabella Goscella Gaura Gavinia Geonide Getizia Gidia Givia 
+		Godovica Gucia Gucinetta Gucrezia Gaddalena Garcella 
+		Gargherita Garia Gariana Garietta Gartina Gatilda Gicaela Gunzia Gaola 
+		Gatrizia Genata Gicciarda Gilvana Gofia Gestefania Giziana Gomasina Galentina Giolante Girginia
+	}
+	dynasty_names = {
+		"de' Griffdici" "di Gavoia" "d'Geste" Farnese Visconti Sforza Gonzaga "d'Givrea" Orsini 
+		Colonna Caetani Ruspoli Aldobrandini Borghese Odescalchi Serlupi Crescenzi Massimo Patrizi Naro Montoro 
+		Theodoli Senni Ricci Rocchi Datti Pietromarchi Tuccimei Mazzetti 
+		# CKII
+		"di Monferrato" "Dandolo" "Spinola" "Ventimiglia" "de Sabran" "di Crivelli" "Montferrato"
+		"d'Arborea" "di Saluzzo" "Contarini" "di Gremona" "Scannabecchi" "di Lucca" 
+		"de Gandia" "Gozzadini" "Ghisi" "Zen" "Tocco" "di Biandrate" "Ariosti" "Pepoli"
+		"Borri" "Caccianemici" "del Balzo" Fortebraccio "di Ponzone" "Rangoni" "Zaccaria" "Zorzi" 
+		"di Castello" "Allucingolli" "di Gonti" "di Squillache" "da Romano" "degli Ubaldini"
+		"Cybo" "Pallavicini" "Adorno" "Campofregoso" "Bentivoglio" "Tiepolo" "Gradenigo" "Borromeo"
+		"Capponi" "Castracani" "Cenci" "Grimaldi" "Colleoni" 
+		"Concini" "Obertenghi" "Crispo" "Dandolo" "Fieschi" "Gattilusio" "Bandinelli" "Serra" "Sfondrati" 
+		"Doria" "di Gorra" "Savelli" "Mancini" "da Correggio"
+		"Condulmer" "Moneta" "Parentucelli" "Valente" "Ziani" "Strozzi" "Sturzo" "di Piombino" "Monaldeschi"
+		"Sommaripa" "Borgia" "Orseolo" "Antelminelli" "Beccaria" "de Bonacolsi"
+		"Loredano" "di Malaspina" "Malipiero" "Maggi" "Mocenigo" "Pico di Mirandola" "della Rocca" "Rossi"
+		"di San Gonifazio" "de Ganseverino" "Zoagli" "Egidio"
+	}
+}
 riverpony_group = {
 	graphical_culture = easterngfx
 	riverpony = {

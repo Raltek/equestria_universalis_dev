@@ -1,0 +1,3 @@
+# No previous file for Oriente
+culture = karthinian
+religion = archonate
