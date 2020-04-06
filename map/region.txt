@@ -320,6 +320,7 @@ pingland_region = {
 		hillyhills_area
 		rudeigin_a_tha_sin_area
 		weidadehudedaier_area
+		fearann_a_deas_area
 	}
 }
 ########################################

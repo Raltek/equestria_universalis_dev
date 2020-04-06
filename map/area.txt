@@ -1172,7 +1172,7 @@ oreino_tropo_area {
 ########################################
 
 pinguin_land_area {
-	370 1003 1004 2590
+	370 1003 1004 2590 2604
 }
 
 dachaigh_area {
@@ -1180,7 +1180,7 @@ dachaigh_area {
 }
 
 chimincollie_area {
-	998 1002 2559 2580 2581	
+	998 1002 2580 2581	
 }
 
 frozen_north_area {
@@ -1197,6 +1197,10 @@ rudeigin_a_tha_sin_area {
 
 weidadehudedaier_area {
 	971 2565 2566 2567 2570 
+}
+
+fearann_a_deas_area {
+	909 912 2559
 }
 ########################################
 # Iberia					 		   #
@@ -3221,7 +3225,7 @@ lake_superior_area = { #4
 }
 
 wisconsin_area = { #3
-	912 913 914
+	 913 914
 }
 
 lower_louisiana_area = { # 3
@@ -3249,7 +3253,7 @@ high_plains_area = { #5
 }
 
 dakota_area = { #5
-    905 906 907 909 2007
+    905 906 907  2007
 }
 
 south_dakota_area = { #3
@@ -3293,7 +3297,7 @@ salish_sea_area = { #3
 }
 
 interior_plateau_area = { #4
-    2003 2604 2605 2606 2607
+    2003  2605 2606 2607
 }
 
 hecate_strait_area = { #3
