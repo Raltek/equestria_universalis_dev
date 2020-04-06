@@ -1045,7 +1045,7 @@ cross_island_area {
 	4552 2755 207 208
 }
 
-new_griffish_area {
+new_south_bales_area {
 	4384 172 171 170 169
 }
 

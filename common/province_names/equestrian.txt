@@ -1,0 +1,24 @@
+#New Mareland
+214 = "Sunset" # Sunset
+171 = "New Mantehatten" # New Mantehatten
+4560 = "Hoovesplain" # Hoovesplain
+2990 = "Trartalon" # Trartalon
+333 = "Applelaide" # Applelaide
+220 = "New Ponyland" # New Ponyland
+4549 = "Manebourne" # Manebourne
+210 = "Celestia" # Celestia
+4550 = "Stratus Springs" # Stratus Springs
+4559 = "Buckeelong" # Buckeelong
+2989 = "Coltberley" # Coltberley
+1746 = "Colton" # Colton
+211 = "Harvi" # Harvi
+4557 = "New Hoofington" # New Hoofington
+2751 = "Manesbury" # Manesbury
+172 = "New Freeside" # New Freeside
+4384 = "Camarea" # Camarea
+169 = "Port Maneball" # Port Maneball
+170 = "Bucksbane" # Bucksbane
+4552 = "Starfall" # Starfall
+2755 = "Yawing" # Eastern Cross
+207 = "Southern Cross" # Southern Cross
+208 = "Grifflong" # Western Cross
