@@ -1,0 +1,16 @@
+#New Mareland
+214 = "Savona" # Sunset
+171 = "Napoli" # New Mantehatten
+4560 = "Transflumenia" 
+2990 = "Talonrabi" # Stratus Springs
+333 = "Muggia"
+220 = "Kanin"
+4549 = "Rovereto"
+210 = "Punto Bianco" # Celestia
+4550 = "Terra Selvaggia" # The Outback
+4559 = "Talontona"
+2989 = "Altopawscio"
+1746 = "Manezzanta"
+211 = "Corneto"
+4557 = "Cerveteri"
+2751 = "Leonessa"
