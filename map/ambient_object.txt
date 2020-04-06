@@ -2271,21 +2271,6 @@ type={
 	}
 }
 type={
-	type="frame_top_center_entity"
-	use_animation=no
-	always_visible=no
-	object={
-		name="frame_top_left_entity05"
-		hidden_on_start=no
-		position={
-			1948.000 18.000 2046.000 
-		}
-		rotation={
-			0.000 0.000 0.000 
-		}
-	}
-}
-type={
 	type="nammi_angkor_wat_entity"
 	use_animation=no
 	scale=0.570000
