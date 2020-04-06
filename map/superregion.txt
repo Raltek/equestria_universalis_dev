@@ -8,9 +8,9 @@ northern_griffonia_superregion = {
 	northern_coast_region
 	hill_ponies_region
 	verenia_region
-	aquileia_region
 	western_riverlands_region
 	eastern_riverlands_region
+	periphery_region
 }
 
 southern_griffonia_superregion = {
@@ -20,7 +20,7 @@ southern_griffonia_superregion = {
 	karthinnia_region
 	transfolinia_region
 	southern_riverlands_region
-	periphery_region
+	aquileia_region
 }
 
 india_superregion = {
