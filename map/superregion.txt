@@ -23,6 +23,14 @@ southern_griffonia_superregion = {
 	aquileia_region
 }
 
+northern_equus_superregion = {
+	pingland_region
+}
+
+southern_equus_superregion = {
+	
+}
+
 india_superregion = {
 	bengal_region
 	hindusthan_region

@@ -310,6 +310,18 @@ eastern_riverlands_region = {
 		oreino_tropo_area
 	}
 }
+
+pingland_region = {
+	areas = {
+		pinguin_land_area
+		dachaigh_area
+		chimincollie_area
+		frozen_north_area
+		hillyhills_area
+		rudeigin_a_tha_sin_area
+		weidadehudedaier_area
+	}
+}
 ########################################
 # OBSOLEAT                             #
 ########################################
