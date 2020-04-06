@@ -1,6 +1,6 @@
 #New Mareland
 214 = "Sunset" # Sunset
-171 = "New Mantehatten" # New Mantehatten
+171 = "New Manehatten" # New Manehatten
 4560 = "Hoovesplain" # Hoovesplain
 2990 = "Trartalon" # Trartalon
 333 = "Applelaide" # Applelaide
