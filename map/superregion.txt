@@ -25,6 +25,9 @@ southern_griffonia_superregion = {
 
 northern_equus_superregion = {
 	pingland_region
+	yakyakistan_region
+	rocky_coast_region
+	severyana_region
 }
 
 southern_equus_superregion = {

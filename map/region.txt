@@ -317,10 +317,57 @@ pingland_region = {
 		dachaigh_area
 		chimincollie_area
 		frozen_north_area
+		fearann_a_deas_area
+		wesslandia_area
+	}
+}
+
+yakyakistan_region = {
+	areas = {
+		yakiborder_area
+		vot_area
+		kluv_valley_area
+		manai_gazar_area
+		rose_forest_area
+		saihan_tolgot_area
+		shidetgasar_area
+		khereh_davsag_area
+		yakistan_valley_area
+		yaket_range_area
+		huuramch_oi_area
+	}
+}
+
+rocky_coast_region = {
+	areas = {
 		hillyhills_area
 		rudeigin_a_tha_sin_area
 		weidadehudedaier_area
-		fearann_a_deas_area
+		weter_area
+		broken_skull_area
+		beak_area
+		bjornholm_area
+		lammia_area
+		snowy_land_area
+	}
+}
+
+severyana_region = {
+	areas= {
+		sovenok_area
+		princessyn_area
+		krasivsk_area
+		saint_petershoof_area
+		trottingham_area
+		marshmallow_area
+		severokholm_area
+		hoofbeat_krai_area
+		mirage_area
+		redheart_area
+		kobilkyno_area
+		malinovka_area
+		baicall_area
+
 	}
 }
 ########################################
