@@ -1,5 +1,5 @@
 
-culture = flowenois
+culture = aquilan
 religion = archonate
 hre = no
 base_tax = 2

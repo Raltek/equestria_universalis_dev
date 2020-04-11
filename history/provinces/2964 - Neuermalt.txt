@@ -1,5 +1,5 @@
 
-culture = featherisian
+culture = westrienne
 religion = archonate
 hre = no
 base_tax = 1
