@@ -264,7 +264,7 @@ wingbardian = {
 	graphical_culture = westerngfx
 
 	karthinian = {
-		#primary = WNG
+		primary = WNG
 	}
 	taloncan = {
 	}
@@ -275,7 +275,7 @@ wingbardian = {
 	facoceroian = {
 	}
 	falcorian = {
-		#primary = FAL
+		primary = FAL
 	}
 	mattonian = {
 	}

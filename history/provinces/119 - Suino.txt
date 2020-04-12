@@ -1,3 +1,11 @@
-# No previous file for Suino
+owner = WNG
+controller = WNG
+add_core = WNG
 culture = facoceroian
 religion = archonate
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes

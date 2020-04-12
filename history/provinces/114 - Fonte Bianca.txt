@@ -1,3 +1,11 @@
-# No previous file for Fonte Bianca
+owner = FAL
+controller = FAL
+add_core = FAL
 culture = falcorian
 religion = archonate
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes

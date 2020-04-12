@@ -1,3 +1,13 @@
-# No previous file for Bloodtalon
+owner = WNG
+controller = WNG
+add_core = WNG
 culture = facoceroian
 religion = archonate
+
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+trade_goods = tropical_wood

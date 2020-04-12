@@ -1,3 +1,11 @@
-# No previous file for Galinoa
+owner = WNG
+controller = WNG
+add_core = WNG
 culture = karthinian
 religion = archonate
+
+hre = no
+base_tax = 5
+base_production = 4
+base_manpower = 3
+is_city = yes

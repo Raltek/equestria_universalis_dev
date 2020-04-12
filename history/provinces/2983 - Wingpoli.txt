@@ -1,3 +1,11 @@
-# No previous file for Wingpoli
+owner = WNG
+controller = WNG
+add_core = WNG
 culture = karthinian
 religion = archonate
+
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 4
+is_city = yes

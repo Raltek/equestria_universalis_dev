@@ -1,3 +1,17 @@
-# No previous file for Karthin
+owner = WNG
+controller = WNG
+add_core = WNG
 culture = karthinian
 religion = archonate
+
+hre = no
+base_tax = 10 
+base_production = 10
+base_manpower = 8
+is_city = yes
+
+trade_goods = paper
+
+fort_15th = yes
+
+center_of_trade = 1

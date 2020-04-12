@@ -1,3 +1,13 @@
-# No previous file for Sudfolc
+owner = FAL
+controller = FAL
+add_core = FAL
 culture = fiumeian
 religion = archonate
+
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 4
+is_city = yes
+
+fort_15th = yes

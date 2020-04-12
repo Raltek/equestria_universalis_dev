@@ -1,3 +1,13 @@
-# No previous file for Talcara
+owner = WNG
+controller = WNG
+add_core = WNG
 culture = karthinian
 religion = archonate
+
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+fort_15th = yes

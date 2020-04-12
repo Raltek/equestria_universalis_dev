@@ -1,3 +1,11 @@
-# No previous file for Terra Cava
+owner = WNG
+controller = WNG
+add_core = WNG
 culture = taloncan
 religion = archonate
+
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes

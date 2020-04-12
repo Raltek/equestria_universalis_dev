@@ -1,3 +1,9 @@
 # No previous file for Azzuro Novo
 culture = worbertian
 religion = archonate
+
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes

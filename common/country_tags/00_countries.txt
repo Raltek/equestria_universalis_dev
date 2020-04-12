@@ -68,3 +68,7 @@ RCT = "countries/RiverCity.txt"
 LCT = "countries/LakeCity.txt"
 NIM = "countries/Nimbusia.txt"
 DMT = "countries/DiamondMountain.txt"
+
+# Wingbardy
+WNG = "countries/Wingbardy.txt"
+FAL = "countries/Falcor.txt"
