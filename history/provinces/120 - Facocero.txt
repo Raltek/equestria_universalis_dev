@@ -11,3 +11,5 @@ base_manpower = 1
 is_city = yes
 
 trade_goods = tropical_wood
+
+discovered_by = western

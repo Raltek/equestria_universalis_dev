@@ -9,3 +9,5 @@ base_tax = 7
 base_production = 7
 base_manpower = 6
 is_city = yes
+
+discovered_by = western
