@@ -1,0 +1,2 @@
+# No previous file for Segursland
+center_of_trade = 1

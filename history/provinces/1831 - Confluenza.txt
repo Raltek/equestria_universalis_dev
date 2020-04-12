@@ -1,0 +1,2 @@
+# No previous file for Confluenza
+center_of_trade = 1

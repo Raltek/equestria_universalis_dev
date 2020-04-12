@@ -1,0 +1,2 @@
+# No previous file for Minos
+center_of_trade = 1

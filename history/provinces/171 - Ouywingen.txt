@@ -1,2 +1,4 @@
 culture = aboriginal
 religion = old_believer
+
+center_of_trade = 1

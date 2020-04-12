@@ -1,0 +1,2 @@
+# No previous file for Eyrie
+center_of_trade = 1

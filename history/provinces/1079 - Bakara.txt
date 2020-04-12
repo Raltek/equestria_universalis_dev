@@ -1,0 +1,2 @@
+# No previous file for Bakara
+center_of_trade = 1
