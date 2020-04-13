@@ -31,7 +31,7 @@ northern_equus_superregion = {
 }
 
 southern_equus_superregion = {
-	
+	manehattan_region
 }
 
 india_superregion = {

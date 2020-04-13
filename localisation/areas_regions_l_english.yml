@@ -828,6 +828,29 @@
  baicall_area_name:0 "Baicall"
  baicall_area_adj:0 "Baicallian"
 
+ #Manehattan Area
+ quiet_expanse_area:0 "Quiet Expanse"
+ quiet_expanse_area_name:0 "Quiet Expanse"
+ quiet_expanse_area_adj:0 "Quiet Expandrian"
+ loupia_area:0 "Loupia"
+ loupia_area_name:0 "Loupia"
+ loupia_area_adj:0 "Loupien"
+ manehattan_area:0 "Manehattan"
+ manehattan_area_name:0 "Manehattan"
+ manehattan_area_adj:0 "Manehattanite"
+ freeside_area:0 "Freeside"
+ freeside_area_name:0 "Freeside"
+ freeside_area_adj:0 "Freesider"
+ mareland_area:0 "Mareland"
+ mareland_area_name:0 "Mareland"
+ mareland_area_adj:0 "Marelander"
+ kemono_fields_area:0 "Kemono Fields"
+ kemono_fields_area_name:0 "Kemono Fields"
+ kemono_fields_area_adj:0 "Kemonoan"
+ tricorn_area:0 "Tricorn"
+ tricorn_area_name:0 "Tricorn"
+ tricorn_area_adj:0 "Tricorner"
+
  equus:0 "Equus"
  equus_adj:0 "Equine"
  northern_equus_superregion:0 "Northern Equus"
@@ -848,6 +871,9 @@
  severyana_region:0 "Severyana"
  severyana_region_name:0 "Severyana"
  severyana_region_adj:0 "Severyanan"
+ manehattan_region:0 "Manehattan"
+ manehattan_region_name:0 "Manehattan"
+ manehattan_region_adj:0 "Manehattanite"
 
 
  

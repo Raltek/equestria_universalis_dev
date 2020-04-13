@@ -1336,6 +1336,37 @@ malinovka_area {
 baicall_area {
 	915 2519 2525 2526 2544
 }
+
+########################################
+# Manehattan					 	   #
+########################################
+quiet_expanse_area {
+	957 2548 2557
+}
+
+loupia_area {
+	891 897 941 954 2514
+}
+
+manehattan_area {
+	898 2509 2515 2547
+}
+
+freeside_area {
+	899 902 2672 
+}
+
+mareland_area {
+	905 919 938 2531 
+}
+
+kemono_fields_area {
+	481 936 2523
+}
+
+tricorn_area {
+	940 2508 2524
+}
 ########################################
 # Iberia					 		   #
 ########################################
@@ -3229,20 +3260,12 @@ potosi_area = { #4
 # North America    	                   #
 ########################################
 
-delaware_valley_area = { #5
-      957  
-}
-
-susquehanna_area = { #4
-    954   2557
-}
-
 piedmont_north_america_area = { #3
       2545
 }
 
 carolinas_area = { #3
-    938 2546 2547
+     2546 
 }
 
 south_carolina_area = { #5
@@ -3266,7 +3289,7 @@ north_florida_area = { #5
 }
 
 south_appalachia_area = { #3
-	935 936 2548
+	935  
 }
 
 west_florida_area = { #5
@@ -3274,7 +3297,7 @@ west_florida_area = { #5
 }
 
 mississippi_area = { #4
-    919 920 2528 2529
+     920 2528 2529
 }
 
 choctaw_area = { #3
@@ -3283,15 +3306,11 @@ choctaw_area = { #3
 }
 
 alabama_area = { #4
-    924 925 2531 2532
+    924 925  2532
 }
 
 kentucky_area = { #3
-    939 940 941
-}
-
-miami_river_area = { #4
-	 2523 2524
+    939  
 }
 
 illinois_country_area = { #4
@@ -3299,7 +3318,7 @@ illinois_country_area = { #4
 }
 
 mississippi_plain_area = { #3
-	894 895 897
+	894 895 
 }
 
 wisconsin_area = { #3
@@ -3311,19 +3330,15 @@ lower_louisiana_area = { # 3
 }
 
 upper_louisiana_area = { #4
-    900 902 2513 2514
-}
-
-ozarks_area = { #3
-    899 2509 2515
+    900  2513 
 }
 
 lower_plains_area = { #3
-	891 892 896
+	 892 896
 }
 
 central_plains_area = { #5
-    898 901 903 2508 2672 
+     901 903   
 }
 
 high_plains_area = { #5
@@ -3331,7 +3346,7 @@ high_plains_area = { #5
 }
 
 dakota_area = { #5
-    905  907  2007
+      907  2007
 }
 
 south_dakota_area = { #3
@@ -3535,7 +3550,7 @@ campeche_area = { #3
 }
 
 guatemala_area = { #4
-   839 841 2653 4587
+   839  2653 4587
 }
 
 guatemala_lowlands_area = { #5
@@ -3575,7 +3590,7 @@ dominica_area = { #5
 }
 
 greater_antilles_area = { #4
-    487 481 491 492
+    487  491 492
 }
 
 lucayan_area = { #2

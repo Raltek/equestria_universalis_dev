@@ -370,6 +370,18 @@ severyana_region = {
 
 	}
 }
+
+manehattan_region = {
+	areas = {
+		quiet_expanse_area
+		loupia_area
+		manehattan_area
+		freeside_area
+		mareland_area
+		kemono_fields_area
+		tricorn_area
+	}
+}
 ########################################
 # OBSOLEAT                             #
 ########################################
