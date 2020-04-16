@@ -380,6 +380,30 @@ manehattan_region = {
 		mareland_area
 		kemono_fields_area
 		tricorn_area
+		april_grove_area
+		fillydelphia_area
+		divine_area
+		amethyst_basin_area
+	}
+}
+
+aztlan_region = {
+	areas = {
+		mango_area
+		lesie_area
+		duskway_area
+		zazquiyahuitl_area
+		iztail_coast_area
+		tenochtitlan_area
+		tonaltzintli_area
+		east_yucoltan_area
+		ayacachtli_area
+		chilchotl_area
+		west_yucoltan_area
+		chinamitl_area
+		stableside_area
+		forest_of_mosquitoes_area
+		warm_water_way_area
 	}
 }
 ########################################

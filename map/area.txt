@@ -1338,7 +1338,7 @@ baicall_area {
 }
 
 ########################################
-# Manehattan					 	   #
+# Equestrian East Coast				   #
 ########################################
 quiet_expanse_area {
 	957 2548 2557
@@ -1357,7 +1357,7 @@ freeside_area {
 }
 
 mareland_area {
-	905 919 938 2531 
+	905 919 938 2531 2543
 }
 
 kemono_fields_area {
@@ -1367,15 +1367,89 @@ kemono_fields_area {
 tricorn_area {
 	940 2508 2524
 }
+
+april_grove_area {
+	901 933 2019 2545 
+}
+
+fillydelphia_area {
+	890 932 2490 2546 
+}
+
+divine_area {
+	931 2489 2501 2540 
+}
+
+amethyst_basin_area {
+	2020 2529 2542
+}
+
+########################################
+# Aztlan			   				   #
+########################################
+
+mango_area {
+	878 2494 4631 4632 
+}
+
+lesie_area {
+	889 895 2496 4649
+}
+
+duskway_area {
+	367 885 892 2528 
+}
+
+zazquiyahuitl_area {
+	848 2539 2644 4583 4598
+}
+
+iztail_coast_area {
+	850 930 2538 2643 4575 
+}
+
+tenochtitlan_area {
+	852 924 2623 2624 4574 
+}
+
+tonaltzintli_area {
+	880 2532 2647 4579 
+}
+
+east_yucoltan_area {
+	925 2627 2628 2648 4570 4578 
+}
+
+ayacachtli_area {
+	2622 2626 2669 4573 
+}
+
+chilchotl_area {
+	927 2014 2534 
+}
+
+west_yucoltan_area {
+	2537 4582 4625	
+}
+
+chinamitl_area {
+	854 886 920 921 2621 
+}
+
+stableside_area {
+	883 928 2516 2533 4580 
+}
+
+warm_water_way_area {
+	922 923 2500 2530 2657 4576 
+}
+
+forest_of_mosquitoes_area {
+	893 2646 4581
+}
 ########################################
 # Iberia					 		   #
 ########################################
-
-aragon_area = { #4
-}
-
-valencia_area = { #5
-}
 
 lower_andalucia_area = { #5
 	 225 1748 1749 4548
@@ -1411,7 +1485,7 @@ alentejo_area = { #4
 }
 
 macaronesia_area = { #3
-	366 367 368 4565
+	366  368 4565
 }
 
 ########################################
@@ -2572,7 +2646,7 @@ luzon_area = { #4 (Northern Luzon)
 }
 
 southern_luzon_area = { #5
-	656 2697 2699 4349 4350
+	656 2697  4349 4350
 }
 
 north_sumatra_area = { #3
@@ -3260,53 +3334,25 @@ potosi_area = { #4
 # North America    	                   #
 ########################################
 
-piedmont_north_america_area = { #3
-      2545
-}
-
-carolinas_area = { #3
-     2546 
-}
-
 south_carolina_area = { #5
-	932 933 2541 2542 2543
+	  2541  
 }
 
 american_georgia_area = { #3
-    929 2539 2540
-}
-
-upper_american_georgia_area = { #3
-	930 931 2537 2538
+    929 	 
 }
 
 florida_area = { #3
-    926 2535 2536 4626 4625
-}
-
-north_florida_area = { #5
-	927 928 2534
+    926 2535 2536 4626 
 }
 
 south_appalachia_area = { #3
 	935  
 }
 
-west_florida_area = { #5
-    921 922 923 2530 2533
-}
-
-mississippi_area = { #4
-     920 2528 2529
-}
-
 choctaw_area = { #3
     918 934 2527
 
-}
-
-alabama_area = { #4
-    924 925  2532
 }
 
 kentucky_area = { #3
@@ -3318,15 +3364,11 @@ illinois_country_area = { #4
 }
 
 mississippi_plain_area = { #3
-	894 895 
+	894  
 }
 
 wisconsin_area = { #3
 	 913 914
-}
-
-lower_louisiana_area = { # 3
-    893 2014 2516
 }
 
 upper_louisiana_area = { #4
@@ -3334,15 +3376,15 @@ upper_louisiana_area = { #4
 }
 
 lower_plains_area = { #3
-	 892 896
+	  896
 }
 
 central_plains_area = { #5
-     901 903   
+      903   
 }
 
 high_plains_area = { #5
-    889 890 2506 2507 2625
+      2506 2507 2625
 }
 
 dakota_area = { #5
@@ -3354,23 +3396,23 @@ south_dakota_area = { #3
 }
 
 upper_missouri_area = { #5
-    2006 2501 2502  2510
+    2006  2502  2510
 }
 
 badlands_area = { #5
-    1809  2009 2504 2505
+    1809   2504 2505
 }
 
 llano_estacado_area = { #5
-	882 885 2496 2497 4630
+	882   2497 
 }
 
 texas_area = { #4
-    884 887 888 2665 2669
+    884 887 888 2665 2699
 }
 
 coastal_prarie_area = { #4
-	883 886 2500 4627
+	   4627
 }
 
 oregon_area = { #4
@@ -3379,10 +3421,6 @@ oregon_area = { #4
 
 columbia_river_area = { #4
     873 2486 2487 2488
-}
-
-snake_river_area = { #4
-    2019 2020 2489 2490
 }
 
 salish_sea_area = { #3
@@ -3405,15 +3443,8 @@ east_alaska_area = { #3
     976 977 2613
 }
 
-lower_acadia_area = { #5
-       2568 
-}
-
 straits_of_georgia_area = { #4
    972 973 974 2610
-}
-upper_acadia_area = { #4
-     2571 
 }
 
 james_bay_area = { #5
@@ -3442,11 +3473,11 @@ rio_grande_area = { # 4
 }
 
 sonora_area = { #5
-    862 2616 4649 4650 4577
+    862 2616  4650 4577
 }
 
 new_mexico_area = { #5
-    880 881 2495 4631 4632
+     881 2495 
 }
 
 apacheria_area = { #3
@@ -3454,7 +3485,7 @@ apacheria_area = { #3
 }
 
 colorado_plateau_area = { #4
-    875 878 2493 2494
+    875  2493 
 }
 
 arizona_area = { #5
@@ -3478,19 +3509,15 @@ baja_california_area = { #4
 }
 
 jalisco_area = { #5
-    2617 2621 2657 4576 854
+    2617    
 }
 
 nayarit_area = { #4
-    855 859 4578
-}
-
-michoacan_area = { #5
-    2622 2623 2624 4573 4574
+    855 859 
 }
 
 tierra_caliente_area = { #5
-    851 2643 4575 4579 4580
+    851    
 }
 
 gran_chichimeca_area = { #3 
@@ -3506,15 +3533,11 @@ zacatecas_area = { #4
 }
 
 mexico_area = { #5
-    852 2626 4570 4571 4572
-}
-
-puebla_area = { # 5
-    850 2628 2644 4583 4582
+       4571 
 }
 
 guerrero_area = { #3
-    2627 2645 2648
+     2645 
 }
 
 oaxaca_area = { #3
@@ -3522,15 +3545,15 @@ oaxaca_area = { #3
 }
 
 mixteca_area = { #4
-    847 849 2646 4581
+    847 849  
 }
 
 eastern_mexico_area = { #5
-    2630 2631 2647
+    2630 2631 
 }
 
 huasteca_area = {
-    848 2641 4598
+     2641 
 }
 
 chiapas_area = { #4
