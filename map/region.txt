@@ -406,6 +406,25 @@ aztlan_region = {
 		warm_water_way_area
 	}
 }
+
+coltlumbia_region = {
+	areas = {
+		hoof_city_area
+		dodge_junction_area
+		great_minefields_area
+		coast_of_sorrow_area
+		south_trotsas_area
+		central_trotsas_area
+		north_trotsas_area
+		wigwamia_area
+		appleoosa_area
+		aetherlands_area
+		las_pegasus_area
+		rockville_area
+		neighvada_area
+		carrottop_area
+	}
+}
 ########################################
 # OBSOLEAT                             #
 ########################################

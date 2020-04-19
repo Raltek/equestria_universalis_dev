@@ -33,6 +33,7 @@ northern_equus_superregion = {
 southern_equus_superregion = {
 	manehattan_region
 	aztlan_region
+	coltlumbia_region
 }
 
 india_superregion = {
