@@ -1506,6 +1506,109 @@ carrottop_area {
 neighvada_area {
 	853 4606 4634 4650
 }
+
+########################################
+# Inner Equestria			 		   #
+########################################
+
+meadowlands_area {
+	875 973 2495 2606
+}
+
+canterlot_area {
+	1809 2504 2505 2625 
+}
+
+deepfall_forest_area {
+	896 900 914 2520
+}
+
+hollow_shades_area {
+	894 934 935 
+}
+
+bales_area {
+	907 2483 2541 4626
+}
+
+manesbury_area {
+	913 916 917 918 939 
+}
+
+twin_cities_area {
+	903 2493 2513 
+}
+
+canterian_vale_area {
+	2003 2006 2488 2527
+}
+
+little_pony_dale_area {
+	870 874 2535 2607 
+}
+
+oleander_valley_area {
+	929 972 2487 2507 2610 2617 
+}
+
+eastmere_area {
+	859 866 2620 
+}
+
+########################################
+# Western Equestria			 		   #
+########################################
+westwood_area {
+	855 926 2641 4642
+}
+
+lake_mead_area {
+	868 2021 2479 4640
+}
+
+coltfoalnia_area {
+	974 975 2485 4572 
+}
+
+tall_tales_area {
+	2022 2484 2609  
+}
+
+cape_acadia_area {
+	844 976 978 4584 
+}
+
+fairflanks_area {
+	2611 2629 2630 
+}
+
+acornage_area {
+	849 2635 2649
+}
+
+featherfall_area {
+	2631 2632 2650 4585
+}
+
+unicorn_range_area {
+	977 2477 2480 2613 4637 
+}
+
+westmere_area {
+	865 2478 2482 4638
+}
+
+twisted_tail_valley_area {
+	869 873 2476 4636 4639 
+}
+
+galloping_gorge_area {
+	871 872 2481
+}
+
+yeahcon_area {
+	482 847 979 2612 
+}
 ########################################
 # Iberia					 		   #
 ########################################
@@ -2059,7 +2162,7 @@ murray_river_area = { #5
 }
 
 northern_polynesia_area = { #3
-	979 1240 1997
+	 1240 1997
 }
 
 eastern_polynesia_area = { #3
@@ -2871,7 +2974,7 @@ kamchatka_area = { #5
 }
 
 kolyma_area = { #5
-	1036 1037 1039 1040 2439 4572
+	1036 1037 1039 1040 2439 
 }
 
 okhotsk_area = { #4
@@ -3393,61 +3496,8 @@ potosi_area = { #4
 # North America    	                   #
 ########################################
 
-south_carolina_area = { #5
-	  2541  
-}
-
-american_georgia_area = { #3
-    929 	 
-}
-
-florida_area = { #3
-    926 2535 2536 4626 
-}
-
-south_appalachia_area = { #3
-	935  
-}
-
-choctaw_area = { #3
-    918 934 2527
-
-}
-
-kentucky_area = { #3
-    939  
-}
-
-illinois_country_area = { #4
-     916 917  2520
-}
-
-mississippi_plain_area = { #3
-	894  
-}
-
-wisconsin_area = { #3
-	 913 914
-}
-
-upper_louisiana_area = { #4
-    900  2513 
-}
-
-lower_plains_area = { #3
-	  896
-}
-
-central_plains_area = { #5
-      903   
-}
-
-high_plains_area = { #5
-      2506 2507 2625
-}
-
 dakota_area = { #5
-      907  2007
+        2007
 }
 
 south_dakota_area = { #3
@@ -3455,115 +3505,23 @@ south_dakota_area = { #3
 }
 
 upper_missouri_area = { #5
-    2006  2502  2510
-}
-
-badlands_area = { #5
-    1809   2504 2505
+      2502  2510
 }
 
 texas_area = { #4
         2699
 }
 
-oregon_area = { #4
-    872 2481 2482 2483
-}
-
-columbia_river_area = { #4
-    873 2486 2487 2488
-}
-
-salish_sea_area = { #3
-   874 2484 2485
-}
-
-interior_plateau_area = { #4
-    2003   2606 2607
-}
-
-hecate_strait_area = { #3
-    975 2022 2609
-}
-
-alaska_area = {  #4
-    978 2611 2612
-}
-
-east_alaska_area = { #3
-    976 977 2613
-}
-
-straits_of_georgia_area = { #4
-   972 973 974 2610
-}
-
 james_bay_area = { #5
      999   
-}
-
-new_mexico_area = { #5
-      2495 
-}
-
-colorado_plateau_area = { #4
-    875  2493 
-}
-
-california_area = { #5
-    868 869 2021 2476 4637
-}
- 
-central_valley_area = { #4
-    870 2478  4636
-}
-
-northern_california_area = { #5
-    871 2477 2479 2480 4638
-}
-
-baja_california_area = { #4
-    865 866 2620 4639
-}
-
-jalisco_area = { #5
-    2617    
-}
-
-nayarit_area = { #4
-    855 859 
-}
-
-gran_chichimeca_area = { #3 
-     4642
-}
-
-guanajuato_area = { #3
-      4640
 }
 
 guerrero_area = { #3
      2645 
 }
 
-oaxaca_area = { #3
-    844 2629 4584
-}
-
-mixteca_area = { #4
-    847 849  
-}
-
-eastern_mexico_area = { #5
-    2630 2631 
-}
-
-huasteca_area = {
-     2641 
-}
-
 chiapas_area = { #4
-    2635 2638 2649 4585 4586
+     2638   4586
 }
 
 yucatan_area = { #5
@@ -3575,7 +3533,7 @@ east_yucatan_area = { #4
 }
 
 campeche_area = { #3
-    845 2632 2650 
+    845   
 }
 
 guatemala_area = { #4
@@ -3623,7 +3581,7 @@ greater_antilles_area = { #4
 }
 
 lucayan_area = { #2
-	482 483
+	 483
 }
 
 leeward_islands_area = { #5

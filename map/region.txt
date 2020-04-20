@@ -425,6 +425,40 @@ coltlumbia_region = {
 		carrottop_area
 	}
 }
+
+inner_equestria_region = {
+	areas = {
+		meadowlands_area
+		canterlot_area
+		deepfall_forest_area
+		hollow_shades_area
+		bales_area
+		manesbury_area
+		twin_cities_area
+		canterian_vale_area
+		little_pony_dale_area
+		oleander_valley_area
+		eastmere_area
+	}
+}
+
+western_equestria_region = {
+	areas = {
+		westwood_area
+		lake_mead_area
+		coltfoalnia_area
+		tall_tales_area
+		cape_acadia_area
+		fairflanks_area
+		acornage_area
+		featherfall_area
+		unicorn_range_area
+		westmere_area
+		twisted_tail_valley_area
+		galloping_gorge_area
+		yeahcon_area
+	}
+}
 ########################################
 # OBSOLEAT                             #
 ########################################
