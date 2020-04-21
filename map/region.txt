@@ -319,6 +319,9 @@ pingland_region = {
 		frozen_north_area
 		fearann_a_deas_area
 		wesslandia_area
+		mathair_fearrainn_area
+		eastern_key_lake_area
+		onlartir_area
 	}
 }
 
@@ -457,6 +460,23 @@ western_equestria_region = {
 		twisted_tail_valley_area
 		galloping_gorge_area
 		yeahcon_area
+	}
+}
+
+south_olenia_region = {
+	areas = {
+		muteflow_area
+		ostskog_area
+		vaverfront_area
+		sodra_stranden_area
+		manty_creek_area
+		northern_hjortland_area
+		central_hjortland_area
+		southern_hjortland_area
+		drowned_antler_area
+		cervus_area
+		summerside_bay_area
+		porola_area
 	}
 }
 ########################################

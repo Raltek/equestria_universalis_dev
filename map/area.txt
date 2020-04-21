@@ -1194,6 +1194,18 @@ fearann_a_deas_area {
 wesslandia_area {
 	2004 2008 2598 2602 2605 
 }
+
+mathair_fearrainn_area {
+	808 2502 2510 2841 
+}
+
+eastern_key_lake_area {
+	806 807 2889 
+}
+
+onlartir_area {
+	2007 2804 2830
+}
 ########################################
 # Yakyakistan					 	   #
 ########################################
@@ -1302,7 +1314,7 @@ sovenok_area {
 }
 
 trottingham_area {
-	944 965 2522 2561 
+	944 965 2522 2561 2854 2928
 }
 
 marshmallow_area {
@@ -1608,6 +1620,58 @@ galloping_gorge_area {
 
 yeahcon_area {
 	482 847 979 2612 
+}
+
+########################################
+# South Olenia					 	   #
+########################################
+
+muteflow_area {
+	842 2633 2638
+}
+
+ostskog_area {
+	846 4590 4591 
+}
+
+vaverfront_area {
+	845 2651 2652
+}
+
+sodra_stranden_area {
+	843 2634 4587 4588 4589
+}
+
+manty_creek_area {
+	841 2653 2837 4594
+}
+
+northern_hjortland_area {
+	2636 2637 2640 2662 
+}
+
+central_hjortland_area {
+	839 2658 2659 4620 
+}
+
+southern_hjortland_area {
+	490 840 4593 4621 
+}
+
+drowned_antler_area {
+	837 2661 2836 2883 4597
+}
+
+cervus_area {
+	828 836 2814 2817 4595 4601 
+}
+
+summerside_bay_area {
+	835 2819 2664 4599
+}
+
+porola_area {
+	829 2806 2818 4596 4614
 }
 ########################################
 # Iberia					 		   #
@@ -3313,7 +3377,7 @@ piaui_area = { #3
 }
 
 grao_para_area = { #4
-	748 2890 2928 2929 
+	748 2890 2929  
 }
 
 amapa_area = { #3
@@ -3321,11 +3385,11 @@ amapa_area = { #3
 }
 
 amazon_area = { #4
-	2889 2930 2933 2934
+	 2930 2933 2934
 }
 
 paraguay_area = { #5
-	775 776 799 2882 2883
+	775 776 799 2882 
 }
 
 patagonia_area  = { #3
@@ -3361,15 +3425,15 @@ misiones_area = { #5
 }
 
 tucuman_area  = { #3
-	791 2836 2842
+	791  2842
 }
 
 jujuy_area = { #3
-	794 2837 2839
+	794  2839
 }
 
 chaco_area  = { #4
-	790 2854 2878
+	790  2878
 }
 
 banda_oriental_area = { #5
@@ -3385,7 +3449,7 @@ suriname_area = { #3
 }
 
 upper_guyana_area = { #5
-	742 2804 2811 4617
+	742  2811 4617
 }
 
 quito_area = { #5
@@ -3409,11 +3473,11 @@ eastern_llanos = { #4
 }
 
 western_llanos = { #4
-	2812 2814 2815 4608
+	2812  2815 4608
 }
 
 central_llanos_area = {
-	834 2810 2813 4613 4614
+	834 2810 2813 4613 
 }
 
 bogota_area = { #4
@@ -3421,7 +3485,7 @@ bogota_area = { #4
 }
 
 popayan_area = { #4	
-	823 826 2818 4596 4604
+	823 826   4604
 }
 
 colombian_amazonas_area = { #3
@@ -3429,15 +3493,11 @@ colombian_amazonas_area = { #3
 }
 
 cordillera_occidental_area = { #5
-	824 827 2817 4600 4607
-}
-
-coquivacoa_area = { #5
-	828 829 2806 4599 4601
+	824 827  4600 4607
 }
 
 northern_chile_area = { #5
-	792 793 796 2840 2841
+	792 793 796 2840 
 }
 
 central_chile_area = { #3
@@ -3453,11 +3513,11 @@ antisuyu_area = { #4
 }
 
 kuntisuyu_area = { #4
-	807 808 2829 2830
+	  2829 
 }
 
 peruan_coast = { #3
-	805 806 2828
+	805  2828
 }
 
 chimor_area = { #5
@@ -3496,16 +3556,8 @@ potosi_area = { #4
 # North America    	                   #
 ########################################
 
-dakota_area = { #5
-        2007
-}
-
 south_dakota_area = { #3
 	 908 2512
-}
-
-upper_missouri_area = { #5
-      2502  2510
 }
 
 texas_area = { #4
@@ -3521,43 +3573,15 @@ guerrero_area = { #3
 }
 
 chiapas_area = { #4
-     2638   4586
-}
-
-yucatan_area = { #5
-    846 2633 2651 4590
-}
-
-east_yucatan_area = { #4
-    2634 2652 4588 4591
-}
-
-campeche_area = { #3
-    845   
-}
-
-guatemala_area = { #4
-   839  2653 4587
-}
-
-guatemala_lowlands_area = { #5
-    842 843 2636 4589 4594
-}
-
-honduras_area = { #4
-    840 2637 2640 2662 4593
+        4586
 }
 
 nicaragua_area = { #5
-    837 838 2660 2661 4592
+     838 2660  4592
 }
 
 costa_rica_area = { #3
-    2663 836 4597
-}
-
-panama_area = { #5
-    835 2664 2819 4595
+    2663  
 }
 
 cuba_area = { #5
@@ -3570,10 +3594,6 @@ east_cuba_area = { #3
 
 hispaniola_area = { #4
     488 489 4618 4619
-}
-
-dominica_area = { #5
-   490 2658 2659 4620 4621
 }
 
 greater_antilles_area = { #4
