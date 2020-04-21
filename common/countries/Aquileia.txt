@@ -1,0 +1,75 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 152 60 85 }
+
+
+historical_idea_groups = {
+	economic_ideas
+	offensive_ideas
+	exploration_ideas
+	defensive_ideas	
+	administrative_ideas	
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	
+}
+
+leader_names = {
+	
+}
+
+ship_names = {
+	Achille Actif Actionnaire Adelaïde Admirable Adroit Agamemnon Aigle Aigrette Aimable Ajax Alcide Alcyon Alexandre Alliance Altier Amarante
+	Amazone Ambitieux Amiral Amphion Amphitrite Andromaque Anna Annibal Anonyme Anversois Apollon Aquilon Arcole Ardent Aréthuse Argonaute Artésien
+	Assuré Astrée Astrolabe Atlante Audacieux Auguste Aurore Avenant Aventurier Badine Banel Beaufort Belliqueux Bellone Bienfaisant Bizarre Bon
+	Bonne Borée Boudeuse Bouffonne Boussole Brave Brélé Brillant Brutal Bucentaure Calypso Capable Capricieux Caraquon Cardinal
+	Caribou Cassard Castiglione Caton Censeur Centaure César Chalain Charente Charmante Chasseur Choquante Christine Citoyen Cléopâtre Clorinde
+	Colosse Comète Comte Concorde Conquérant Consolante Content Coq Corail Courageux Couronne Courtisan Croissant Curieux Cygne Dansé Dauphin Dédaigneuse
+	Défenseur Dego Desaix Destin Diadème Diamant Dictateur Dryade Dubois Duc Duguesclin Dunkerquois Duperre Duquesne Dur Éclatant Écueil Écureuil Église Elbeuf
+	Embuscade Émerillon Éminent Empereur Emporte Engageante Enjouree Entendu Entreprenant Éole Ésperance Éveillé Excellent Fâcheux Fantasque Faucon Favori Fée
+	Félicité Fendant Ferronière Fidèle Fier Fiesque Fleuron Florissant Formidable Fort Fortune Foudroyant Fougueux Frédéric Friponne Fulminant Gaillard
+	Galant Galathée Gazelle Généreux Gênois Gentille Gerze Gloire Gracieuse Grand Guerrier Guirlande Hardi Hasardeux Havre Hébé Henri Hercule Hermione
+	Héroïne Héros Heureux Hirondelle Hymen Inconstante Indien Indomptable Infante Inflexible Intrépide Invincible Iphighénie Isabelle Jason Jemmapes Jeux
+	Joli Jules Junon Juste Laurier Léger Léopard Licorne Ligourois Lion Lionne Lune Lutine Lys Madame Madeleine Magicienne Magnanime Magnifique
+	Maistresse Majestueux Maquedo Marabout Marguerite Marin Marquise Mars Maure Maurepas Mazarin Méduse Mercœur Mercure Merveilleux Mignonne Minotaure Modéré Monarque
+	Montenotte Montmorency Montolieu Mutine Néréide Nieuport Océan Oiseau Opiniâtre Orgueilleux Orient Oriflamme Orion Orphée
+	Ours Pacificateur Palmier Parfait Patriote Pégase Pélican Pélicorne Perle Persée Persévérante Pléiade Poli Polyphème Pompée Pompeux Pourvoyeuse Prince
+	Princesse Prompt Prosélyte Protée Prudent Pucelle Puissant Railleuse Raisonnable Redoutable Réfléchi Régénérateur Regina Regulus Reine Renommée
+	Résistance Robuste Rochefort Roland Royal Rubis Sage Sagittaire Salamandre Sceptre Scipion Séduisant Sémillante Sérieux Sirène Soleil Solide Sophie
+	Sorlingue Sourdis Souverain Sphinx Subtile Suffisant Superbe Surveillante Suzanne Sylvie Téméraire Tempête Terpsichore Terreur Terrible Thérèse
+	Thésée Thétis Tigre Tonnant Topaze Tourbillon Trajan Trident Triomphe Triton Trompeuse Uranie Utile Vaillant Vainqueur Valeur Vendôme
+	Vengeur Vénus Vertu Vestale Vétéran Victoire Victorieux Vierge Volage Volontaire Zélé Zodiaque
+}
+
+army_names = {
+	"Armée Royale" "Armée du Centre" "Armée du Nord" "Armée de l'Est" "Armée du Sud" "Armée de l'Ouest" "Armée d'Aquile" "Armée des Cuirasses"
+	"Armée Rouge" "Armée Bleue" "Armée Blanche" "Armée Noire" "Armée Verte" "Armée Jaune" "Armée Violette" "Armée de $PROVINCE$"
+}
+
+fleet_names = {
+	"Escadre Royale" "Escadre Blanche" "Escadre Bleue" "Escadre Rouge" "Escadre Verte" "Escadre Violette" "Escadre Rose" "Escadre Grise"
+}

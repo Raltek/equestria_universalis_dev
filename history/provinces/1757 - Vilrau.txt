@@ -1,4 +1,7 @@
-
+owner = AET
+controller = AET
+add_core = AET
+add_core = ADE
 culture = adelartian
 religion = archonate
 hre = no

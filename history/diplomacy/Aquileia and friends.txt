@@ -1,0 +1,27 @@
+vassal = {
+	first = AQU
+	second = WST
+	start_date = 1400.1.1
+	end_date = 1670.1.1
+}
+
+vassal = {
+	first = AQU
+	second = POM
+	start_date = 1400.1.1
+	end_date = 1670.1.1
+}
+
+march = {
+	first = AQU
+	second = AET
+	start_date = 1400.1.1
+	end_date = 1670.1.1
+}
+
+march = {
+	first = AQU
+	second = TAR
+	start_date = 1400.1.1
+	end_date = 1670.1.1
+}

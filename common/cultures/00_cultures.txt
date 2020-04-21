@@ -203,8 +203,10 @@ hertzlander = {
 		}
 	}
 	griefwalder = {
+		primary = AET
 	}
 	adelartian = {
+		primary = HEL
 	}
 	male_names = {
 		Friedrich Albrecht Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor 
@@ -361,6 +363,7 @@ aquileian = {
 	graphical_culture = westerngfx
 
 	aquilan = {
+		primary = AQU
 		dynasty_names = {
 			"de Vyzima" "de Trébourg" "de la Tour" "du Lion" 
 			"des Andes" "de la Foi" "de Montfort" "du Carmagnac" "de Penthievre" "de Dreux"
@@ -368,16 +371,22 @@ aquileian = {
 		}
 	}
 	rilan = {
+		primary = RLA
 	}
 	vinovian = {
+		primary = VIN
 	}
 	tarrinian = {
+		primary = TAR
 	}
 	westrienne = {
+		primary = WST
 	}
 	flowenois = {
+		primary = FLW
 	}
 	pridean = {
+		primary = PRI
 	}
 
 	dynasty_names = {
@@ -417,6 +426,7 @@ aquileian = {
 }
 griffon_celtic = {
 	pomovarran = {
+		primary = POM
 		dynasty_names = {
 			"Rohan" "Penteur" "Leon" "Roazhon" "Poutrecoet" "Naoned" "Leon" "de Dinan" "de Vitré"
 			"de Rohan" "de Porhoët" "de Châteaubriant" "Guennec" "Pensec" "de Cornouaille" 

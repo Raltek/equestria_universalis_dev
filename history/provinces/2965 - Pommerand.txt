@@ -1,4 +1,7 @@
-
+owner = POM
+controller = POM
+add_core = POM
+add_claim = WSK
 culture = pomovarran
 religion = archonate
 hre = no

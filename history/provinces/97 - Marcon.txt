@@ -1,4 +1,7 @@
-
+owner = AET
+controller = EAT
+add_core = AET
+add_claim = RLA
 culture = rilan
 religion = archonate
 hre = no

@@ -1,4 +1,7 @@
-
+owner = AQU
+controller = AQU
+add_core = AQU
+add_core = WSK
 culture = flowenois
 religion = archonate
 hre = no

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = aquilan
+religion = archonate
+capital = 188 # Vyzima
+
+1440.6.20 = {
+	monarch = {
+		name = "Solène VI"
+		dynasty = "de Vyzima"
+		birth_date = 1400.3.11
+		adm = 3
+		dip = 2
+		mil = 2
+		female = no
+	}
+}

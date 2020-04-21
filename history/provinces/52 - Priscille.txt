@@ -1,4 +1,7 @@
-
+owner = WST
+controller = WST
+add_core = WST
+add_claim = RLA
 culture = rilan
 religion = archonate
 hre = no

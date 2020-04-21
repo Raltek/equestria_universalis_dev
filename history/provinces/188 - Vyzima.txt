@@ -1,4 +1,7 @@
-
+owner = AQU
+controller = AQU
+add_core = AQU
+add_core = VZY
 culture = aquilan
 religion = archonate
 hre = no

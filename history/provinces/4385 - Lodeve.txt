@@ -1,4 +1,8 @@
-
+owner = AQU
+controller = AQU
+add_core = AQU
+add_core = VNV
+add_claim = PRI
 culture = vinovian
 religion = archonate
 hre = no

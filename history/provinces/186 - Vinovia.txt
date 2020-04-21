@@ -1,4 +1,7 @@
-
+owner = AQU
+controller = AQU
+add_core = AQU
+add_core = VNV
 culture = vinovian
 religion = archonate
 hre = no

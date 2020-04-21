@@ -1,0 +1,22 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = greifwalder
+add_accepted_culture = adelarter
+add_accepted_culture = aquilan
+religion = archonate
+capital = 264 # Falcontown
+
+1440.6.20 = {
+	monarch = {
+		name = "Philippe"
+		dynasty = "le Chevalier"
+		birth_date = 1400.3.11
+		adm = 2
+		dip = 1
+		mil = 5
+		female = no
+	}
+}
+

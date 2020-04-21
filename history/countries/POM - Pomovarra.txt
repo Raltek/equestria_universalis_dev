@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = pomovarran
+religion = archonate
+capital = 266 # Flowena
+
+1440.6.20 = {
+	monarch = {
+		name = "Alan I"
+		dynasty = "Hennebont"
+		birth_date = 1400.3.11
+		adm = 2
+		dip = 2
+		mil = 2
+		female = no
+	}
+}
+

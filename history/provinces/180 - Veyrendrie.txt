@@ -1,4 +1,7 @@
-
+owner = AQU
+controller = AQU
+add_core = AQU
+add_core = PRI
 culture = pridean
 religion = archonate
 hre = no

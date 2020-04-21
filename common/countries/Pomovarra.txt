@@ -1,0 +1,54 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 61 99 72 }
+
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	
+}
+
+leader_names = {
+	
+}
+
+ship_names = {
+
+}
+
+army_names = {
+
+}
+
+fleet_names = {
+	
+}

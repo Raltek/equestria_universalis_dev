@@ -1,4 +1,6 @@
-
+owner = AET
+controller = AET
+add_core = AET
 culture = griefwalder
 religion = archonate
 hre = no

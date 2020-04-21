@@ -1,4 +1,6 @@
-
+owner = WST
+controller = WST
+add_core = WST
 culture = westrienne
 religion = archonate
 hre = no

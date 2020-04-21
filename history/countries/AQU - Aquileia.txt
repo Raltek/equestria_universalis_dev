@@ -1,0 +1,24 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+primary_culture = aquilan
+add_accepted_culture = rilan
+add_accepted_culture = vinovian
+add_accepted_culture = flowenois
+add_accepted_culture = pridean
+religion = archonate
+capital = 1761 # Aquila
+
+1440.6.20 = {
+	monarch = {
+		name = "Phildebert IV"
+		dynasty = "de Marigny"
+		birth_date = 1400.3.11
+		adm = 1
+		dip = 2
+		mil = 2
+		female = no
+	}
+}
+

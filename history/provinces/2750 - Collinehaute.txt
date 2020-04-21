@@ -1,4 +1,6 @@
-
+owner = TAR
+controller = TAR
+add_core = TAR
 culture = tarrinian
 religion = archonate
 hre = no

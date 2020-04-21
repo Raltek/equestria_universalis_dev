@@ -1,0 +1,19 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 2
+technology_group = western
+primary_culture = rilan
+religion = archonate
+capital = 98 # Rila
+
+1440.6.20 = {
+	monarch = {
+		name = "Fidelitas"
+		birth_date = 1400.3.11
+		culture = south_griffkingian
+		adm = 3
+		dip = 3
+		mil = 2
+		female = no
+	}
+}
