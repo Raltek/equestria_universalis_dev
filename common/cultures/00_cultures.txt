@@ -280,8 +280,10 @@ wingbardian = {
 		primary = FAL
 	}
 	mattonian = {
+		primary = MAT
 	}
 	talontan = {
+		primary = TNT
 	}
 	fiumeian = {
 	}

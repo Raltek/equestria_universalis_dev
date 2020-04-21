@@ -90,3 +90,5 @@ DMT = "countries/DiamondMountain.txt"
 # Wingbardy
 WNG = "countries/Wingbardy.txt"
 FAL = "countries/Falcor.txt"
+TNT = "countries/Talont.txt"
+MAT = "countries/Matton.txt"

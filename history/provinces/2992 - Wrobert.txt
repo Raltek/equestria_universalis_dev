@@ -1,4 +1,6 @@
-# No previous file for Wrobert
+owner = WNG
+controller = WNG
+add_core = WNG
 culture = worbertian
 religion = archonate
 
@@ -14,3 +16,5 @@ add_permanent_province_modifier = {
 	name = river_estuary_modifier
 	duration = -1
 }
+
+discovered_by = western

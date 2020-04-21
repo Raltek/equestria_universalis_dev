@@ -1,4 +1,6 @@
-# No previous file for Leganta
+owner = WNG
+controller = WNG
+add_core = WNG
 culture = worbertian
 religion = archonate
 
@@ -7,3 +9,5 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+
+discovered_by = western
