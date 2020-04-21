@@ -1,0 +1,5 @@
+owner = EQS
+controller = EQS
+add_core = EQS
+
+discovered_by = western

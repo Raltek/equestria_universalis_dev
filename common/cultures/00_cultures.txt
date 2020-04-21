@@ -646,3 +646,14 @@ wild_griffon = {
 		}
 	}
 }
+equestrian = {
+	graphical_culture = westerngfx
+	canterlotian = {
+		male_names = {
+			Star Night Shining Breeze
+		}
+		female_names = {
+			Twilight Rarity
+		}
+	}
+}
