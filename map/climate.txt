@@ -101,9 +101,12 @@ impassable = {
 	#Minotauria
 	4309 4338 4177
 	#Nova Griffonia
-	2571 2568 908
+	2571 2568 908 1008
 	#Equestria
 	2486 2506 4630 2009 2491 2536
+	
+	#Changelings
+	2931
 }
 
 mild_monsoon = {
