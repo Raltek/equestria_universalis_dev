@@ -1673,6 +1673,26 @@ summerside_bay_area {
 porola_area {
 	829 2806 2818 4596 4614
 }
+
+########################################
+# North Olenia					 	   #
+########################################
+
+harlighamn_area {
+	827 830 834 4600
+} 
+
+norra_vikar_area {
+	2813 4603 4609 4611 
+}
+
+palsstick_halvon_area {
+	823 2807 2812 4608 4610 
+}
+
+ishamn_area {
+	491 2808 2809 2816 4607 4612 
+}
 ########################################
 # Iberia					 		   #
 ########################################
@@ -3461,39 +3481,35 @@ iquitos_area = { #3
 }
 
 venezuela_area = { #5
-	741 831 2808 4612 4616
-}
-
-maracaibo_area = { #5
-	830 2807 4609 4610 4611
+	741 831   4616
 }
 
 eastern_llanos = { #4
-	2805 2809 2939 4615
+	2805  2939 4615
 }
 
 western_llanos = { #4
-	2812  2815 4608
+	  2815 
 }
 
 central_llanos_area = {
-	834 2810 2813 4613 
+	 2810  4613 
 }
 
 bogota_area = { #4
-	825 832 4602 4603
+	825 832 4602 
 }
 
 popayan_area = { #4	
-	823 826   4604
+	 826   4604
 }
 
 colombian_amazonas_area = { #3
-	822 2816 4605
+	822  4605
 }
 
 cordillera_occidental_area = { #5
-	824 827  4600 4607
+	824  
 }
 
 northern_chile_area = { #5
@@ -3597,7 +3613,7 @@ hispaniola_area = { #4
 }
 
 greater_antilles_area = { #4
-    487  491 492
+    487   492
 }
 
 lucayan_area = { #2

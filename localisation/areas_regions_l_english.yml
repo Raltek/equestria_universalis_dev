@@ -1077,6 +1077,20 @@
  porola_area_name:0 "Porola"
  porola_area_adj:0 "Porolan"
 
+ #North Olenia
+ harlighhamn_area:0 "Härlighamn"
+ harlighhamn_area_name:0 "Härlighamn"
+ harlighhamn_area_adj:0 "Härlighamner"
+ norra_vikar_area:0 "Norra Vikar"
+ norra_vikar_area_name:0 "Norra Vikar"
+ norra_vikar_area_adj:0 "Norra Vikarian"
+ palsstick_havon_area:0 "Pälsstick Havön"
+ palsstick_havon_area_name:0 "Pälsstick Havön"
+ palsstick_havon_area_adj:0 "Pälssticker"
+ ishamn_area:0 "Ishamn"
+ ishamn_area_name:0 "Ishamn"
+ ishamn_area_adj:0 "Ishamner"
+
 
  equus:0 "Equus"
  equus_adj:0 "Equine"
@@ -1116,6 +1130,10 @@
  south_olenia_region:0 "Southern Olenia"
  south_olenia_region_name:0 "Southern Olenia"
  south_olenia_region_adj:0 "Southern Olenian"
+ north_olenia_region:0 "Northern Olenia"
+ north_olenia_region_name:0 "Northern Olenia"
+ north_olenia_region_adj:0 "Northern Olenian"
+
 
 
  

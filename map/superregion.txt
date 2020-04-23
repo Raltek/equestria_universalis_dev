@@ -28,7 +28,8 @@ northern_equus_superregion = {
 	yakyakistan_region
 	rocky_coast_region
 	severyana_region
-	olenia_region
+	south_olenia_region
+	north_olenia_region
 }
 
 southern_equus_superregion = {

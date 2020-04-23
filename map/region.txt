@@ -479,6 +479,15 @@ south_olenia_region = {
 		porola_area
 	}
 }
+
+north_olenia_region = {
+	areas = {
+		harlighamn_area
+		norra_vikar_area
+		palsstick_halvon_area
+		ishamn_area
+	}
+}
 ########################################
 # OBSOLEAT                             #
 ########################################
