@@ -311,6 +311,10 @@ eastern_riverlands_region = {
 	}
 }
 
+########################################
+# Equus	                               #
+########################################
+
 pingland_region = {
 	areas = {
 		pinguin_land_area
@@ -512,6 +516,25 @@ changeling_lands_region = {
 		totles_area
 		kladbise_area
 		svartforest_area
+	}
+}
+
+########################################
+# Zebrica                              #
+########################################
+
+
+canterribean_region = {
+	areas= {
+		dragon_islands_area
+		spa_islands_area
+		matrotanzas_area
+		puerto_caballo_area
+		summer_islands_area
+		belle_ile_area
+		les_abondantes_area
+		les_loyales_est_area
+		les_loyales_ouest_area
 	}
 }
 ########################################

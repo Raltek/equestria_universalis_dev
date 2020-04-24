@@ -41,6 +41,10 @@ southern_equus_superregion = {
 	western_equestria
 }
 
+northern_zebrica_superregion= {
+	canterribean_region
+}
+
 india_superregion = {
 	bengal_region
 	hindusthan_region

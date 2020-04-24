@@ -1780,45 +1780,60 @@ kladbise_area {
 svartforest_area {
 	812 2829 2882 2902 2930 2940 
 }
+
+
+########################################
+# Canterribean				 		   #
+########################################
+dragon_islands_area {
+	227 229 230 368 4150 4548 
+}
+
+spa_islands_area {
+	347 366 1110
+}
+
+matrotanzas_area {
+	484 485 4622 4623 4624 
+}
+
+puerto_caballo_area {
+	483 486 2654 2655 2656 
+}
+
+summer_islands_area {
+	487 488 489 1881 4618 4619
+}
+
+belle_ile_area {
+	495 496 497 1113
+}
+
+les_abondantes_area {
+	498 501 1096 1111 
+}
+
+les_loyales_ouest_area {
+	499 500 1115 2244 
+}
+
+les_loyales_est_area {
+	494 1112 2237 
+}
 ########################################
 # Iberia					 		   #
 ########################################
 
 lower_andalucia_area = { #5
-	 225 1748 1749 4548
+	 225 1748 1749 
 }
 
 upper_andalucia_area = { #4
 	222 223 226 4546
 }
 
-castille_area = { #3
-	color = { 58 58 207 } 
-}
-
-toledo_area = { #5
-	
-}
-
-asturias_area = { #4
-}
-
-baleares_area = {
-}
-
-basque_country = { #3
-}
-
-leon_area = { #5
-	color = { 243 235 28 }
-}
-
-alentejo_area = { #4
-	227 229 230 4150
-}
-
 macaronesia_area = { #3
-	366  368 4565
+	   4565
 }
 
 ########################################
@@ -2039,7 +2054,7 @@ sus_area = { #4
 }
 
 southern_morocco_area = { #3
-	347 1110 2470 
+	  2470 
 }
 
 western_morocco_area = { #3
@@ -2360,16 +2375,12 @@ western_sahara_area = { #5
     1127 1128 1129 1130 2271
 }
 
-cap_verde_area = { #2 
-    1096 1111 
-}
-
 jolof_area = { #4
-	1112 1113  2239
+	   2239
 }
 
 tekrur_area = { #4
-    1115 2237 2240 2244
+      2240 
 }
 
 baghena_area = { #4
@@ -3595,32 +3606,8 @@ costa_rica_area = { #3
     2663  
 }
 
-cuba_area = { #5
-    484 485 4622 4623 4624
-}
-
-east_cuba_area = { #3
-    486 2654 2655 2656
-}
-
-hispaniola_area = { #4
-    488 489 4618 4619
-}
-
 greater_antilles_area = { #4
-    487   492
-}
-
-lucayan_area = { #2
-	 483
-}
-
-leeward_islands_area = { #5
-     494 495 496 1881
-}
-
-windward_islands_area = { #5
-    497 498 499 500 501
+       492
 }
 
 #############################

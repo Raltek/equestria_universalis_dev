@@ -1156,8 +1156,6 @@
  svartforest_area_name:0 "Svartforest"
  svartforest_area_adj:0 "Svarter"
 
-
-
  equus:0 "Equus"
  equus_adj:0 "Equine"
  northern_equus_superregion:0 "Northern Equus"
@@ -1202,6 +1200,50 @@
  changeling_lands_region:0 "Changeling Lands"
  changeling_lands_region_name:0 "Changeling Lands"
  changeling_lands_region_adj:0 "Changeling"
+
+
+
+  #Canterribean
+ dragon_islands_area:0 "Dragon Islands"
+ dragon_islands_area_name:0 "Dragon Islands"
+ dragon_islands_area_adj:0 "Dragon"
+ spa_islands_area:0 "Spa Islands"
+ spa_islands_area_name:0 "Spa Islands"
+ spa_islands_area_adj:0 "Spa"
+ matrotanzas_area:0 "Matrotanzas"
+ matrotanzas_area_adj:0 "Matrotanzian"
+ matrotanzas_area_name:0 "Matrotanzas"
+ puerto_caballo_area:0 "Puerto Caballo"
+ puerto_caballo_area_name:0 "Puerto Caballo"
+ puerto_caballo_area_adj:0 "PUerto Caballian"
+ summer_islands_area:0 "Summer Islands"
+ summer_islands_area_name:0 "Summer Islands"
+ summer_islands_area_adj:0 "Summer Islander"
+ belle_ile_area:0 "Belle-Île"
+ belle_ile_area_name:0 "Belle-Île"
+ belle_ile_area_adj:0 "Belle-Îllian"
+ les_abondantes_area:0 "Les Abondantes"
+ les_abondantes_area_name:0 "Les Abondantes"
+ les_abondantes_area_adj:0 "Abondantian"
+ les_loyales_ouest_area:0 "Les Loyales Ouest"
+ les_loyales_ouest_area_name:0 "Les Loyales Ouest"
+ les_loyales_ouest_area_adj:0 "West Loyal"
+ les_loyales_est_area:0 "Les Loyales Est"
+ les_loyales_est_area_name:0 "Les Loyales Est"
+ les_loyales_est_area_adj:0 "East Loyal"
+
+
+
+ zebrica:0 "Zebrica"
+ zebrica_adj:0 "Zebrican"
+ northern_zebrica_superregion:0 "Northern Zebrica"
+ northern_zebrica_superregion_name:0 "Northern Zebrica"
+ northern_zebrica_superregion_adj:0 "Northern Zebrican"
+ canterribean_region:0 "Canterribean"
+ canterribean_region_name:0 "Canterribean"
+ canterribean_region_adj:0 "Canterribean"
+
+
 
 
 
