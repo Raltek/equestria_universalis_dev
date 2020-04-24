@@ -1693,6 +1693,93 @@ palsstick_halvon_area {
 ishamn_area {
 	491 2808 2809 2816 4607 4612 
 }
+
+########################################
+#  Changeling Lands	 				   #
+########################################
+western_key_lake_area {
+	809 810 811 2927  
+}
+
+northern_saddening_area {
+	814 2512 2826 4615
+}
+
+gorak_area {
+	502 741 2935 2937 
+}
+
+changeling_fjords_area {
+	743 2803 2827 2833 2878 4616 
+}
+
+dytrisium_area {
+	744 745 820 2933 
+}
+
+neverwarm_point_area {
+	746 793 2820
+}
+
+lyctida_area {
+	493 818 831 2946
+}
+
+vesalipolis_area {
+	802 804 805 2822 2947 
+}
+
+gardis_area {
+	815 832 1116 2939
+}
+
+western_killing_swamp_area {
+	2243 2929 4605 
+}
+
+eastern_killing_swamp_area {
+	801 803 2660 2811 2901 
+}
+
+wild_lands_area {
+	822 2815 2839 4617 
+}
+
+great_marsh_area {
+	747 821 2832 
+}
+
+svarm_area {
+	817 2945 4604 
+}
+
+major_forest_area {
+	794 816 819 2824 2828
+}
+
+jem_highlands_area {
+	742 799 2934 
+}
+
+vraks_area {
+	796 797 2831 2900 2942 2943 
+}
+
+deadly_forest_area {
+	748 795 813 2821 2941 
+}
+
+totles_area {
+	800 2823 2825 2834
+}
+
+kladbise_area {
+	2805 2835 2838 2840 2938 2944
+}
+
+svartforest_area {
+	812 2829 2882 2902 2930 2940 
+}
 ########################################
 # Iberia					 		   #
 ########################################
@@ -2278,7 +2365,7 @@ cap_verde_area = { #2
 }
 
 jolof_area = { #4
-	1112 1113 1116 2239
+	1112 1113  2239
 }
 
 tekrur_area = { #4
@@ -2286,7 +2373,7 @@ tekrur_area = { #4
 }
 
 baghena_area = { #4
-    2243 2245 2246 2247
+     2245 2246 2247
 }
 
 manding_area = { #4
@@ -3356,10 +3443,6 @@ ofaie_area = { #3
 	2881 2893 2920
 }
 
-guapore_area = { #3
-	2900 2901 2902
-}
-
 sao_paolo_area = { #3
 	766 769 2896
 }
@@ -3389,7 +3472,7 @@ sao_francisco_area = { #5
 }
 
 maranhao_area = { #5
-	749 2923 2924 2926 2927
+	749 2923 2924 2926 
 }
 
 piaui_area = { #3
@@ -3397,19 +3480,11 @@ piaui_area = { #3
 }
 
 grao_para_area = { #4
-	748 2890 2929  
-}
-
-amapa_area = { #3
-	747 2935 2938
-}
-
-amazon_area = { #4
-	 2930 2933 2934
+	 2890   
 }
 
 paraguay_area = { #5
-	775 776 799 2882 
+	775 776   
 }
 
 patagonia_area  = { #3
@@ -3448,48 +3523,12 @@ tucuman_area  = { #3
 	791  2842
 }
 
-jujuy_area = { #3
-	794  2839
-}
-
 chaco_area  = { #4
-	790  2878
+	790  
 }
 
 banda_oriental_area = { #5
 	772 773 2850 2851 2852
-}
-
-guyana_area = { #4
-	502 743 744 2803 
-}
-
-suriname_area = { #3
-	745 746 2937
-}
-
-upper_guyana_area = { #5
-	742  2811 4617
-}
-
-quito_area = { #5
-	816 817 819 820 2820
-}
-
-iquitos_area = { #3
-	815 818 821
-}
-
-venezuela_area = { #5
-	741 831   4616
-}
-
-eastern_llanos = { #4
-	2805  2939 4615
-}
-
-western_llanos = { #4
-	  2815 
 }
 
 central_llanos_area = {
@@ -3497,15 +3536,11 @@ central_llanos_area = {
 }
 
 bogota_area = { #4
-	825 832 4602 
+	825  4602 
 }
 
 popayan_area = { #4	
-	 826   4604
-}
-
-colombian_amazonas_area = { #3
-	822  4605
+	 826 
 }
 
 cordillera_occidental_area = { #5
@@ -3513,7 +3548,7 @@ cordillera_occidental_area = { #5
 }
 
 northern_chile_area = { #5
-	792 793 796 2840 
+	792    
 }
 
 central_chile_area = { #3
@@ -3524,48 +3559,8 @@ southern_chile_area = { #3
 	783 2873 2874
 }
 
-antisuyu_area = { #4
-	802 804 2831 2947
-}
-
-kuntisuyu_area = { #4
-	  2829 
-}
-
-peruan_coast = { #3
-	805  2828
-}
-
 chimor_area = { #5
-	812 2002 2821 2822 2826
-}
-
-ucayali_area = { #3
-	2823 2944 2945
-}
-
-cajamarca_area = { #4
-	813 2824 2825 2943
-}
-
-huanuco_area = { #5
-	809 810 811 814 2827
-}
-
-beni_area = { #3 - Beni Savannah
-	800 801 2834
-}
-
-moxos_area = { #3
-	803 2832 2833
-}
-
-upper_peru = { #4
-	2835 2838 2941 2942
-}
-
-potosi_area = { #4
-	795 797 2940 2946
+	 2002   
 }
 
 ########################################
@@ -3573,7 +3568,7 @@ potosi_area = { #4
 ########################################
 
 south_dakota_area = { #3
-	 908 2512
+	 908 
 }
 
 texas_area = { #4
@@ -3593,7 +3588,7 @@ chiapas_area = { #4
 }
 
 nicaragua_area = { #5
-     838 2660  4592
+     838   4592
 }
 
 costa_rica_area = { #3
@@ -3621,7 +3616,7 @@ lucayan_area = { #2
 }
 
 leeward_islands_area = { #5
-    493 494 495 496 1881
+     494 495 496 1881
 }
 
 windward_islands_area = { #5

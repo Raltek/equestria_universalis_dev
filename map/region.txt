@@ -488,6 +488,32 @@ north_olenia_region = {
 		ishamn_area
 	}
 }
+
+changeling_lands_region = {
+	areas = {
+		western_key_lake_area
+		northern_saddening_area
+		gorak_area
+		changeling_fjords_area
+		dytrisium_area
+		neverwarm_point_area
+		lyctida_area
+		vesalipolis_area
+		gardis_area
+		western_killing_swamp_area
+		eastern_killing_swamp_area
+		wild_lands_area
+		great_marsh_area
+		svarm_area
+		major_forest_area
+		jem_highlands_area
+		vraks_area
+		deadly_forest_area
+		totles_area
+		kladbise_area
+		svartforest_area
+	}
+}
 ########################################
 # OBSOLEAT                             #
 ########################################
