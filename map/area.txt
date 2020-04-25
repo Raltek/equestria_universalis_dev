@@ -1659,7 +1659,7 @@ southern_hjortland_area {
 }
 
 drowned_antler_area {
-	837 2661 2836 2883 4597
+	837 2836 2883 4597
 }
 
 cervus_area {
@@ -3548,10 +3548,6 @@ central_llanos_area = {
 
 bogota_area = { #4
 	825  4602 
-}
-
-popayan_area = { #4	
-	 826 
 }
 
 cordillera_occidental_area = { #5

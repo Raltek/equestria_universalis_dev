@@ -105,6 +105,9 @@ impassable = {
 	#Equestria
 	2486 2506 4630 2009 2491 2536
 	
+	#Olenia
+	2661 826
+	
 	#Changelings
 	2931
 }
