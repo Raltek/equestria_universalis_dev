@@ -490,6 +490,8 @@ north_olenia_region = {
 		norra_vikar_area
 		palsstick_halvon_area
 		ishamn_area
+		feer_dalar_area
+		middle_olenia_area
 	}
 }
 

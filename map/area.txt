@@ -1683,15 +1683,23 @@ harlighamn_area {
 } 
 
 norra_vikar_area {
-	2813 4603 4609 4611 
+	824 2813 4603 4609 4611 
 }
 
 palsstick_halvon_area {
-	823 2807 2812 4608 4610 
+	823 2807 2812 4608 4610 4613
 }
 
 ishamn_area {
 	491 2808 2809 2816 4607 4612 
+}
+
+feer_dalar_area {
+	825 2810 2842 4602 
+}
+
+middle_olenia_area {
+	492 838 2663 4592 
 }
 
 ########################################
@@ -3531,7 +3539,7 @@ misiones_area = { #5
 }
 
 tucuman_area  = { #3
-	791  2842
+	791  
 }
 
 chaco_area  = { #4
@@ -3540,18 +3548,6 @@ chaco_area  = { #4
 
 banda_oriental_area = { #5
 	772 773 2850 2851 2852
-}
-
-central_llanos_area = {
-	 2810  4613 
-}
-
-bogota_area = { #4
-	825  4602 
-}
-
-cordillera_occidental_area = { #5
-	824  
 }
 
 northern_chile_area = { #5
@@ -3592,18 +3588,6 @@ guerrero_area = { #3
 
 chiapas_area = { #4
         4586
-}
-
-nicaragua_area = { #5
-     838   4592
-}
-
-costa_rica_area = { #3
-    2663  
-}
-
-greater_antilles_area = { #4
-       492
 }
 
 #############################
