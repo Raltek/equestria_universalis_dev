@@ -45,6 +45,9 @@ northern_zebrica_superregion= {
 	canterribean_region
 }
 
+south_eastern_zebrica_superregion = {
+	zebrides_region
+}
 india_superregion = {
 	bengal_region
 	hindusthan_region

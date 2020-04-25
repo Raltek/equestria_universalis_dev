@@ -527,7 +527,7 @@ changeling_lands_region = {
 
 
 canterribean_region = {
-	areas= {
+	areas = {
 		dragon_islands_area
 		spa_islands_area
 		matrotanzas_area
@@ -537,6 +537,20 @@ canterribean_region = {
 		les_abondantes_area
 		les_loyales_est_area
 		les_loyales_ouest_area
+	}
+}
+
+zebrides_region = {
+	areas = {
+		pulalap_area
+		zimor_and_marekassar_area
+		east_zulawesi_area
+		west_zulawesi_area
+		zunda_begaris_area
+		north_zava_area
+		south_zava_area
+		ceram_area
+		mareida_area
 	}
 }
 ########################################
@@ -1578,7 +1592,7 @@ moluccas_region = {
 		vogelkop_area
 		timor_area
 		south_sulawesi_area
-		ceram_area
+		
 		spice_islands_area
 	}
 	monsoon = {

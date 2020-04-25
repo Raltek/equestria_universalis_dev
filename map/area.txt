@@ -1828,6 +1828,45 @@ les_loyales_ouest_area {
 les_loyales_est_area {
 	494 1112 2237 
 }
+
+########################################
+# Zebrides					 		   #
+########################################
+pulalap_area {
+	617 659 2678 2679 2683 2684
+}
+
+zimor_and_marekassar_area {
+	626 627 631 2690 2691 2693 
+}
+
+east_zulawesi_area {
+	624 625 628 629 2687 
+}
+
+west_zulawesi_area {
+	630 2688 2689 
+}
+
+zunda_begaris_area {
+	632 634 2692 
+}
+
+north_zava_area {
+	623 2676 2677 
+}
+
+south_zava_area {
+	621 622 2680 2681 
+}
+
+ceram_area {
+	618 619 2674 2675 2682 2685
+}
+
+mareida_area {
+	620 633 1998 
+}
 ########################################
 # Iberia					 		   #
 ########################################
@@ -2308,7 +2347,7 @@ mascarenes_area = { #3
 }
 
 indian_ocean_islands_area = { #5
-	574 1101 1248 1998 1999
+	574 1101 1248  1999
 }
 
 papua_area = { #5 (Papuan Peninsula)
@@ -3002,39 +3041,7 @@ southern_luzon_area = { #5
 }
 
 north_sumatra_area = { #3
-	617 2673 2685
-}
-
-batak_area = { #3
-	618 619 2674
-}
-
-central_sumatra_area = { #5
-	620 659 2675 2676 2677
-}
- 
-minangkabau_area = { #3
-	2680 2681 2682
-}
-
-south_sumatra_area = { #5
-	621 622 623 2678
-}
-
-indonesian_islands_area = { #4
-	2679 2683 2684
-}
-
-east_java_area = { #4
-	627 628 2691 2692
-}
-
-central_java_area = { #4
-	626 629 2689 2690
-}
-
-west_java_area = { #5
-	624 630 2687 2688 625
+	 2673 
 }
 
 kutai_area = { #5
@@ -3057,16 +3064,8 @@ spice_islands_area = { #3
 	648 649 650
 }
 
-ceram_area = { #2
-	646 647
-}
-
-lesser_sunda_islands_area = { #3
-	631 632 634 2693
-}
-
 timor_area = { #3
-	633 635 2695
+	 635 2695 646 647
 }
 
 sulawesi_area = { #4

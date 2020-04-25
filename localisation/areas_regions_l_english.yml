@@ -1238,6 +1238,35 @@
  les_loyales_est_area_name:0 "Les Loyales Est"
  les_loyales_est_area_adj:0 "East Loyal"
 
+ #Zebrides
+ pulalap_area:0 "Pulalap"
+ pulalap_area_name:0 "Pulalap"
+ pulalap_area_adj:0 "Pulalappian"
+ zimor_and_marekassar_area:0 "Zimor and Marekassar"
+ zimor_and_marekassar_area_name:0 "Zimor and Marekassar"
+ zimor_and_marekassar_area_adj:0 "Zimorese and Marekassarian"
+ east_zulawesi_area:0 "East Zulawesi"
+ east_zulawesi_area_name:0 "East Zulawesi"
+ east_zulawesi_area_adj:0 "East Zulawesi"
+ west_zulawesi_area:0 "West Zulawesi"
+ west_zulawesi_area_name:0 "West Zulawesi"
+ west_zulawesi_area_adj:0 "West Zulawesi"
+ zunda_begaris_area:0 "Zunda Bergaris"
+ zunda_begaris_area_name:0 "Zunda Bergaris"
+ zunda_begaris_area_adj:0 "Zunda Bergarisian"
+ north_zava_area:0 "North Zava"
+ north_zava_area_adj:0 "North Zavan"
+ north_zava_area_name:0 "North Zava"
+ south_zava_area:0 "South Zava"
+ south_zava_area_name:0 "South Zava"
+ south_zava_area_adj:0 "South Zavan"
+ ceram_area:0 "Ceram"
+ ceram_area_name:0 "Ceram"
+ ceram_area_adj:0 "Ceramese"
+ mareida_area:0 "Mareida"
+ mareida_area_name:0 "Mareida"
+ mareida_area_adj:0 "Mareidan"
+
 
 
  zebrica:0 "Zebrica"
@@ -1245,10 +1274,15 @@
  northern_zebrica_superregion:0 "Northern Zebrica"
  northern_zebrica_superregion_name:0 "Northern Zebrica"
  northern_zebrica_superregion_adj:0 "Northern Zebrican"
+ south_eastern_zebrica_superregion:0 "South Eastern Zebrica"
+ south_eastern_zebrica_superregion_name:0 "South Eastern Zebrica"
+ south_eastern_zebrica_superregion_adj:0 "South East Zebrican"
  canterribean_region:0 "Canterribean"
  canterribean_region_name:0 "Canterribean"
  canterribean_region_adj:0 "Canterribean"
-
+ zebrides_region:0 "Zebrides"
+ zebrides_region_name:0 "Zebrides"
+ zebrides_region_adj:0 "Zebridian"
 
 
 
