@@ -553,6 +553,54 @@ zebrides_region = {
 		mareida_area
 	}
 }
+
+northern_kiria_region = {
+	areas = {
+		kuangyang_area
+		jingping_area
+		wanglin_area
+		shanluo_area
+		dongri_area
+		zhongzuo_area
+		xilin_area
+		tianyin_area
+		shanyao_area
+		chunchang_area
+	}
+}
+
+central_kiria_region = {
+	areas = {
+		fuyang_area
+		xidian_area
+		xiaohoudai_area
+		wanhai_area
+		zhonghe_area
+		jingsheng_area
+		anling_area
+		ningxi_area
+		linshe_area
+		jixi_area
+		xizhi_area
+		yuanjiang_area
+	}
+}
+
+southern_kiria_region = {
+	areas = {
+		luangponieang_area
+		manexang_area
+		coltrat_area
+		khmare_area
+		marekongdelta_area
+		stalligon_area
+		duyenhaimanen_area
+		bactrotbo_area
+		manebac_area
+		haneigh_area
+	}
+}
+
 ########################################
 # OBSOLEAT                             #
 ########################################

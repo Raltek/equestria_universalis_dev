@@ -48,6 +48,13 @@ northern_zebrica_superregion= {
 south_eastern_zebrica_superregion = {
 	zebrides_region
 }
+
+eastern_zebrica_superregion = {
+	northern_kiria_region
+	central_kiria_region
+	southern_kiria_region
+}
+
 india_superregion = {
 	bengal_region
 	hindusthan_region
