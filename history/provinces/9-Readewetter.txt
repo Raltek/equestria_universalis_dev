@@ -1,6 +1,6 @@
 owner = RDW
 controller = RDW
-culture = featherisian
+culture = feathisian
 religion = archonate
 add_core = RDW
 hre = no

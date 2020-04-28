@@ -1,6 +1,6 @@
 owner = STR
 controller = STR
-culture = featherisian
+culture = feathisian
 religion = archonate
 add_core = STR
 hre = no

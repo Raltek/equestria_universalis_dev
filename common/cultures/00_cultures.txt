@@ -91,7 +91,7 @@ north_griffon = {
 		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
 	}
 }
-hertzlander = {
+herzlander = {
 	graphical_culture = westerngfx
 	katerin = {
 		primary = KAT
@@ -139,7 +139,7 @@ hertzlander = {
 		}
 		
 	}
-	featherisian = {
+	feathisian = {
 		primary = FEA
 		male_names = {
 			Adriaen Albrecht Albert Alwin Ambroos Antoon Arnold Arnold Arnulf Arnulf Balderik Barend 

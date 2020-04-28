@@ -1,6 +1,6 @@
 owner = AIW
 controller = AIW
-culture = featherisian
+culture = feathisian
 religion = archonate
 add_core = AIW
 hre = no

@@ -1,6 +1,6 @@
 owner = ROT
 controller = ROT
-culture = featherisian
+culture = feathisian
 religion = archonate
 add_core = ROT
 hre = no

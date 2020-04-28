@@ -1,6 +1,6 @@
 owner = FZR
 controller = FZR
-culture = featherisian
+culture = feathisian
 religion = archonate
 add_core = FZR
 hre = no

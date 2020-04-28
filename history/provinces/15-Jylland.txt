@@ -1,6 +1,6 @@
 owner = FEA
 controller = FEA
-culture = featherisian
+culture = feathisian
 religion = archonate
 add_core = FEA
 hre = no
