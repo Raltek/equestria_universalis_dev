@@ -43,3 +43,14 @@
 1006 = "Yakshügel"
 2592 = "Jagdfelt"
 959 = "Frosthill"
+
+#Griffonstone
+1870 = "Langweg"
+1869 = "Kupferhügel"
+165 = "Vogelfort"
+1769 = "Wohnsitz"
+1863 = "Brüllfall"
+4240 = "Solsruhe"
+
+#Cyanolisia
+317 = "Thymíaustadt"

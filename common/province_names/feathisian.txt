@@ -1,4 +1,4 @@
-ï»¿#Nova Griffonia
+#Nova Griffonia
 980 = "Weter"
 2573 = "Griffsklif"
 997 = "Stroomsbocht"
@@ -34,7 +34,7 @@
 990 = "Diepingen"
 2584 = "Houtwegen"
 993 = "Nedrigsreste"
-2569 = "VerdulliÃ«"
+2569 = "Verdullië"
 2589 = "Driegoden"
 984 = "Dullisvleugel"
 982 = "Pinguinswacht"
@@ -43,3 +43,37 @@
 1006 = "Jaksbergen"
 2592 = "Jachtluwte"
 959 = "Frosthill"
+
+#New Mareland
+214 = "Zonsgang" # Sunset
+171 = "Adelaarshorst" # New Manehatten
+4560 = "Klauwsvelde" # Hoovesplain
+2990 = "Tratalaan" # Trartalon
+333 = "Appeldoorn" # Applelaide
+220 = "Nieuw Griffenland" # New Ponyland
+4549 = "Vederborne" # Manebourne
+210 = "Hemelsdiep" # Celestia
+4550 = "Stratenbron" # Stratus Springs
+4559 = "Bokslang" # Buckeelong
+2989 = "Hengsthuizen" # Coltberley
+1746 = "Kroonstad" # Colton
+211 = "Keizerslust" # Harvi
+4557 = "Nieuw Pooten" # New Hoofington
+2751 = "Vedermuiden" # Manesbury
+172 = "Vrystad" # New Freeside
+4384 = "Valkensoort" # Camarea
+169 = "Havenzijl" # Port Maneball
+170 = "Maarsvloek" # Bucksbane
+4552 = "Sterval" # Starfall
+2755 = "Yavleugel" # Eastern Cross
+207 = "Suydkruis" # Southern Cross
+208 = "Griffslang" # Western Cross
+
+#Aquileia
+1874 = "Kortwijk"
+53 = "Ardesië"
+1931 = "Westrië"
+55 = "Kromte"
+52 = "Priscijn"
+2964 = "Nieuwmalt"
+97 = "Marson"
