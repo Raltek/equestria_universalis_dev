@@ -212,6 +212,57 @@ march_gov_name = {
 	}
 }
 
+equestrian_government = {
+	rank = {
+		1 = DUCHY
+		2 = KINGDOM
+		3 = EMPIRE_EQ
+	}
+
+	ruler_male = {
+		1 = DUKE
+		2 = KINGDOM
+		3 = EMPEROR_EQ
+	}
+
+	ruler_female = {
+		1 = DUCHESS
+		2 = QUEEN
+		3 = EMPRESS_EQ
+	}
+	
+	consort_male  = {
+		1 = DUKE_CONSORT
+		2 = KING_CONSORT
+		3 = EMPEROR_CONSORT_EQ
+	}
+	
+	consort_female = {
+		1 = DUCHESS_CONSORT
+		2 = QUEEN_CONSORT
+		3 = EMPRESS_CONSORT_EQ
+	}
+	
+	heir_male = {
+		1 = HEIR
+		2 = PRINCE
+		3 = PRINCE
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = PRINCESS
+		3 = PRINCESS
+	}
+	
+	trigger = {
+		government = monarchy
+		OR = {
+			tag = EQS
+		}
+	}
+}
+
 ###Vanilla ones that don't use vanilla cultures/tags/religions etc.
 pirate_government = {
 	rank = {

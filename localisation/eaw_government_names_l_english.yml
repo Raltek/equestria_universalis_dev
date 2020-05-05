@@ -14,3 +14,8 @@
  GRAND_DUKE_CONSORT:0 "Grand Duke-Consort"
  GRAND_DUCHESS_CONSORT:0 "Grand Duchess-Consort"
  HEIR:0 "Heir"
+ EMPIRE_EQ:0 "Princessdom"
+ EMPEROR_EQ:0 "Prince"
+ EMPRESS_EQ:0 "Princess"
+ EMPEROR_CONSORT_EQ:0 "Prince-Consort"
+ EMPRESS_CONSORT_EQ:0 "Princess-Consort"
