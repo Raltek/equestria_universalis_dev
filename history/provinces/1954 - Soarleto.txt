@@ -1,8 +1,9 @@
 owner = TNT
 controller = TNT
 add_core = TNT
+add_core = MAT
 
-culture = talontan
+culture = mattonian
 religion = archonate
 
 hre = no

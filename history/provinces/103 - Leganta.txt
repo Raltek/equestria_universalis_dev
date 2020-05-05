@@ -1,7 +1,7 @@
 owner = WNG
 controller = WNG
 add_core = WNG
-culture = worbertian
+culture = karthinian
 religion = archonate
 
 hre = no

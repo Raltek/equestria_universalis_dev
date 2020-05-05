@@ -1,5 +1,5 @@
 # No previous file for Carinossa
-culture = fracittcan
+culture = taloncan
 religion = archonate
 
 hre = no

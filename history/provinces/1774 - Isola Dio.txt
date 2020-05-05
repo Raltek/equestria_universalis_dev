@@ -1,7 +1,7 @@
 owner = FAL
 controller = FAL
 add_core = FAL
-culture = fiumeian
+culture = falcorian
 religion = archonate
 
 hre = no

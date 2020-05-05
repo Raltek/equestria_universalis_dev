@@ -270,10 +270,6 @@ wingbardian = {
 	}
 	taloncan = {
 	}
-	fracittcan = {
-	}
-	worbertian = {
-	}
 	facoceroian = {
 	}
 	falcorian = {
@@ -284,8 +280,6 @@ wingbardian = {
 	}
 	talontan = {
 		primary = TNT
-	}
-	fiumeian = {
 	}
 
 	male_names = {
