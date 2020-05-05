@@ -1,8 +1,8 @@
-owner = NIM
-controller = NIM
-culture = nimbusian
-religion = eastern_pony
-add_core = NIM
+owner = WHI
+controller = WHI
+culture = ioneighan
+religion = nimbusian_pantheon
+add_core = WHI
 hre = no
 base_tax = 1
 base_production = 1

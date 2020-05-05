@@ -1,0 +1,33 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = prancestrasian
+religion = nimbusian_pantheon
+capital = 2437
+fixed_capital = 2437
+
+530.6.20 = {
+	monarch = {
+		name = "Apis"
+		dynasty = "Inachoid"
+		female = no
+		birth_date = 486.3.7
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+530.6.21 = {
+	heir = {
+		name = "Iasia"
+		dynasty = "Inachoid"
+		female = yes
+		birth_date = 506.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

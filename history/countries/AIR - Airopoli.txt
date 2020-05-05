@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = federal_republic
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = nimbusian
+religion = nimbusian_pantheon
+capital = 1064
+fixed_capital = 1064
+
+530.6.20 = {
+	monarch = {
+		name = "Airios"
+		dynasty = "Pegacles"
+		female = no
+		birth_date = 485.10.5
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}
+

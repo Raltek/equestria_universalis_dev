@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = presidential_despot_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = prancestrasian
+religion = nimbusian_pantheon
+capital = 1071
+fixed_capital = 1071
+
+530.6.20 = {
+	monarch = {
+		name = "Pygselos"
+		dynasty = "Periandros"
+		female = no
+		birth_date = 493.3.6
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+

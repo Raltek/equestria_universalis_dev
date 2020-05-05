@@ -1,12 +1,13 @@
-owner = NIM
-controller = NIM
-culture = nimbusian
+owner = PAL
+controller = PAL
+culture = ioneighan
 religion = nimbusian_pantheon
-add_core = NIM
+add_core = PAL
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+
 
 discovered_by = eastern

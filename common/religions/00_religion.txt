@@ -140,4 +140,20 @@ pony_religion = {
 		
 		heretic = { BLOODLETTERS }
 	}
+	nimbusian_pantheon = {
+		color = { 43 207 182 }
+		icon = 21
+			country = {
+			cavalry_power = 0.1	
+			movement_speed = 0.1	
+		}
+	
+		country_as_secondary = {
+			cavalry_power = 0.1	
+			movement_speed = 0.1	
+		}
+		personal_deity = no
+		misguided_heretic = yes
+		heretic = { STROMCLOUD }
+	}
 }

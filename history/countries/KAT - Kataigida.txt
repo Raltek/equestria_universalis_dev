@@ -1,0 +1,23 @@
+government = republic
+add_government_reform = presidential_despot_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = nimbusian
+religion = nimbusian_pantheon
+capital = 1054
+fixed_capital = 1054
+
+530.6.20 = {
+	monarch = {
+		name = "Anogidos"
+		dynasty = "Soter"
+		female = no
+		birth_date = 503.10.11
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+

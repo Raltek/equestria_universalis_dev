@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = noble_elite_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = nimbusian
+religion = nimbusian_pantheon
+capital = 1078
+fixed_capital = 1078
+
+530.6.20 = {
+	monarch = {
+		name = "Pegicleon"
+		dynasty = "Machonos"
+		female = no
+		birth_date = 493.2.1
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+}
+

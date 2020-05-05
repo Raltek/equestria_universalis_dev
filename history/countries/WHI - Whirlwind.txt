@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = ioneighan
+religion = nimbusian_pantheon
+capital = 2358
+fixed_capital = 2358
+
+530.6.20 = {
+	monarch = {
+		name = "Anema"
+		dynasty = "Nrontias"
+		female = yes
+		birth_date = 499.3.9
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+

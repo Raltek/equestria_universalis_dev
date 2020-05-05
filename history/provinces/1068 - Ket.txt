@@ -1,8 +1,8 @@
-owner = NIM
-controller = NIM
+owner = KAT
+controller = KAT
 culture = nimbusian
-religion = eastern_pony
-add_core = NIM
+religion = nimbusian_pantheon
+add_core = KAT
 hre = no
 base_tax = 1
 base_production = 1

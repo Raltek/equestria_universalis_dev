@@ -579,7 +579,21 @@ riverpony_group = {
 	lakepony = {
 		primary = LCT
 	}
-	nimbusian = {
+
+	male_names = {
+		Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
+	}
+	female_names = {
+		Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
+	}
+	dynasty_names = {
+		Wings Fashion Colt Cinnamon Twirl Scarlet Harmony Little Snowflake Bubblegum Mythic Star Amethyst Lilly Solar Wings Emerald Fashion Dew Smooch
+	}
+}
+
+nimbusian_group = {
+	graphical_culture = easterngfx
+		nimbusian = {
 		primary = NIM
 		
 		male_names = {
@@ -592,14 +606,32 @@ riverpony_group = {
 			
 		}
 	}
-	male_names = {
-		Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
+
+		ioneighan = {
+		primary = ION
+		
+		male_names = {
+			"Diatton Asteras" "Marmarinos Kionas" "Iodes Anemos" "Hloro Fyllo" "Synnefothraustes" "Aeonios Pagetos" "Vasilikos Strovilos" "Therinos Helios" "Nyhterinos Tromos" "Mystikos Kodikas" "Mysterios Kometes" "Pneumatikos Fruros" "Apythmenos Okeanos" "Philosophike Lithos" "Aerino Phasma"
+		}
+		female_names = { 
+			"Asimi Mageia" "Kyane Thalassa" "Kerine Omorfia" "Pikrodaphne" "Earine Isemeria"
+		}
+		dynasty_names = {
+			
+		}
 	}
-	female_names = {
-		Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
-	}
-	dynasty_names = {
-		Wings Fashion Colt Cinnamon Twirl Scarlet Harmony Little Snowflake Bubblegum Mythic Star Amethyst Lilly Solar Wings Emerald Fashion Dew Smooch
+		prancestrasian = {
+		primary = PRN
+		
+		male_names = {
+			"Diatton Asteras" "Marmarinos Kionas" "Iodes Anemos" "Hloro Fyllo" "Synnefothraustes" "Aeonios Pagetos" "Vasilikos Strovilos" "Therinos Helios" "Nyhterinos Tromos" "Mystikos Kodikas" "Mysterios Kometes" "Pneumatikos Fruros" "Apythmenos Okeanos" "Philosophike Lithos" "Aerino Phasma"
+		}
+		female_names = { 
+			"Asimi Mageia" "Kyane Thalassa" "Kerine Omorfia" "Pikrodaphne" "Earine Isemeria"
+		}
+		dynasty_names = {
+			
+		}
 	}
 }
 northpony_group = {

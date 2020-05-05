@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = ioneighan
+religion = nimbusian_pantheon
+capital = 476
+fixed_capital = 476
+
+530.6.20 = {
+	monarch = {
+		name = "Hyppala"
+		dynasty = "Tchernia"
+		female = yes
+		birth_date = 503.7.9
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+

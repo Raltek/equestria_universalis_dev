@@ -1,7 +1,7 @@
-owner = NIM
+oowner = NIM
 controller = NIM
 culture = nimbusian
-religion = eastern_pony
+religion = nimbusian_pantheon
 add_core = NIM
 hre = no
 base_tax = 1
@@ -10,8 +10,6 @@ base_manpower = 1
 is_city = yes
 
 discovered_by = eastern
-
-center_of_trade = 1
 
 add_permanent_province_modifier = {
 	name = river_estuary_modifier

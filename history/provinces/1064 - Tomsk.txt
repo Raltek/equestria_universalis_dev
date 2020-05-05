@@ -1,8 +1,8 @@
-owner = NIM
-controller = NIM
+owner = AIR
+controller = AIR
 culture = nimbusian
-religion = eastern_pony
-add_core = NIM
+religion = nimbusian_pantheon
+add_core = AIR
 hre = no
 base_tax = 1
 base_production = 1

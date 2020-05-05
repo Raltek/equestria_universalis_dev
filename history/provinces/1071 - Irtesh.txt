@@ -1,8 +1,8 @@
-owner = NIM
-controller = NIM
-culture = nimbusian
-religion = eastern_pony
-add_core = NIM
+owner = CTR
+controller = CTR
+culture = prancestrasian
+religion = nimbusian_pantheon
+add_core = CTR
 hre = no
 base_tax = 1
 base_production = 1
