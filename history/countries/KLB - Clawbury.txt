@@ -11,7 +11,7 @@ fixed_capital = 1860
 
 national_focus = ADM
 
-1399.1.1 = {
+489.1.1 = {
 	monarch = {
 		name = "Byråd"
 		adm = 3

@@ -10,11 +10,11 @@ add_accepted_culture = pridean
 religion = archonate
 capital = 1761 # Aquila
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = "Phildebert IV"
 		dynasty = "de Marigny"
-		birth_date = 1400.3.11
+		birth_date = 490.3.11
 		adm = 1
 		dip = 2
 		mil = 2

@@ -6,10 +6,10 @@ primary_culture = rilan
 religion = archonate
 capital = 98 # Rila
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = "Fidelitas"
-		birth_date = 1400.3.11
+		birth_date = 490.3.11
 		culture = south_griffkingian
 		adm = 3
 		dip = 3

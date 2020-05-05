@@ -7,10 +7,10 @@ religion = archonate
 capital = 770
 fixed_capital = 770
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = "Markus I von Beerenbeck"
-		birth_date = 1408.7.2
+		birth_date = 498.7.2
 		adm = 3
 		dip = 5
 		mil = 1

@@ -7,11 +7,11 @@ religion = archonate
 capital = 1952
 fixed_capital = 1952
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = ""
 		dynasty = ""
-		birth_date = 1400.3.11
+		birth_date = 490.3.11
 		adm = 3
 		dip = 3
 		mil = 3

@@ -6,11 +6,11 @@ religion = pony_animism
 technology_group = north_american
 capital = 22
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = "Icicle"
 		dynasty = "Snowflake"
-		birth_date = 1387.10.5
+		birth_date = 477.10.5
 		adm = 4
 		dip = 2
 		mil = 2

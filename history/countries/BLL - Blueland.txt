@@ -9,12 +9,12 @@ capital = 4
 
 national_focus = ADM
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = "Karolina"
 		dynasty = "Blåhale"
 		female = yes
-		birth_date = 1398.10.5
+		birth_date = 500.10.5
 		adm = 3
 		dip = 2
 		mil = 2

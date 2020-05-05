@@ -7,10 +7,10 @@ religion = arantigan
 capital = 259
 fixed_capital = 259
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = "Ante Adflictio"
-		birth_date = 1408.3.11
+		birth_date = 498.3.11
 		adm = 5
 		dip = 4
 		mil = 2

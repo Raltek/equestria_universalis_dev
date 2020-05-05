@@ -8,12 +8,12 @@ religion = archonate
 capital = 62
 fixed_capital = 62
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = "Florina"
 		dynasty = "van Eimond"
 		female = yes
-		birth_date = 1411.10.5
+		birth_date = 498.10.5
 		adm = 2
 		dip = 5
 		mil = 2

@@ -1,27 +1,27 @@
 vassal = {
 	first = AQU
 	second = WST
-	start_date = 1400.1.1
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2
 }
 
 vassal = {
 	first = AQU
 	second = POM
-	start_date = 1400.1.1
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2
 }
 
 march = {
 	first = AQU
 	second = AET
-	start_date = 1400.1.1
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2
 }
 
 march = {
 	first = AQU
 	second = TAR
-	start_date = 1400.1.1
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2
 }

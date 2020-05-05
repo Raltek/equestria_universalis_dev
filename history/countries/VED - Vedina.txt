@@ -9,12 +9,12 @@ fixed_capital = 4361
 
 national_focus = DIP
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = "Katarina"
 		dynasty = "Wingstorm"
 		female = yes
-		birth_date = 1409.10.5
+		birth_date = 499.10.5
 		adm = 3
 		dip = 4
 		mil = 1

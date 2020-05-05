@@ -10,12 +10,12 @@ fixed_capital = 1940
 
 national_focus = ADM
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = "Vilfred"
 		dynasty = "Stærkpote"
 		female = no
-		birth_date = 1381.10.5
+		birth_date = 475.10.5
 		adm = 3
 		dip = 1
 		mil = 2

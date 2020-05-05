@@ -8,7 +8,7 @@ religion = archonate
 capital = 206
 fixed_capital = 206
 
-1399.1.1 = {
+495.1.1 = {
 	monarch = {
 		name = "Stadtrat"
 		adm = 3

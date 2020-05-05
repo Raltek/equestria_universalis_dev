@@ -6,11 +6,11 @@ religion = pony_animism
 technology_group = north_american
 capital = 21
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = "Frost"
 		dynasty = "Whitewood"
-		birth_date = 1394.10.5
+		birth_date = 484.10.5
 		adm = 2
 		dip = 3
 		mil = 1

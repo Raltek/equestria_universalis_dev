@@ -1,46 +1,46 @@
 guarantee = {
 	first = ROT
 	second = KLB
-	start_date = 1440.2.10
+	start_date = 500.1.1
 	end_date = 1670.1.1
 }
 
 march = {
 	first = KTR
 	second = CNA
-	start_date = 1396.5.4
+	start_date = 500.1.1
 	end_date = 1670.1.1
 }
 
 march = {
 	first = KTR
 	second = HEL
-	start_date = 1364.8.11
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2
 }
 alliance = {
 	first = FEA
 	second = RDW
-	start_date = 1364.8.11
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2
 }
 
 alliance = {
 	first = BEE
 	second = OSN
-	start_date = 1300.1.1
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2
 }
 
 guarantee = {
 	first = WIN
 	second = FLU
-	start_date = 1286.3.11
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2
 }
 
 alliance = {
 	first = AIW
 	second = VLE
-	start_date = 1300.1.1
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2

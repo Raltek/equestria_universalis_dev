@@ -1,24 +1,24 @@
 vassal = {
 	first = VED
 	second = SKR
-	start_date = 1435.1.1
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2
 }
 vassal = {
 	first = VED
 	second = WNT
-	start_date = 1435.1.1
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2
 }
 march = {
 	first = VED
 	second = BLK
-	start_date = 1435.1.1
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2
 }
 guarantee = {
 	first = VED
 	second = VNG
-	start_date = 1440.2.10
-	end_date = 1670.1.1
+	start_date = 500.1.1
+	end_date = 535.1.2
 }

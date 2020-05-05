@@ -8,12 +8,12 @@ religion = old_believer
 capital = 258
 fixed_capital = 258
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = "Frederick V"
 		dynasty = "von Ravensburg"
 		female = no
-		birth_date = 1411.10.5
+		birth_date = 505.10.5
 		adm = 3
 		dip = 5
 		mil = 4

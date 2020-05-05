@@ -6,11 +6,11 @@ religion = pony_animism
 technology_group = north_american
 capital = 4241
 
-1440.6.20 = {
+530.6.20 = {
 	monarch = {
 		name = "Needle"
 		dynasty = "Pinegrove"
-		birth_date = 1418.10.5
+		birth_date = 508.10.5
 		adm = 3
 		dip = 5
 		mil = 1
