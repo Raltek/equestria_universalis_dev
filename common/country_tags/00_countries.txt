@@ -94,6 +94,16 @@ AIR = "countries/Airopoli.txt"
 WHI = "countries/Whirlwind.txt"
 PAL = "countries/Paltrotria.txt"
 DMT = "countries/DiamondMountain.txt"
+DLN = "countries/Dealanaich.txt"
+SAI = "countries/Saibhir.txt"
+TOB = "countries/Tobar.txt"
+DRI = "countries/Draiocht.txt"
+CRG = "countries/Croga.txt"
+AIL = "countries/Aille.txt"
+ARH = "countries/Ardbheirthe.txt"
+GUN = "countries/Guairnean.txt"
+DTH = "countries/Dithreabh.txt"
+
 
 # Wingbardy
 WNG = "countries/Wingbardy.txt"

@@ -1,0 +1,21 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = ponaidhean
+religion = anam_teine
+capital = 4222
+fixed_capital = 4222
+
+530.6.20 = {
+	monarch = {
+		name = "Gradha"
+		dynasty = "NicDrochaid"
+		female = yes
+		birth_date = 510.2.5
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

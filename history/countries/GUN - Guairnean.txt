@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = ponaidhean
+religion = anam_teine
+capital = 1966
+fixed_capital = 1966
+
+530.6.20 = {
+	monarch = {
+		name = "Glice"
+		dynasty = "NicInntinn"
+		female = no
+		birth_date = 484.2.5
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+

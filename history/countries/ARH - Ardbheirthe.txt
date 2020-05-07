@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = ponaidhean
+religion = anam_teine
+capital = 477
+fixed_capital = 477
+
+530.6.20 = {
+	monarch = {
+		name = "Naomhi"
+		dynasty = "NicManach"
+		female = yes
+		birth_date = 483.3.3
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+}
+

@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = ponaidhean
+religion = anam_teine
+capital = 217
+fixed_capital = 217
+
+530.6.20 = {
+	monarch = {
+		name = "Seolt"
+		dynasty = "NicBeinn"
+		female = no
+		birth_date = 493.2.8
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+}
+

@@ -1,0 +1,23 @@
+government = native government_rank = 1
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = ponaidhean
+religion = anam_teine
+capital = 2361
+fixed_capital = 2361
+
+530.6.20 = {
+	monarch = {
+		name = "Seoladair"
+		dynasty = "NicBata"
+		female = no
+		birth_date = 507.1.1
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+}
+

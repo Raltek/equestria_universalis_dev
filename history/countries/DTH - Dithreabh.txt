@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = ponaidhean
+religion = anam_teine
+capital = 1067
+fixed_capital = 1067
+
+530.6.20 = {
+	monarch = {
+		name = "Uailla"
+		dynasty = "NicBanrigh"
+		female = yes
+		birth_date = 506.9.11
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+

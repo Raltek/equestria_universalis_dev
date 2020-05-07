@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = ponaidhean
+religion = anam_teine
+capital = 2360
+fixed_capital = 2360
+
+530.6.20 = {
+	monarch = {
+		name = "Ardria"
+		dynasty = "NicTreun"
+		female = yes
+		birth_date = 516.1.9
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+

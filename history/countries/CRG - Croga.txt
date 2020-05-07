@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = ponaidhean
+religion = anam_teine
+capital = 2352
+fixed_capital = 2352
+
+530.6.20 = {
+	monarch = {
+		name = "Bheanna"
+		dynasty = "NicDamh"
+		female = yes
+		birth_date = 502.3.4
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
