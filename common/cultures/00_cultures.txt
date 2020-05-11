@@ -370,7 +370,7 @@ aquileian = {
 		primary = RLA
 	}
 	vinovian = {
-		primary = VIN
+		primary = VNV
 	}
 	tarrinian = {
 		primary = TAR
