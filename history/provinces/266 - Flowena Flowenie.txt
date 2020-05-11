@@ -1,6 +1,7 @@
 owner = POM
 controller = POM
 add_core = POM
+add_core = FLO
 culture = pomovarran
 religion = archonate
 hre = no
