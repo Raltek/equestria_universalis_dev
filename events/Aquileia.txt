@@ -25,6 +25,10 @@ country_event = { #Aquileia breaks apart in the aftermath of the Discret Takeove
 		months = 6
 	}
 	
+	immediate = {
+		set_country_flag = discret_takeover_flag_start
+	}
+	
 	option = {
 		name = "aquileia.1.a"
 		ai_chance = { factor = 100 }
@@ -41,10 +45,25 @@ country_event = { #Aquileia breaks apart in the aftermath of the Discret Takeove
 			claim = 100
 			male = yes
 		}
-		country_event = {
-			id = aquileia.2
-			days = 7
-			random = 3
+		1761 = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+				use_heir_as_leader = yes
+			}
+		}
+		188 = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 1
+			}
+		}
+		hidden_effect = {
+			country_event = {
+				id = aquileia.2
+				days = 7
+				random = 3
+			}
 		}
 	}
 }
@@ -59,6 +78,10 @@ country_event = { #Aquileia breaks apart in the aftermath of the Discret Takeove
 	
 	is_triggered_only = yes
 	
+	immediate = {
+		set_country_flag = discret_takeover_flag_complete
+	}
+	
 	option = {
 		name = "aquileia.2.a"
 		ai_chance = { factor = 100 }
@@ -68,21 +91,10 @@ country_event = { #Aquileia breaks apart in the aftermath of the Discret Takeove
 		WST = { grant_independence = yes }
 		POM = { grant_independence = yes }
 		TAR = { grant_independence = yes }
-		create_subject = {
-			subject_type = vassal
-			subject = RLA
-		}
-		create_subject = {
-			subject_type = vassal
-			subject = VNV
-		}
-		create_subject = {
-			subject_type = vassal
-			subject = FLW
-		}
-		create_subject = {
-			subject_type = march
-			subject = WSK
-		}
+		create_vassal = RLA
+		create_vassal = VNV
+		create_vassal = FLW
+		create_vassal = WSK
+		create_vassal = PRI
 	}
 }

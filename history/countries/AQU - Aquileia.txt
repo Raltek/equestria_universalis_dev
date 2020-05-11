@@ -22,3 +22,15 @@ capital = 1761 # Aquila
 	}
 }
 
+heir = {
+	name = "Arnaud"
+	monarch_name = "Arnaud III"
+	dynasty = "de Marigny"
+	birth_date = 521.8.22
+	claim = 95
+	adm = 3
+	dip = 2
+	mil = 2
+	male = yes
+}
+
