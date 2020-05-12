@@ -170,4 +170,17 @@ pony_religion = {
 		local_missionary_strength= -0.01
 	}	
 	}
+	waveism = {
+		color = {0 0 80}
+		icon = 3
+			country = {
+			stability_cost_modifier = -0.1	
+			}
+
+		country_as_secondary = {
+			stability_cost_modifier = -0.1	
+		}
+
+	}
+
 }

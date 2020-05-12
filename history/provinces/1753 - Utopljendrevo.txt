@@ -1,10 +1,10 @@
 # No previous file for Bakara
 
-owner = BAK
-controller = BAK
+owner = MEB
+controller = MEB
 culture = bakaran
 religion = waveism
-add_core = BAK
+add_core = MEB
 hre = no
 base_tax = 1
 base_production = 1
@@ -12,4 +12,4 @@ base_manpower = 1
 is_city = yes
 
 discovered_by = eastern
-center_of_trade = 2
+

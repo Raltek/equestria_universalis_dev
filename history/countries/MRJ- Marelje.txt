@@ -1,0 +1,21 @@
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = bakaran
+religion = waveism
+capital = 4255
+fixed_capital = 4255
+
+530.6.20 = {
+	monarch = {
+		name = "Blue"
+		dynasty = "Sun"
+		female = no
+		birth_date = 504.2.9
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}

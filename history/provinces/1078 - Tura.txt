@@ -1,4 +1,4 @@
-oowner = NIM
+owner = NIM
 controller = NIM
 culture = nimbusian
 religion = nimbusian_pantheon

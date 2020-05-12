@@ -1,0 +1,21 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = bakaran
+religion = waveism
+capital = 4122
+fixed_capital = 4122
+
+530.6.20 = {
+	monarch = {
+		name = "Serene"
+		dynasty = "Calm"
+		female = yes
+		birth_date = 471.3.3
+		adm = 4
+		dip = 5
+		mil = 0
+	}
+}

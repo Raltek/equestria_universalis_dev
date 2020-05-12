@@ -1,0 +1,21 @@
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = bakaran
+religion = waveism
+capital = 4256
+fixed_capital = 4256
+
+530.6.20 = {
+	monarch = {
+		name = "Hoof"
+		dynasty = "Wright"
+		female = no
+		birth_date = 489.2.3
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}

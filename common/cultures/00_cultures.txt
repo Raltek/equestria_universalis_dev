@@ -579,6 +579,9 @@ riverpony_group = {
 	lakepony = {
 		primary = LCT
 	}
+	bakaran = {
+		primary = BAK
+	}
 
 	male_names = {
 		Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
@@ -589,6 +592,7 @@ riverpony_group = {
 	dynasty_names = {
 		Wings Fashion Colt Cinnamon Twirl Scarlet Harmony Little Snowflake Bubblegum Mythic Star Amethyst Lilly Solar Wings Emerald Fashion Dew Smooch
 	}
+
 }
 
 nimbusian_group = {

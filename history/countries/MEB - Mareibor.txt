@@ -1,0 +1,21 @@
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = bakaran
+religion = waveism
+capital = 307
+fixed_capital = 307
+
+530.6.20 = {
+	monarch = {
+		name = "Tight"
+		dynasty = "Hoof"
+		female = no
+		birth_date = 505.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}

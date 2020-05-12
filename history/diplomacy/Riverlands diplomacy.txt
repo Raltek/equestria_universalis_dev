@@ -1,0 +1,21 @@
+alliance = {
+	first = BAK
+	second = VET
+	trade_league = 1
+	start_date = 530.1.1
+	end_date = 540.1.1
+}
+alliance = {
+	first = BAK
+	second = POP
+	trade_league = 1
+	start_date = 530.1.1
+	end_date = 540.1.1
+}
+alliance = {
+	first = BAK
+	second = MRJ
+	trade_league = 1
+	start_date = 530.1.1
+	end_date = 540.1.1
+}

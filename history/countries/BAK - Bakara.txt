@@ -1,0 +1,21 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = bakaran
+religion = waveism
+capital = 1079
+fixed_capital = 1079
+
+530.6.20 = {
+	monarch = {
+		name = "Wave"
+		dynasty = "Rider"
+		female = no
+		birth_date = 512.2.3
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}

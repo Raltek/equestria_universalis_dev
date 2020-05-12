@@ -103,6 +103,15 @@ AIL = "countries/Aille.txt"
 ARH = "countries/Ardbheirthe.txt"
 GUN = "countries/Guairnean.txt"
 DTH = "countries/Dithreabh.txt"
+BAK = "countries/Bakara.txt"
+VET = "countries/Vetailje.txt"
+KOP = "countries/Kopito.txt"
+MRJ = "countries/Marelje.txt"
+LAD = "countries/Ladje.txt"
+POP = "countries/Ponipes.txt"
+MEB = "countries/Mareibor.txt"
+
+
 
 
 # Wingbardy
