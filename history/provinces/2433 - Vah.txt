@@ -1,7 +1,7 @@
 owner = RCT
 controller = RCT
 culture = riverpony
-religion = eastern_pony
+religion = rjiken
 add_core = RCT
 hre = no
 base_tax = 1

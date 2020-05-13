@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = elective_monarchy
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = austurlander
+religion = olenian
+capital = 2434
+fixed_capital = 2434
+
+530.6.20 = {
+	monarch = {
+		name = "Stigi"
+		dynasty = "Gerir"
+		female = no
+		birth_date = 487.10.3
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}

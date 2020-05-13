@@ -1,8 +1,8 @@
-owner = RCT
-controller = RCT
-culture = riverpony
-religion = rjiken
-add_core = RCT
+owner = OLV
+controller = OLV
+culture = austurlander
+religion = olenian
+add_core = OLV
 hre = no
 base_tax = 1
 base_production = 1

@@ -196,5 +196,39 @@ pony_religion = {
 		local_missionary_strength= -0.01
 	}	
 	}
+	rjiken = {
+		color = {63 161 111}
+		icon = 15
+			country = {
+			stability_cost_modifier = -0.1	
+			}
+
+		country_as_secondary = {
+			stability_cost_modifier = -0.1	
+		}
+	province = {
+		local_missionary_strength= -0.01
+	}	
+	}
 
 }
+
+deer_religion = {
+	defender_of_faith = yes
+	olenian = {
+		color = { 229 204 255 }
+		icon = 14
+		country = {
+			tolerance_heathen = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_heathen = 1
+			global_unrest = -1
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+	}
+	}

@@ -83,6 +83,7 @@ VLE = "countries/Vleugeland.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"
+CLV = "countries/Coltovac.txt"
 LCT = "countries/LakeCity.txt"
 NIM = "countries/Nimbusia.txt"
 PNY = "countries/Ponygros.txt"
@@ -113,6 +114,7 @@ MEB = "countries/Mareibor.txt"
 WIT = "countries/Wittenland.txt"
 FRH = "countries/Fireshore.txt"
 SRL = "countries/Segursland.txt"
+OLV = "countries/Austurland.txt"
 
 
 # Wingbardy

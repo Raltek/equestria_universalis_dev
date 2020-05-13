@@ -1,4 +1,15 @@
-# No previous file for Hjardholt
+owner = OLV
+controller = OLV
+culture = austurlander
+religion = olenian
+add_core = OLV
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = eastern
 add_permanent_province_modifier = {
 	name = river_estuary_modifier
 	duration = -1

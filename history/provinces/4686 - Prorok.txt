@@ -1,8 +1,8 @@
-owner = RCT
-controller = RCT
+owner = CLV
+controller = CLV
 culture = riverpony
 religion = rjiken
-add_core = RCT
+add_core = CLV
 hre = no
 base_tax = 1
 base_production = 1
