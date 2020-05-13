@@ -1,0 +1,22 @@
+government = republic_mechanic
+add_government_reform = pirate_republic_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = barradian
+religion = mountain_worship
+capital = 1074
+fixed_capital = 1074
+
+530.6.20 = {
+	monarch = {
+		name = "Board"
+		dynasty = "Hook"
+		female = no
+		birth_date = 497.3.3
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+

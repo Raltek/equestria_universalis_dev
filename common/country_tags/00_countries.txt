@@ -110,8 +110,9 @@ MRJ = "countries/Marelje.txt"
 LAD = "countries/Ladje.txt"
 POP = "countries/Ponipes.txt"
 MEB = "countries/Mareibor.txt"
-
-
+WIT = "countries/Wittenland.txt"
+FRH = "countries/Fireshore.txt"
+SRL = "countries/Segursland.txt"
 
 
 # Wingbardy

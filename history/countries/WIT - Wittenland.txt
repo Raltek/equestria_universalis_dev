@@ -1,0 +1,22 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = wittenlandic
+religion = mountain_worship
+capital = 2367
+fixed_capital = 2367
+
+530.6.20 = {
+	monarch = {
+		name = "Marethusa"
+		dynasty = "Cup"
+		female = yes
+		birth_date = 502.9.8
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+

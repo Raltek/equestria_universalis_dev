@@ -1,8 +1,8 @@
-owner = RCT
-controller = RCT
-culture = riverpony
-religion = eastern_pony
-add_core = RCT
+owner = WIT
+controller = WIT
+culture = barradian
+religion = mountain_worship
+add_core = WIT
 hre = no
 base_tax = 1
 base_production = 1

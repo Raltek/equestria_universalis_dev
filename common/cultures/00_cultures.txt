@@ -698,6 +698,38 @@ highpony_group = {
 			Stiubhart Singlear Sutherlarach
 		}
 	}
+
+		wittenlandic = {
+		primary = WIT
+
+		male_names = {
+			Silver Gold
+		}
+
+		female_names = {
+			White Black Honoria 
+		}
+
+		dynasty_names = {
+			Star Tower Moon Light Mountain 
+		}
+	}
+
+		barradian = {
+		primary = SRL
+
+		male_names = {
+			Silver Gold Hook Board Shot Ram
+		}
+
+		female_names = {
+			White Black Honoria 
+		}
+
+		dynasty_names = {
+			Star Tower Moon Light Mountain Ship Sail 
+		}
+	}
 }
 
 northpony_group = {

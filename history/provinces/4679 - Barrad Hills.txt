@@ -1,8 +1,8 @@
-owner = LCT
-controller = LCT
-culture = lakepony
-religion = eastern_pony
-add_core = LCT
+owner = WIT
+controller = WIT
+culture = barradian
+religion = mountain_worship
+add_core = WIT
 hre = no
 base_tax = 1
 base_production = 1
