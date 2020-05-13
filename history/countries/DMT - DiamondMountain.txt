@@ -1,0 +1,32 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = diamond
+religion = diamond_dog_faith
+capital = 4147
+fixed_capital = 4147
+
+530.6.20 = {
+	monarch = {
+		name = "Bello"
+		dynasty = "Goldmace"
+		female = no
+		birth_date = 493.10.5
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+530.6.21 = {
+	heir = {
+		name = "Loyal"
+		dynasty = "Goldmace"
+		female = no
+		birth_date = 530.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}

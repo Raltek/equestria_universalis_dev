@@ -232,3 +232,23 @@ deer_religion = {
 		
 	}
 	}
+
+dog_religion = {
+	defender_of_faith = yes
+	diamond_dog_faith = {
+		color = { 141 158 169 }
+		icon = 18
+		country = {
+			tolerance_heathen = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_heathen = 1
+			global_unrest = -1
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+	}
+	}
