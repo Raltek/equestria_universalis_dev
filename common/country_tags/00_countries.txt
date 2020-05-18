@@ -115,6 +115,12 @@ WIT = "countries/Wittenland.txt"
 FRH = "countries/Fireshore.txt"
 SRL = "countries/Segursland.txt"
 OLV = "countries/Austurland.txt"
+VIS = "countries/Visaginas.txt"
+IND = "countries/Indrija.txt"
+AIN = "countries/Ainaseil.txt"
+RIK = "countries/Rikismestan.txt"
+LAM = "countries/Laukstrum.txt"
+SWA = "countries/Swarew.txt"
 
 
 # Wingbardy

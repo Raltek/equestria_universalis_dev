@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = ilgakardian
+religion = varene
+capital = 2199
+fixed_capital = 2199
+
+530.6.20 = {
+	monarch = {
+		name = "Dovydas"
+		dynasty = "Ipoltas"
+		female = no
+		birth_date = 494.3.5
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}

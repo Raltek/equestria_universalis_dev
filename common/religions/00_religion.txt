@@ -210,6 +210,30 @@ pony_religion = {
 		local_missionary_strength= -0.01
 	}	
 	}
+	ponikami = {
+		color = {161 81 63}
+		icon = 13
+			country = {
+			stability_cost_modifier = -0.1	
+			}
+
+		country_as_secondary = {
+			stability_cost_modifier = -0.1	
+		}
+
+	}
+	varene = {
+		color = {122 56 115}
+		icon = 10
+			country = {
+			stability_cost_modifier = -0.1	
+			}
+
+		country_as_secondary = {
+			stability_cost_modifier = -0.1	
+		}
+
+	}
 
 }
 

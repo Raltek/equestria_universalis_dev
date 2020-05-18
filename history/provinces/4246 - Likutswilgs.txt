@@ -1,13 +1,12 @@
-owner = KTR
-controller = KTR
+owner = SWA
+controller = SWA
 culture = hellquil
 religion = varene
-add_core = KTR
-add_core = AIN
+add_core = SWA
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
 
-discovered_by = western
+discovered_by = eastern

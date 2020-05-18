@@ -1,13 +1,14 @@
-owner = KTR
-controller = KTR
+owner = IND
+controller = IND
 culture = ilgakardian
 religion = varene
-add_core = KTR
-add_core = VIS
+add_core = IND
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
 
-discovered_by = western
+center_of_trade = 1
+
+discovered_by = eastern

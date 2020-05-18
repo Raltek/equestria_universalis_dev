@@ -1,8 +1,9 @@
 owner = KTR
 controller = KTR
-culture = katerin
+culture = ilgakardian
 religion = archonate
 add_core = KTR
+add_core = VIS
 hre = no
 base_tax = 1
 base_production = 1

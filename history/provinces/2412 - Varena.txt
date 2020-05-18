@@ -1,8 +1,8 @@
-owner = LCT
-controller = LCT
-culture = lakepony
-religion = ponikami
-add_core = LCT
+owner = VIS
+controller = VIS
+culture = ilgakardian
+religion = varene
+add_core = VIS
 hre = no
 base_tax = 1
 base_production = 1

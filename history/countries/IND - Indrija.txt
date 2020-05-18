@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = ilgakardian
+religion = varene
+capital = 261
+fixed_capital = 261
+
+530.6.20 = {
+	monarch = {
+		name = "Rasa"
+		dynasty = "Butkus"
+		female = yes
+		birth_date = 513.2.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}

@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = hellquil
+religion = varene
+capital = 467
+fixed_capital = 299
+
+530.6.20 = {
+	monarch = {
+		name = "Vytautas"
+		dynasty = "Maziulis"
+		female = no
+		birth_date = 498.2.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}

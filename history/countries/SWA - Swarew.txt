@@ -1,0 +1,21 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = hellquil
+religion = varene
+capital = 4246
+fixed_capital = 4246
+
+530.6.20 = {
+	monarch = {
+		name = "Vardi"
+		dynasty = "Dailuns"
+		female = no
+		birth_date = 504.6.2
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}

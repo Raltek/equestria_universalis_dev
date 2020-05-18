@@ -1,8 +1,8 @@
-owner = LCT
-controller = LCT
-culture = lakepony
-religion = eastern_pony
-add_core = LCT
+owner = AIN
+controller = AIN
+culture = hellquil
+religion = varene
+add_core = AIN
 hre = no
 base_tax = 1
 base_production = 1

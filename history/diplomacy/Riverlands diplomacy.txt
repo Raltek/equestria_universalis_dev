@@ -19,3 +19,17 @@ alliance = {
 	start_date = 530.1.1
 	end_date = 540.1.1
 }
+
+vassal = {
+	first = LCT
+	second = VIS
+	start_date = 530.1.1
+	end_date = 540.1.1
+}
+
+vassal = {
+	first = LCT
+	second = IND
+	start_date = 530.1.1
+	end_date = 540.1.1
+}

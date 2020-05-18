@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+unit_type = eastern
+primary_culture = hellquil
+religion = varene
+capital = 283
+fixed_capital = 283
+
+530.6.20 = {
+	monarch = {
+		name = "Letas"
+		dynasty = "Palmaitis"
+		female = no
+		birth_date = 501.6.6
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
