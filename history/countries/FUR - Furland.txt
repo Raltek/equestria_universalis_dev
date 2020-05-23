@@ -1,0 +1,18 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+primary_culture = northpony
+religion = pony_animism
+technology_group = north_american
+capital = 313
+
+530.6.20 = {
+	monarch = {
+		name = "Cloak"
+		dynasty = "Winter"
+		birth_date = 494.5.6
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}

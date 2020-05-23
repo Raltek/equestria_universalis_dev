@@ -759,10 +759,6 @@ varten_group = {
 		}
 	hellquil = {
 	primary = RIK
-
-	ilgakardian = {
-	primary = IND
-	}
 	male_names = {
 			Zygimantas Kazimieras Aleksandras Jonas Albertas Zygimantas Augustas Vytautas Jogaila Vladislovas 
 			Algirdas Stanislovas Svitrigaila Mindaugas Albertas Andrius Antanas Aras Arturas Azuolas 
@@ -788,7 +784,7 @@ varten_group = {
 northpony_group = {
 	graphical_culture = northamericagfx
 	northpony = {
-	}
+	primary = FAR
 	male_names = {
 		Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
 	}
@@ -798,6 +794,7 @@ northpony_group = {
 	dynasty_names = {
 		Wings Fashion Colt Cinnamon Twirl Scarlet Harmony Little Snowflake Bubblegum Mythic Star Amethyst Lilly Solar Wings Emerald Fashion Dew Smooch
 	}
+}
 }
 diamond_dog = {
 	graphical_culture = easterngfx
@@ -891,5 +888,72 @@ olenian_group = {
 			# CKII
 			"Skanke" "Bolt" "Giske" "Brockenhuus" "Adelswärd" "Kane" "Blixen" "Løvendal" "Balke"
 			"Vedel" "Bjelke" "Galle" "Griis"
+		}
+}
+}
+
+changeling_group = {
+	graphical_culture = asiangfx
+	greneclyf = {
+	primary = NCH
+		male_names = {
+					Turlough Donal Muireadhach Conchobhar Feidlimidh Cathaoir Muchadh Áed Fonnchadh Brian Criomhthann Art Cathal 
+					Gearóid Muiris Tadhg Seán Niall Einrí Conn Eoghan Aonghus Comhghall Maeleachlain Diarmaid Flann Aerdghal 
+					Bearach Caoímhin Donnabhain Eíhmhín Fearghal Iarfhlaith Lorccán Mathúin Naomhán Oisín Pádraig Ríagáin 
+					Somhairle
+		}
+		female_names = {
+			Saraid Órfhlaith Fedelma
+			Ablach Áedammair Affraic Euphemia Aíbinn Aibilín Eva Aileann Áine Agnes Anlaith Aróc Aíbinn 
+			Barrdub Ben-Laigen Ben-Míde Ben-Muman Ben-Ulad Brigit Brigit Bé-Fáil Bébinn Cacht 
+			Caillech-Fhinnéin Cainnech Caisséne Caitilín Catherine Caíntigern Caírech Cathán Catríona 
+			Catherine Cellach Ciar Cnes Coblaith Cobflaith Cobflaith Cobflaith Conchenn Condál Crínóch 
+			Crístina Christina Cumman Deirdre Der-bForgaill Devorguilla Derbáil Derborgaill Devorguilla 
+			Der-Ilei Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla 
+			Dúinsech Dúnlaith Echrad Éibhleann Eilionora Eleanor Eithne Eithne Ellbríg Emer Emer Étaín 
+			Eva Euginia Eugenia Faílenn Fedelm Finneacht Finnguala Finnguala Flann Forbflaith Fíne Garb 
+			Gelgéis Gerróc Gnathnad Gormflaith Gormflaith Gormlaith Gormflaith Gráinne Imag Íte Lann 
+			Lasairfíona Lathir Lerben Lerthan Lígach Lucia Lucia Martha Martha Mauda Matilda Muadhnait 
+			Muirenn Murron Muirgel Muriel Muirne Morna Máel-Mide Máel-Muire Malmure Máire Maria Máiread 
+			Máirgred Margaret Mór Mor Mór-Muman Nárbflaith Nuala Finnguala Órlaith Órnat Róis Ros Sadb 
+			Samthann Scáthach Sébdann Selblaith Seonaid Joan Sinech Siobán Joan Sisuile Sláíne Slaine 
+			Sorcha Suaibsech Sáerlaith Sétach Síthmaith Tailefhlaith Tailltiu Temair Tuathflaith Tómnat 
+			Uallach Uasal Úna Una Mona Éua
+		}
+		dynasty_names = { 
+			"O'Donnell" "O'Neill" "O'Connor" "O'Brien" MacLochlainn MacMurrough MacWilliam
+			MacNamara "O'Reilly"  "FitzGerald" Kelly
+			"Meic Bráenáin" "MacMorrough Kavanagh" "Dál gCais" "Ua Fáeláin" "Shannon"
+			"FitzPatrick" "O Ruairc" "O'More" "O' Conchobair" "MacDermot" "O' Cellaigh"
+			"Mac Sweeney" "O'Doherty" "Burke" "O' Cathail" "O'Clery" "Mac Egan" "O' Fergail"
+			"O'Flaherty" "O' Gallchobhair" "Cotter" "O' Faoláin" "MacIntyre" "O'Queely"
+			"Corcu Loígde"
+		}
+
+		}
+}
+
+tarpean_group = {
+	graphical_culture = westerngfx
+	tarpean = {
+	primary = ARC
+		male_names = {
+					Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
+			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
+			Ancietus Reinhold August Elias Harald Eggert Konrad Fritz Cornelius Erhard Horst Herbert Rolf
+			Wilhelm Erwin Wolfgang Kalus Friedrich Rikard Siegfried Gustav Heinrich Waldemar Theodor Ludwig 
+			Oskar Ferdinand Albrecht Reinhardt Strom
+		}
+		female_names = {
+		Jessica Emma Hanna Sofia Marie Iris Elsa Victoria Karin Ingrid Margarethe Edith Erna Mia Theresa
+		Pauline Louisa Luoise Clara Sara Karja Eva Sophie Carla Gretchen Kathrine Heidi Lorelei Regitze Ilsa Wilhelmina 
+		Ulrike Sieglinde Wanda Ulla Ingeborg Charlotte Hedwig Irene Rita Anne Elsbeth Elisabeth Rosa Sonja Barbara Brunhilde
+		}
+		dynasty_names = { 
+		Greytalon Mistfeather Stormfeather Raincrest Hellcrest Bronzetail Thundertail Mudbeak Helltalon Duskwing
+		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
+		Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing
+		}
+
 		}
 }

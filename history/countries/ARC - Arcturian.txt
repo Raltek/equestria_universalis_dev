@@ -1,0 +1,20 @@
+government = theocracy 
+add_government_reform = monastic_order_reform
+technology_group = western
+unit_type = western
+primary_culture = tarpean
+religion = old_believer
+capital = 30	#Tarpean Rock
+fixed_capital = 30
+
+530.6.20 = {
+	monarch = {
+		name = "Frederik"
+		dynasty = "Lightbringer"
+		female = no
+		birth_date = 479.4.5
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}

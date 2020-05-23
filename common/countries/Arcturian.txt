@@ -1,0 +1,53 @@
+#Sweden
+
+graphical_culture = westerngfx	 
+
+color = { 210 201 129  }
+
+historical_idea_groups = {
+	administrative_ideas
+	offensive_ideas
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+	defensive_ideas
+	expansion_ideas
+	trade_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	
+}
+
+leader_names = {
+	
+}
+
+ship_names = {
+	
+}
+
+army_names = {
+
+}
+
+fleet_names = {
+
+}

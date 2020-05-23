@@ -1,0 +1,19 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+primary_culture = greneclyf
+religion = greneclyfian
+technology_group = north_american
+capital = 4257
+
+530.6.20 = {
+	monarch = {
+		name = "Samhradh"
+		dynasty = "Athru"
+		birth_date = 519.3.4
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}

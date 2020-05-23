@@ -28,6 +28,7 @@ PNE = "countries/Pinegrove.txt"
 ICT = "countries/Icetail.txt"
 ELF = "countries/Elf_Lake.txt"
 WNT = "countries/Winterhold.txt"
+ARC = "countries/Arcturian.txt"
 
 # Heartlands
 VIN = "countries/Vinnin.txt"
@@ -122,6 +123,12 @@ RIK = "countries/Rikismestan.txt"
 LAM = "countries/Laukstrum.txt"
 SWA = "countries/Swarew.txt"
 
+#Hillland
+NCH = "countries/Greneclyf.txt"
+FAR = "countries/Farbrook.txt"
+WAT = "countries/Watertowns.txt"
+FIR = "countries/Firtree.txt"
+FUR = "countries/Furland.txt"
 
 # Wingbardy
 WNG = "countries/Wingbardy.txt"

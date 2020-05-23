@@ -1,0 +1,18 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+primary_culture = northpony
+religion = pony_animism
+technology_group = north_american
+capital = 37
+
+530.6.20 = {
+	monarch = {
+		name = "Clear"
+		dynasty = "Source"
+		birth_date = 494.5.4
+		adm = 4
+		dip = 4
+		mil = 0
+	}
+}

@@ -1,8 +1,8 @@
-owner = ARC
-controller = ARC
-culture = tarpean
+owner = 
+controller = 
+culture = griffkingian
 religion = old_believer
-add_core = ARC
+add_core = 
 hre = no
 base_tax = 1
 base_production = 1
@@ -10,4 +10,3 @@ base_manpower = 1
 is_city = yes
 
 discovered_by = western
-
