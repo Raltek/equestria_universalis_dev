@@ -357,7 +357,7 @@ adelart_area = {
 	42 2958 767
 }
 
-easttarrin_area {
+easttarrin_area = {
 	69 76 1868 4335
 }
 

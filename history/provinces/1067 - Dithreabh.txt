@@ -3,7 +3,7 @@ controller = DTH
 add_core = DTH
 culture = ponaidhean
 religion = anam_teine
-
+trade_goods = wool
 hre = no
 base_tax = 1
 base_production = 1

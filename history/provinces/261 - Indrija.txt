@@ -4,11 +4,11 @@ culture = ilgakardian
 religion = varene
 add_core = IND
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 2
+base_production = 2
 base_manpower = 1
 is_city = yes
-
+trade_goods = cloth
 center_of_trade = 1
 
 discovered_by = eastern

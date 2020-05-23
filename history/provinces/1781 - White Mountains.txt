@@ -1,0 +1,2 @@
+# No previous file for White Mountains
+discovered_by = eastern

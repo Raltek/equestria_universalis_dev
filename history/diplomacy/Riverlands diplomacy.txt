@@ -33,3 +33,10 @@ vassal = {
 	start_date = 530.1.1
 	end_date = 540.1.1
 }
+
+alliance = {
+	first = RCT
+	second = CLV
+	start_date = 530.1.1
+	end_date = 800.1.1
+}

@@ -4,9 +4,9 @@ culture = diamond
 religion = diamond_dog_faith
 add_core = DMT
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 9
+base_production = 10
+base_manpower = 7
 is_city = yes
-
+trade_goods = gold
 discovered_by = eastern

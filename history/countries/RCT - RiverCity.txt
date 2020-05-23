@@ -1,12 +1,13 @@
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 1
+government_rank = 2
 technology_group = eastern
 unit_type = eastern
 primary_culture = riverpony
 religion = rjiken
 capital = 2429
 fixed_capital = 2429
+historical_friend = CLV
 
 530.6.20 = {
 	monarch = {

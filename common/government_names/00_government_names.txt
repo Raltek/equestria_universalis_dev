@@ -314,6 +314,164 @@ aquileian_government = {
 	}
 }
 
+lakepony_government = {
+	rank = {
+		1 = DUCHY
+		2 = PRINCEDOM
+		3 = GRAND_PRINCIPALITY
+	}
+
+	ruler_male = {
+		1 = VOJVODA
+		2 = PRINCE
+		3 = GRAND_PRINCE
+	}
+
+	ruler_female = {
+		1 = VOJVODKINJA
+		2 = PRINCESS
+		3 = GRAND_PRINCESS
+	}
+	
+	consort_male  = {
+		1 = LORD
+		2 = LORD
+		3 = LORD
+	}
+	
+	consort_female = {
+		1 = LADY
+		2 = LADY
+		3 = LADY
+	}
+	
+	heir_male = {
+		1 = HEIR
+		2 = HEIR
+		3 = CROWN_PRINCE
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = HEIR_fem
+		3 = CROWN_PRINCESS
+	}
+	
+	trigger = {
+		government = monarchy
+		OR = {
+			tag = LCT
+			primary_culture = lakepony
+		}
+	}
+}
+
+rivercity_monarchy = {
+	rank = {
+		1 = PRINCEDOM
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = BAN_TITLE
+		2 = KRALJ
+		3 = CAR
+	}
+
+	ruler_female = {
+		1 = BAN_TITLE
+		2 = KRALJICA
+		3 = CARICA
+	}
+
+	trigger = {
+		government = monarchy
+		primary_culture = riverpony
+	}
+}
+
+ponaidhean_clan_tribal = {
+	rank = {
+		1 = CLAN
+		2 = KINGDOM
+		3 = HIGH_KINGDOM
+	}
+
+	ruler_male = {
+		1 = TRIATH
+		2 = TOISICHE
+		3 = TAOISEACH
+	}
+
+	ruler_female = {
+		1 = TRIATH
+		2 = TOISICHE
+		3 = TAOISEACH
+	}
+
+	trigger = {
+		government = tribal
+		primary_culture = ponaidhean
+	}
+}
+
+ponaidhean_clan_monarchy = {
+	rank = {
+		1 = KINGDOM
+		2 = HIGH_KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = TOISICHE
+		2 = TAOISEACH
+		3 = EMPEROR
+	}
+
+	ruler_female = {
+		1 = TOISICHE
+		2 = TAOISEACH
+		3 = EMPRESS
+	}
+
+	trigger = {
+		government = monarchy
+		primary_culture = ponaidhean
+	}
+}
+
+ponaidhean_peerage_monarchy = {
+	rank = {
+		1 = EARLDOM
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = EARL
+		2 = HIGH_KING
+		3 = EMPEROR
+	}
+
+	ruler_female = {
+		1 = COUNTESS
+		2 = HIGH_QUEEN
+		3 = EMPRESS
+	}
+
+	trigger = {
+		government = monarchy
+		primary_culture = ponaidhean
+		overlord = {
+			OR = {
+				primary_culture = wittenlandic
+				primary_culture = barradian
+			}
+		}
+	}
+}
+
 ###Vanilla ones that don't use vanilla cultures/tags/religions etc.
 pirate_government = {
 	rank = {

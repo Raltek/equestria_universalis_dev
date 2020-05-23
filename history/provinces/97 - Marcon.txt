@@ -1,5 +1,5 @@
 owner = AET
-controller = EAT
+controller = AET
 add_core = AET
 add_claim = RLA
 culture = rilan

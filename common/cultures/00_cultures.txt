@@ -1,4 +1,4 @@
-﻿north_griffon = {
+north_griffon = {
 	graphical_culture = westerngfx
 	
 	vedinian = {

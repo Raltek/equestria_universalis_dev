@@ -3,7 +3,7 @@ controller = AIL
 add_core = AIL
 culture = ponaidhean
 religion = anam_teine
-
+trade_goods = fish
 hre = no
 base_tax = 1
 base_production = 1
