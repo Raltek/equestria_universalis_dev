@@ -1,8 +1,8 @@
-owner = LAK
-controller = LAK
-culture = rumare
+owner = UBB
+controller = UBB
+culture = gruselberger
 religion = old_believer
-add_core = LAK
+add_core = UBB
 hre = no
 base_tax = 1
 base_production = 1

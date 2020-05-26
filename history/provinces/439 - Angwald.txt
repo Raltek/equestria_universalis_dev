@@ -1,8 +1,8 @@
-owner = LAK
-controller = LAK
-culture = rumare
+owner = BOI
+controller = BOI
+culture = griffonstone
 religion = old_believer
-add_core = LAK
+add_core = BOI
 hre = no
 base_tax = 1
 base_production = 1

@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+primary_culture = griffonstone
+religion = archonate
+capital = 4128 # Griffonstone
+fixed_capital = 4128
+
+530.6.20 = {
+	monarch = {
+		name = "Gerald IV"
+		dynasty = "von Greifenstein"
+		birth_date = 483.6.6
+		adm = 4
+		dip = 4
+		mil = 2
+		female = no
+	}
+}
+

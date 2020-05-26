@@ -1,0 +1,19 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+technology_group = western
+primary_culture = gruselberger
+religion = archonate
+capital = 159 # Murkbeak
+
+530.6.20 = {
+	monarch = {
+		name = "Fromma"
+		dynasty = "Schwarzmantel"
+		birth_date = 476.3.3
+		adm = 5
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}

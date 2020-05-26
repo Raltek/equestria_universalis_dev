@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = rumare
+religion = old_believer
+capital = 2424 # Rumare
+
+530.6.20 = {
+	monarch = {
+		name = "Govannon II"
+		dynasty = "Griffith"
+		birth_date = 495.9.10
+		adm = 3
+		dip = 3
+		mil = 3
+		female = no
+	}
+}
+

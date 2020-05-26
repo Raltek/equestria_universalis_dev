@@ -1,8 +1,8 @@
-owner = LAK
-controller = LAK
-culture = rumare
-religion = old_believer
-add_core = LAK
+owner = ARG
+controller = ARG
+add_core = ARG
+culture = arantigan_culture
+religion = arantigan
 hre = no
 base_tax = 1
 base_production = 1

@@ -107,6 +107,7 @@ griffon_barony = {
 			tag = AIW
 			tag = KRS
 			tag = FLU
+			tag = ARG
 		}
 	}
 }
@@ -472,6 +473,39 @@ ponaidhean_peerage_monarchy = {
 	}
 }
 
+griffon_prelature = {
+	rank = {
+		1 = PRELATURE
+		2 = ARCHPRELATURE
+		3 = ARCHPRELATURE
+	}
+
+	ruler_male = {
+		1 = PRELATE
+		2 = ARCHPRELATE
+		3 = ARCHPRELATE
+	}
+
+	ruler_female = {
+		1 = PRELATE
+		2 = ARCHPRELATE	
+		3 = ARCHPRELATE
+	}
+	
+	trigger = {
+		OR = {
+			AND = {
+				has_reform = leading_clergy_reform
+				has_matching_religion = old_believer 
+				}
+			AND = { 
+				has_matching_religion = archonate
+				has_reform = leading_clergy_reform
+				}
+			}
+		
+	}
+}
 ###Vanilla ones that don't use vanilla cultures/tags/religions etc.
 pirate_government = {
 	rank = {

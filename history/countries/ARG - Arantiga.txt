@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+primary_culture = arantigan_culture
+religion = arantigan
+capital = 73 # Sparleto
+fixed_capital = 259
+
+530.6.20 = {
+	monarch = {
+		name = "Machaia"
+		dynasty = "Featherin"
+		birth_date = 489.3.2
+		adm = 2
+		dip = 1
+		mil = 5
+		female = yes
+	}
+}
+

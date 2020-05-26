@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = gruselberger
+religion = archonate
+capital = 4531 # Blackhollow
+
+530.6.20 = {
+	monarch = {
+		name = "Arista"
+		dynasty = "Bluecrest"
+		birth_date = 501.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+		female = yes
+	}
+}
+

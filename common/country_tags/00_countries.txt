@@ -135,3 +135,13 @@ WNG = "countries/Wingbardy.txt"
 FAL = "countries/Falcor.txt"
 TNT = "countries/Talont.txt"
 MAT = "countries/Matton.txt"
+
+#Griffonstone
+BOI = "countries/Griffonstone.txt"
+LAK = "countries/Rumare.txt"
+MUR = "countries/Murkbeak.txt"
+BLH = "countries/Blackhollow.txt"
+UBB = "countries/Uberberg.txt"
+
+#Transfolina 
+ARG = "countries/Arantiga.txt"
