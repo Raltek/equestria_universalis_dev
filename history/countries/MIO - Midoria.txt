@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = midorian
+religion = old_believer
+capital = 175
+fixed_capital = 175
+
+530.6.20 = {
+	monarch = {
+		name = "Jefe"
+		dynasty = "Duro"
+		female = no
+		birth_date = 499.3.3
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+

@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = arahnoan
+religion = old_believer
+capital = 205
+fixed_capital = 205
+
+530.6.20 = {
+	monarch = {
+		name = "Enrique"
+		dynasty = "Garra"
+		female = no
+		birth_date = 490.7.10
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+

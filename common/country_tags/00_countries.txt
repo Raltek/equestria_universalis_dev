@@ -145,3 +145,16 @@ UBB = "countries/Uberberg.txt"
 
 #Transfolina 
 ARG = "countries/Arantiga.txt"
+
+#Coast of Eler
+ESC = "countries/Escarlata.txt"
+ARN = "countries/Arahno.txt"
+KLO = "countries/Kleownen.txt"
+LEV = "countries/Leve.txt"
+QUR = "countries/Queruscos.txt"
+TDT = "countries/Tridente.txt"
+ETF = "countries/Eritrocefalia.txt"
+ESE = "countries/Esencia.txt"
+ELE = "countries/Eleria.txt"
+CAZ = "countries/Cabeza.txt"
+MIO = "countries/Midoria.txt"

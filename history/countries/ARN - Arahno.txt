@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = arahnoan
+religion = old_believer
+capital = 2203
+fixed_capital = 2203
+
+530.6.20 = {
+	monarch = {
+		name = "Gustavo"
+		dynasty = "Leoz"
+		female = no
+		birth_date = 490.4.3
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+

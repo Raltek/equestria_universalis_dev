@@ -506,6 +506,34 @@ griffon_prelature = {
 		
 	}
 }
+
+sicameon_parish = {
+	rank = {
+		1 = PARISH
+		2 = FEDERATEDPARISH
+		3 = GRANDUNIONPARISH
+	}
+
+	ruler_male = {
+		1 = EDIL
+		2 = PARRATOR
+		3 = DUX
+	}
+
+	ruler_female = {
+		1 = EDILA
+		2 = PARRATORA	
+		3 = DUX
+	}
+	
+	trigger = {
+	AND = {
+		has_reform = peasants_republic
+		culture_group = sicameonese_group
+	}
+	}
+}
+
 ###Vanilla ones that don't use vanilla cultures/tags/religions etc.
 pirate_government = {
 	rank = {

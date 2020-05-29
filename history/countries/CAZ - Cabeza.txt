@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = midorian
+religion = old_believer
+capital = 1853
+fixed_capital = 1853
+
+530.6.20 = {
+	monarch = {
+		name = "Paz"
+		dynasty = "Griffonta"
+		female = yes
+		birth_date = 505.9.8
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+

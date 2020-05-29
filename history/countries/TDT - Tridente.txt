@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = tridentean
+religion = old_believer
+capital = 4111
+fixed_capital = 4111
+
+530.6.20 = {
+	monarch = {
+		name = "Lucho"
+		dynasty = "Ruiz"
+		female = no
+		birth_date = 483.7.9
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+

@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = arahnoan
+religion = old_believer
+capital = 112
+fixed_capital = 112
+
+530.6.20 = {
+	monarch = {
+		name = "Ana"
+		dynasty = "Vera"
+		female = yes
+		birth_date = 487.4.6
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+

@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = tridentean
+religion = old_believer
+capital = 4174
+fixed_capital = 4174
+
+530.6.20 = {
+	monarch = {
+		name = "Ave"
+		dynasty = "Poeta"
+		female = no
+		birth_date = 487.3.6
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+

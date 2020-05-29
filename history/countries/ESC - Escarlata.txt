@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = escarlatan
+religion = old_believer
+capital = 1247
+fixed_capital = 1247
+
+530.6.20 = {
+	monarch = {
+		name = "Sabrina"
+		dynasty = "Mariniera"
+		female = yes
+		birth_date = 501.3.4
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+

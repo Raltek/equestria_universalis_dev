@@ -1,7 +1,7 @@
-owner = MIO
-controller = MIO
-add_core = MIO
-culture = midorian
+owner = QUR
+controller = QUR
+add_core = QUR
+culture = tridentean
 religion = old_believer
 hre = no
 base_tax = 1

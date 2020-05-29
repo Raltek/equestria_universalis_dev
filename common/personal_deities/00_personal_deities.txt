@@ -104,3 +104,41 @@ wise_lady =
 		}		
 	}
 }
+sycaecia =
+{
+	sailors_recovery_speed = 0.25
+	naval_morale = 0.1		
+	
+	allow = {
+		OR = {
+			tag = ESC 
+			tag = ARN 
+			tag = KLO 
+			tag = LEV 
+			tag = QUR 
+			tag = TDT 
+			tag = ETF 
+			tag = ESE 
+			tag = ELE 
+			tag = CAZ 
+			tag = MIO 
+		}
+		OR = {
+			religion = archonate
+			religion = old_believer
+		}
+	}
+	sprite = 12
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}		
+	}
+}

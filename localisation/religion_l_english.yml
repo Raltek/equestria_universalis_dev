@@ -142,6 +142,8 @@
  arcturius_desc:0 ""
  wise_lady:0 "Wise Lady"
  wise_lady_desc:0 ""
+ sycaecia:0 "Sycaecia"
+ sycaecia_desc:0 ""
  RV_NO_DEITY_TITLE:0 "No Current Deity."
  RV_NO_DEITY_DESC:0 "Your religion allows you to select which god to follow as your main deity. Each deity will come with its own effects and last until your monarch changes."
  RV_PICK_DEITY_THIS:0 "Follow $NAME|Y$"
