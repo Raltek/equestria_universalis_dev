@@ -149,7 +149,7 @@ ARG = "countries/Arantiga.txt"
 #Coast of Eler
 ESC = "countries/Escarlata.txt"
 ARN = "countries/Arahno.txt"
-KLO = "countries/Kleownen.txt"
+KLO = "countries/Keowen.txt"
 LEV = "countries/Leve.txt"
 QUR = "countries/Queruscos.txt"
 TDT = "countries/Tridente.txt"
