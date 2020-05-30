@@ -1,0 +1,6 @@
+# No previous file for Dogger Bank
+
+discovered_by = equestrian
+discovered_by = severyanian
+discovered_by = riverpony
+discovered_by = griffon

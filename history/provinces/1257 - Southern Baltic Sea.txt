@@ -1,0 +1,4 @@
+# No previous file for Southern Baltic Sea
+discovered_by = NCH
+discovered_by = riverpony
+discovered_by = griffon

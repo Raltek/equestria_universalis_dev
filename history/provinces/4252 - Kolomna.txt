@@ -9,4 +9,5 @@ base_production = 10
 base_manpower = 7
 is_city = yes
 trade_goods = gold
-discovered_by = eastern
+discovered_by = riverpony
+discovered_by = griffon

@@ -1,0 +1,2 @@
+# No previous file for Northern Norwegian Sea
+discovered_by = north_griffonian

@@ -1,0 +1,4 @@
+# No previous file for Lostgate Mountains
+discovered_by = griffon
+discovered_by = riverpony
+discovered_by = north_griffonian

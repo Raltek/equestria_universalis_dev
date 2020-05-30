@@ -2,4 +2,6 @@ owner = EQS
 controller = EQS
 add_core = EQS
 
-discovered_by = western
+discovered_by = equestrian
+discovered_by = severyanian
+discovered_by = tzinacatlian

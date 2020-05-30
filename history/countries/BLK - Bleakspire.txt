@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-technology_group = western
+technology_group = griffon
 unit_type = western
 primary_culture = cloudburian
 religion = old_believer
@@ -12,7 +12,7 @@ national_focus = MIL
 530.6.20 = {
 	monarch = {
 		name = "Knut"
-		dynasty = "Gråklo"
+		dynasty = "Grï¿½klo"
 		female = no
 		birth_date = 495.10.5
 		adm = 3

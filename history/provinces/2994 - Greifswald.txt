@@ -9,4 +9,9 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 
-discovered_by = western
+discovered_by = griffon
+discovered_by = riverpony
+discovered_by = equestrian
+discovered_by = severyanian
+discovered_by = equestrian
+discovered_by = severyanian

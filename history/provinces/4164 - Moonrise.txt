@@ -1,0 +1,2 @@
+# No previous file for Moonrise
+discovered_by = north_griffonian

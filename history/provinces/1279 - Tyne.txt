@@ -1,0 +1,4 @@
+# No previous file for Tyne
+
+discovered_by = equestrian
+discovered_by = severyanian

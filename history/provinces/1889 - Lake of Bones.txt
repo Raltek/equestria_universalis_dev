@@ -1,0 +1,3 @@
+# No previous file for Lake of Bones
+discovered_by = griffon
+discovered_by = riverpony

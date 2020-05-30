@@ -1,0 +1,2 @@
+# No previous file for Jan Mayen Sea
+discovered_by = north_griffonian

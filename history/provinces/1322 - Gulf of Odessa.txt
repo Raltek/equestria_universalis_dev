@@ -1,0 +1,4 @@
+# No previous file for Gulf of Odessa
+discovered_by = NCH
+discovered_by = riverpony
+discovered_by = griffon

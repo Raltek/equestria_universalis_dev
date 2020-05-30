@@ -1,7 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-technology_group = western
-unit_type = western
+technology_group = griffon
 primary_culture = hauklandish
 religion = old_believer
 capital = 1979

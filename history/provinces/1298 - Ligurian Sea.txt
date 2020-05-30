@@ -1,0 +1,4 @@
+# No previous file for Ligurian Sea
+discovered_by = NCH
+discovered_by = riverpony
+discovered_by = griffon

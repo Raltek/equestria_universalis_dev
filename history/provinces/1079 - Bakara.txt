@@ -11,5 +11,6 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 
-discovered_by = eastern
+discovered_by = riverpony
+discovered_by = griffon
 center_of_trade = 2

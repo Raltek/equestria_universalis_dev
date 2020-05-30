@@ -3,7 +3,7 @@ add_government_reform = tribal_despotism
 government_rank = 1
 primary_culture = greneclyf
 religion = greneclyfian
-technology_group = north_american
+technology_group = north_griffonian
 capital = 4257
 
 530.6.20 = {

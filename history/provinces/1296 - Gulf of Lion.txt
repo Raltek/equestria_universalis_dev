@@ -1,0 +1,3 @@
+# No previous file for Gulf of Lion
+discovered_by = riverpony
+discovered_by = griffon

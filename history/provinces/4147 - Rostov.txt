@@ -9,4 +9,5 @@ base_production = 5
 base_manpower = 5
 is_city = yes
 trade_goods = gems
-discovered_by = eastern
+discovered_by = riverpony
+discovered_by = griffon

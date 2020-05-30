@@ -1,0 +1,5 @@
+# No previous file for Lake Mead
+
+discovered_by = equestrian
+discovered_by = severyanian
+discovered_by = tzinacatlian

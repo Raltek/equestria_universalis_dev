@@ -13,4 +13,7 @@ is_city = yes
 
 trade_goods = livestock
 
-discovered_by = western
+discovered_by = griffon
+discovered_by = riverpony
+discovered_by = equestrian
+discovered_by = severyanian

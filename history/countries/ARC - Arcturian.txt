@@ -1,6 +1,6 @@
 government = theocracy 
 add_government_reform = monastic_order_reform
-technology_group = western
+technology_group = griffon
 unit_type = western
 primary_culture = tarpean
 religion = old_believer

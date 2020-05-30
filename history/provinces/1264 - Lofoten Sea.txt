@@ -1,0 +1,3 @@
+# No previous file for Lofoten Sea
+discovered_by = north_griffonian
+discovered_by = ARC

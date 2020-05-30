@@ -1,0 +1,4 @@
+# No previous file for White Sea
+discovered_by = NCH
+discovered_by = riverpony
+discovered_by = griffon

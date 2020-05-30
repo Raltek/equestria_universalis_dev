@@ -1,7 +1,7 @@
 government = republic_mechanic
 add_government_reform = pirate_republic_reform
 government_rank = 1
-technology_group = eastern
+technology_group = riverpony
 unit_type = eastern
 primary_culture = barradian
 religion = mountain_worship

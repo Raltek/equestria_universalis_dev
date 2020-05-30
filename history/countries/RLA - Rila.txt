@@ -1,7 +1,7 @@
 government = theocracy
 add_government_reform = leading_clergy_reform
 government_rank = 2
-technology_group = western
+technology_group = griffon
 primary_culture = rilan
 religion = archonate
 capital = 98 # Rila

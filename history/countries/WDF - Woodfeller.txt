@@ -1,7 +1,7 @@
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
-technology_group = western
+technology_group = griffon
 unit_type = western
 primary_culture = whitetailer
 religion = old_believer
@@ -11,7 +11,7 @@ national_focus = ADM
 
 530.6.20 = {
 	monarch = {
-		name = "Torbjørn"
+		name = "Torbjï¿½rn"
 		dynasty = "Woodfeller"
 		female = no
 		birth_date = 482.10.5

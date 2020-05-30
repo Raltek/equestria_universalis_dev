@@ -1,0 +1,6 @@
+# No previous file for Donegal Bay
+
+discovered_by = equestrian
+discovered_by = severyanian
+discovered_by = tzinacatlian
+discovered_by = griffon

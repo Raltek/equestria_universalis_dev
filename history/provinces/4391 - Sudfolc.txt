@@ -12,7 +12,8 @@ is_city = yes
 
 fort_15th = yes
 
-discovered_by = western
+discovered_by = griffon
+discovered_by = riverpony
 
 add_permanent_province_modifier = {
 	name = river_estuary_modifier

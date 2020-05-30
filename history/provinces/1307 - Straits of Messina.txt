@@ -1,0 +1,3 @@
+# No previous file for Straits of Messina
+discovered_by = riverpony
+discovered_by = griffon

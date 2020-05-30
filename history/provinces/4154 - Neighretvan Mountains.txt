@@ -1,2 +1,3 @@
 # No previous file for Neighretvan Mountains
-discovered_by = eastern
+discovered_by = riverpony
+discovered_by = griffon

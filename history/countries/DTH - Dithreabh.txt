@@ -1,7 +1,7 @@
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
-technology_group = eastern
+technology_group = riverpony
 unit_type = eastern
 primary_culture = ponaidhean
 religion = anam_teine
