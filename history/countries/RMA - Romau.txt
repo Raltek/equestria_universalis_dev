@@ -9,7 +9,7 @@ fixed_capital = 259
 
 530.6.20 = {
 	monarch = {
-		name = "Ante Adflictio"
+		name = "Anterius Faltarus"
 		birth_date = 498.3.11
 		adm = 5
 		dip = 4

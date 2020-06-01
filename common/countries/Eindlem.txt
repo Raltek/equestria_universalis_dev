@@ -35,7 +35,7 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Wilhelm #11" = 100
 }
 
 leader_names = {

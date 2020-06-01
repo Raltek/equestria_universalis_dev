@@ -9,12 +9,12 @@ fixed_capital = 4165
 
 530.6.20 = {
 	monarch = {
-		name = ""
-		dynasty = ""
+		name = "Georg II"
+		dynasty = "von Hochwasser"
 		birth_date = 475.3.11
 		adm = 3
-		dip = 3
-		mil = 3
+		dip = 6
+		mil = 2
 		female = no
 	}
 }

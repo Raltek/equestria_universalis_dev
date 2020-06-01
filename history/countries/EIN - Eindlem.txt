@@ -9,12 +9,12 @@ fixed_capital = 35
 
 530.6.20 = {
 	monarch = {
-		name = ""
-		dynasty = ""
+		name = "Wilhelm XI"
+		dynasty = "Heiligstein"
 		birth_date = 475.3.11
-		adm = 3
-		dip = 3
-		mil = 3
+		adm = 2
+		dip = 4
+		mil = 4
 		female = no
 	}
 }
