@@ -281,6 +281,8 @@ wingbardian = {
 	talontan = {
 		primary = TNT
 	}
+	talousian = {
+	}
 
 	male_names = {
 		Gabbondanzio Gabbondio Gabelardo Gabelino Gachille Gadalberto Gadelfo Gadelmio Gadelmo Gadone 

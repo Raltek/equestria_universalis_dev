@@ -53,6 +53,8 @@ griffon_county = {
 			tag = MID
 			tag = GRN
 			tag = VLE
+			tag = CHZ
+			tag = LUH
 		}
 	}
 }
@@ -108,6 +110,7 @@ griffon_barony = {
 			tag = KRS
 			tag = FLU
 			tag = ARG
+			tag = ACC
 		}
 	}
 }

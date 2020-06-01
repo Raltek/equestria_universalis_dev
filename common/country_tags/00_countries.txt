@@ -143,8 +143,13 @@ MUR = "countries/Murkbeak.txt"
 BLH = "countries/Blackhollow.txt"
 UBB = "countries/Uberberg.txt"
 
-#Transfolina 
+#Transfolinia 
 ARG = "countries/Arantiga.txt"
+CHZ = "countries/Chiazbeacle.txt"
+NAV = "countries/Navarro.txt"
+ACC = "countries/Accwinglio.txt"
+TAO = "countries/Talononte.txt"
+LUH = "countries/Luchihoot.txt"
 
 #Coast of Eler
 ESC = "countries/Escarlata.txt"

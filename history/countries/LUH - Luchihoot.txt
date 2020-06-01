@@ -2,19 +2,19 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = griffon
-primary_culture = griffkingian
 religion = archonate
-capital = 4163
-fixed_capital = 4163
+primary_culture = talousian
+historical_friend = TAO
+capital = 140		
 
 530.6.20 = {
 	monarch = {
-		name = "Georg Frederick"
-		dynasty = "Beamclaw"
-		birth_date = 499.3.11
-		adm = 4
-		dip = 3
-		mil = 3
+		name = "Marco IV"
+		dynasty = "di Luchino"
+		birth_date = 492.3.11
+		adm = 1
+		dip = 2
+		mil = 1
 		female = no
 	}
 }

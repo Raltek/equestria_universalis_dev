@@ -1,0 +1,14 @@
+owner = NAV
+controller = NAV
+add_core = NAV
+culture = talousian
+religion = archonate
+
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = griffon
+discovered_by = riverpony

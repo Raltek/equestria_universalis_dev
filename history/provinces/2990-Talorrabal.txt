@@ -1,8 +1,9 @@
-owner = MIO
-controller = MIO
-add_core = MIO
-culture = midorian
-religion = old_believer
+owner = ACC
+controller = ACC
+add_core = ACC
+culture = talousian
+religion = archonate
+
 hre = no
 base_tax = 1
 base_production = 1

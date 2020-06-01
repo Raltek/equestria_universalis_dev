@@ -266,5 +266,15 @@
  TDT_ADJ:0 "Tridentean"
  CAZ:0 "Cabeza"
  CAZ_ADJ:0 "Cabezan"
-
+ CHZ:0 "Chiazbeacle"
+ CHZ_ADJ:0 "Chiazbecallian"
+ NAV:0 "Navarro"
+ NAV_ADJ:0 "Navarran"
+ ACC:0 "Accwinglio"
+ ACC_ADJ:0 "Accwinglian"
+ TAO:0 "Talononte"
+ TAO_ADJ:0 "Talonontian"
+ LUH:0 "Luchihoot"
+ LUH_ADJ:0 "Luchihootian"
+ 
 

@@ -2,18 +2,18 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = griffon
-primary_culture = griffkingian
 religion = archonate
-capital = 49
-fixed_capital = 49
+primary_culture = talousian
+historical_friend = CHZ
+capital = 204		
 
 530.6.20 = {
 	monarch = {
-		name = "Johan-Frederick VI"
-		dynasty = "von Winterbimmel"
-		birth_date = 479.3.11
-		adm = 3
-		dip = 5
+		name = "Antonio V"
+		dynasty = "di Navarro"
+		birth_date = 497.3.11
+		adm = 4
+		dip = 4
 		mil = 2
 		female = no
 	}

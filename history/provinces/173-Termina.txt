@@ -1,12 +1,13 @@
-owner = MIO
-controller = MIO
-add_core = MIO
-culture = midorian
-religion = old_believer
+owner = NAV
+controller = NAV
+add_core = NAV
+culture = talousian
+religion = archonate
+
 hre = no
 base_tax = 1
 base_production = 1
-base_manpower = 1
+base_manpower = 2
 is_city = yes
 
 discovered_by = griffon
