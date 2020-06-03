@@ -1,0 +1,121 @@
+country_decisions = {
+
+	form_aquileia = {
+		major = yes
+		potential = {
+			
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_aquileia_flag }
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+			OR = {
+				culture_group = aquileian
+			}
+			
+			
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 1745	# Manetoua
+				province_id = 81	# Flowerino
+				province_id = 2967	# Westkeep
+				province_id = 186	# Vinovia
+				province_id = 98	# Rila
+				province_id = 195	# Pridea
+				province_id = 70	# Vanguardino
+				province_id = 184	# Leuse
+				province_id = 188	# Vyzima
+				province_id = 1760	# Pelis
+				province_id = 1761	# Aquila
+				AND = {
+                    province_id = 1868 # Tarrin
+                    ROOT = { NOT = { owns_core_province = 266 } }
+                }
+                AND = {
+                    province_id = 266 # Flowena
+                    ROOT = { NOT = { owns_core_province = 1868 } }
+                }
+
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			NOT = { exists = AQU }
+			is_nomad = no
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			is_tribal = no
+			owns_core_province = 1745			# Manetoua
+			owns_core_province = 81				# Flowerino
+			owns_core_province = 2967			# Westkeep
+			owns_core_province = 186			# Vinovia
+			owns_core_province = 98				# Rila
+			owns_core_province = 195 			# Pridea
+			owns_core_province = 70				# Vanguardino
+			owns_core_province = 184			# Leuse
+			owns_core_province = 188			# Vyzima
+			owns_core_province = 1760			# Pelis
+			owns_core_province = 1761			# Aquila
+			OR = {
+				owns_core_province = 1868	# Tarrin
+				owns_core_province = 266	# Flowena
+			}
+	
+		}
+		effect = {
+			1761 = { # Aquila
+				move_capital_effect = yes
+			}
+			
+			
+			change_tag = AQU
+			swap_non_generic_missions = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_prestige = 25
+			aquileia_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = AQU
+			}
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+			set_capital = 1761	# Aquila
+			
+			if = {
+				limit = {
+					government = tribal
+				}
+				change_government = monarchy #Desert tribes settling down, theocracies become monarchies.
+				set_legacy_government = despotic_monarchy
+			}
+			
+			set_country_flag = formed_aquileia_flag
+			
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 400
+		}
+	}
+}

@@ -1,0 +1,10 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = griffon
+unit_type = western
+primary_culture = feathisian
+add_accepted_culture = griffkingian
+religion = archonate
+capital = 9
+fixed_capital = 9

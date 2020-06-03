@@ -283,8 +283,10 @@
  TLV:0 "Talvona"
  TLV_ADJ:0 "Talvonan"
  MIV:0 "Mitoriv"
- MIV_ADJ:0 "MItorivan"
+ MIV_ADJ:0 "Mitorivan"
  LUS:0 "Lushi"
  LUS_ADJ:0 "Lushian"
+ STW:0 "Strawberry"
+ STW_ADJ:0 "Strawberry"
  
 

@@ -66,6 +66,13 @@ country_decisions = {
 				set_government_rank = 2
 			}
 			add_prestige = 25
+			lushi_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = LUS
+			}
 			add_country_modifier = {
 				name = centralization_modifier
 				duration = 3650
