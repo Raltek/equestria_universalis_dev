@@ -1,0 +1,32 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = griffon
+unit_type = western
+primary_culture = lushian
+religion = old_believer
+capital = 2201
+fixed_capital = 2201
+
+530.6.20 = {
+	monarch = {
+		name = "Nedhern II"
+		dynasty = "Rosefeather"
+		female = no
+		birth_date = 487.8.9
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+530.6.21 = {
+	heir = {
+		name = "Vera"
+		dynasty = "Rosefeather"
+		female = yes
+		birth_date = 510.4.5
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}

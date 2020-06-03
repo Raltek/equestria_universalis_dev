@@ -1,0 +1,32 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = griffon
+unit_type = western
+primary_culture = lushian
+religion = old_believer
+capital = 4530
+fixed_capital = 4530
+
+530.6.20 = {
+	monarch = {
+		name = "Melor"
+		dynasty = "Drak"
+		female = no
+		birth_date = 500.3.10
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+530.6.21 = {
+	heir = {
+		name = "Lucar II"
+		dynasty = "Drak"
+		female = no
+		birth_date = 530.3.4
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}

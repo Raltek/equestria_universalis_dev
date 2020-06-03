@@ -1,0 +1,32 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = griffon
+unit_type = western
+primary_culture = lushian
+religion = old_believer
+capital = 286
+fixed_capital = 286
+
+530.6.20 = {
+	monarch = {
+		name = "Mira IV"
+		dynasty = "Whitecreest"
+		female = yes
+		birth_date = 495.4.9
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+530.6.21 = {
+	heir = {
+		name = "Balkar"
+		dynasty = "Whitecrest"
+		female = no
+		birth_date = 520.2.2
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}

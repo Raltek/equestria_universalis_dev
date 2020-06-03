@@ -55,6 +55,11 @@ griffon_county = {
 			tag = VLE
 			tag = CHZ
 			tag = LUH
+			tag = DRB 
+			tag = LMM 
+			tag = TLV 
+			tag = MIV
+			
 		}
 	}
 }
@@ -536,6 +541,8 @@ sicameon_parish = {
 	}
 	}
 }
+
+
 
 ###Vanilla ones that don't use vanilla cultures/tags/religions etc.
 pirate_government = {

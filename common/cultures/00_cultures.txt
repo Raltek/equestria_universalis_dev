@@ -1125,3 +1125,22 @@ sicameonese_group = {
 
 			}
 }
+
+evian_group = {
+	graphical_culture = westerngfx
+	lushian = {
+	primary = LMN
+		male_names = { 
+		László István József János Sándor Ferenc Zoltán Tibor Imre Lajor Gábor Gyorgy Gyula Attila András
+		}
+	
+	female_names  = {
+			Mária Erzsébet Éva Katalin Ilona Zsuzsanna Anna Ildikó Judit Ágnes Margit Erika Julianna Edit Irén
+		}
+	
+	dynasty_names = {
+		Nagy Kovács Tóth Szabó Horváth Varga Kiss Molnár Németh Farkas Balogh Papp Takács
+	}
+
+	}
+}

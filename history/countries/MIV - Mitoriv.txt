@@ -1,0 +1,32 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = griffon
+unit_type = western
+primary_culture = lushian
+religion = old_believer
+capital = 2749
+fixed_capital = 2749
+
+530.6.20 = {
+	monarch = {
+		name = "Hamrion"
+		dynasty = "Matton"
+		female = no
+		birth_date = 490.10.5
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}
+530.6.21 = {
+	heir = {
+		name = "Moker"
+		dynasty = "Matton"
+		female = no
+		birth_date = 515.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}

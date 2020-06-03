@@ -163,3 +163,10 @@ ESE = "countries/Esencia.txt"
 ELE = "countries/Eleria.txt"
 CAZ = "countries/Cabeza.txt"
 MIO = "countries/Midoria.txt"
+
+#Evi Valley
+DRB = "countries/Drakburg.txt"
+LMM = "countries/Lumium.txt"
+TLV = "countries/Talvona.txt"
+MIV = "countries/Mitoriv.txt"
+LUS = "countries/Lushi.txt"
