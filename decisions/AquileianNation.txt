@@ -14,11 +14,14 @@ country_decisions = {
 					ai = no
 				}
 			}
+			NOT = { tag = AQU }
+			OR = {
+				ai = no
+				NOT = { exists = AQU }
+			}
 			OR = {
 				culture_group = aquileian
 			}
-			
-			
 		}
 		provinces_to_highlight = {
 			OR = {

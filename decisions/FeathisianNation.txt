@@ -14,11 +14,14 @@ country_decisions = {
 					ai = no
 				}
 			}
+			NOT = { tag = FEA }
+			OR = {
+				ai = no
+				NOT = { exists = FEA }
+			}
 			OR = {
 				primary_culture = feathisian
 			}
-			
-			
 		}
 		provinces_to_highlight = {
 			OR = {
