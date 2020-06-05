@@ -8,7 +8,7 @@ capital = 1318
 
 530.6.20 = {
 	monarch = {
-		name = ""
+		name = "Adalbert I"
 		dynasty = "Grimclaw"
 		birth_date = 490.3.11
 		adm = 3
