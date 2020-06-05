@@ -9,12 +9,12 @@ fixed_capital = 1952
 
 530.6.20 = {
 	monarch = {
-		name = ""
-		dynasty = ""
+		name = "Erik IV"
+		dynasty = "Grunwald"
 		birth_date = 490.3.11
-		adm = 3
-		dip = 3
-		mil = 3
+		adm = 2
+		dip = 1
+		mil = 2
 		female = no
 	}
 }

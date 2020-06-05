@@ -9,12 +9,12 @@ fixed_capital = 40
 
 530.6.20 = {
 	monarch = {
-		name = ""
+		name = "Adolf III"
 		dynasty = "Blacktalon"
 		birth_date = 490.3.11
-		adm = 3
-		dip = 3
-		mil = 3
+		adm = 4
+		dip = 1
+		mil = 2
 		female = no
 	}
 }

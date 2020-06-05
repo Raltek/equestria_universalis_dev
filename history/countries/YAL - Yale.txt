@@ -9,12 +9,12 @@ fixed_capital = 78
 
 530.6.20 = {
 	monarch = {
-		name = ""
-		dynasty = ""
-		birth_date = 490.3.11
-		adm = 3
+		name = "Berthold II"
+		dynasty = "von Yalenberg"
+		birth_date = 498.3.11
+		adm = 6
 		dip = 3
-		mil = 3
+		mil = 5
 		female = no
 	}
 }

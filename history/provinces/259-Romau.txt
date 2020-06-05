@@ -4,9 +4,9 @@ culture = romauan
 religion = arantigan
 add_core = RMA
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 10
+base_production = 8
+base_manpower = 11
 is_city = yes
 
 discovered_by = griffon

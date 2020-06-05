@@ -9,12 +9,12 @@ fixed_capital = 79
 
 530.6.20 = {
 	monarch = {
-		name = ""
-		dynasty = ""
+		name = "Markus-Wilhelm"
+		dynasty = "von Weißfeder"
 		birth_date = 490.3.11
 		adm = 3
-		dip = 3
-		mil = 3
+		dip = 4
+		mil = 2
 		female = no
 	}
 }

@@ -11,9 +11,9 @@ capital = 1318
 		name = "Adalbert I"
 		dynasty = "Grimclaw"
 		birth_date = 490.3.11
-		adm = 3
-		dip = 3
-		mil = 3
+		adm = 2
+		dip = 4
+		mil = 4
 		female = no
 	}
 }
