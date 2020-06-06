@@ -14,7 +14,7 @@ capital = 140
 		birth_date = 492.3.11
 		adm = 1
 		dip = 2
-		mil = 1
+		mil = 0
 		female = no
 	}
 }

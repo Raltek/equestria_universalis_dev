@@ -1,11 +1,12 @@
-owner = ASB
-controller = ASB
-culture = taloncan
+owner = PUL
+controller = PUL
+add_core = PUL
+culture = piumontese
 religion = archonate
-add_core = ASB
+
 hre = no
-base_tax = 3 
-base_production = 3
+base_tax = 2
+base_production = 1
 base_manpower = 2
 is_city = yes
 

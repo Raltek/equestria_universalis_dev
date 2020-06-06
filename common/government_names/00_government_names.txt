@@ -59,6 +59,8 @@ griffon_county = {
 			tag = LMM 
 			tag = TLV 
 			tag = MIV
+			tag = ASB
+			tag = PUL
 			
 		}
 	}

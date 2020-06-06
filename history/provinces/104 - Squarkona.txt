@@ -1,6 +1,7 @@
 owner = WNG
 controller = WNG
 add_core = WNG
+add_core = ASB
 culture = taloncan
 religion = archonate
 

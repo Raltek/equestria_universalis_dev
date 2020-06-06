@@ -12,9 +12,9 @@ fixed_capital = 61
 		name = "Karl-Frederick"
 		dynasty = "von Kronaberg"
 		birth_date = 515.3.7
-		adm = 2
-		dip = 4
-		mil = 4
+		adm = 3
+		dip = 5
+		mil = 3
 		female = no
 	}
 }
