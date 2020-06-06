@@ -153,6 +153,7 @@ ACC = "countries/Accwinglio.txt"
 TAO = "countries/Talononte.txt"
 LUH = "countries/Luchihoot.txt"
 PUL = "countries/Pulcino.txt"
+VOL = "countries/Volino.txt"
 
 #Coast of Eler
 ESC = "countries/Escarlata.txt"

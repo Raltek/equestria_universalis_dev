@@ -1,13 +1,13 @@
 owner = VOL
 controller = VOL
 add_core = VOL
-culture = talousian
-religion = trinitarian
+culture = piumontese
+religion = archonate
 
 hre = no
-base_tax = 1
+base_tax = 2
 base_production = 1
-base_manpower = 1
+base_manpower = 2
 is_city = yes
 
 discovered_by = griffon

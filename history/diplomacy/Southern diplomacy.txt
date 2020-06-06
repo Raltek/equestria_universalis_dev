@@ -39,3 +39,10 @@ vassal = {
 	start_date = 500.1.1
 	end_date = 535.1.2
 }
+
+vassal = {
+	first = PUL
+	second = VOL
+	start_date = 500.1.1
+	end_date = 535.1.2
+}

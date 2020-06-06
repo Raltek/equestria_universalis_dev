@@ -48,7 +48,6 @@ griffon_county = {
 			tag = REI
 			tag = VNG
 			tag = INT
-			tag = BEE
 			tag = STA
 			tag = MID
 			tag = GRN
@@ -118,6 +117,157 @@ griffon_barony = {
 			tag = FLU
 			tag = ARG
 			tag = ACC
+		}
+	}
+}
+griffon_viscounty = {
+	rank = {
+		1 = VISCOUNTY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = VISCOUNT
+		2 = KING
+		3 = EMPEROR
+	}
+
+	ruler_female = {
+		1 = VISCOUNTESS
+		2 = QUEEN	
+		3 = EMPRESS
+	}
+	
+	consort_male  = {
+		1 = VISCOUNT_CONSORT
+		2 = KING_CONSORT
+		3 = EMPEROR_CONSORT
+	}
+	
+	consort_female = {
+		1 = VISCOUNTESS_CONSORT
+		2 = QUEEN_CONSORT
+		3 = EMPRESS_CONSORT
+	}
+	
+	heir_male = {
+		1 = HEIR
+		2 = PRINCE
+		3 = PRINCE
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = PRINCESS
+		3 = PRINCESS
+	}
+	
+	trigger = {
+		government = monarchy
+		OR = {
+			tag = BEE
+		}
+	}
+}
+griffon_lordship = {
+	rank = {
+		1 = LORDSHIP
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = LORD
+		2 = KING
+		3 = EMPEROR
+	}
+
+	ruler_female = {
+		1 = LADY
+		2 = QUEEN	
+		3 = EMPRESS
+	}
+	
+	consort_male  = {
+		1 = LORD_CONSORT
+		2 = KING_CONSORT
+		3 = EMPEROR_CONSORT
+	}
+	
+	consort_female = {
+		1 = LADY_CONSORT
+		2 = QUEEN_CONSORT
+		3 = EMPRESS_CONSORT
+	}
+	
+	heir_male = {
+		1 = HEIR
+		2 = PRINCE
+		3 = PRINCE
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = PRINCESS
+		3 = PRINCESS
+	}
+	
+	trigger = {
+		government = monarchy
+		OR = {
+			
+		}
+	}
+}
+griffon_marquisate = {
+	rank = {
+		1 = MARQUISATE
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = MARQUIS
+		2 = KING
+		3 = EMPEROR
+	}
+
+	ruler_female = {
+		1 = MARCHIONESS
+		2 = QUEEN	
+		3 = EMPRESS
+	}
+	
+	consort_male  = {
+		1 = MARQUIS_CONSORT
+		2 = KING_CONSORT
+		3 = EMPEROR_CONSORT
+	}
+	
+	consort_female = {
+		1 = MARCHIONESS_CONSORT
+		2 = QUEEN_CONSORT
+		3 = EMPRESS_CONSORT
+	}
+	
+	heir_male = {
+		1 = HEIR
+		2 = PRINCE
+		3 = PRINCE
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = PRINCESS
+		3 = PRINCESS
+	}
+	
+	trigger = {
+		government = monarchy
+		OR = {
+			tag = VOL
+			tag = HEL
 		}
 	}
 }
