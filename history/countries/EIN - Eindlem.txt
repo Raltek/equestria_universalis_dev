@@ -13,7 +13,7 @@ fixed_capital = 35
 		dynasty = "Heiligstein"
 		birth_date = 475.3.11
 		adm = 2
-		dip = 4
+		dip = 0
 		mil = 4
 		female = no
 	}

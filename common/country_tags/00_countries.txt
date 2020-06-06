@@ -136,6 +136,7 @@ WNG = "countries/Wingbardy.txt"
 FAL = "countries/Falcor.txt"
 TNT = "countries/Talont.txt"
 MAT = "countries/Matton.txt"
+ASB = "countries/Asbolus.txt"
 
 #Griffonstone
 BOI = "countries/Griffonstone.txt"
@@ -151,6 +152,7 @@ NAV = "countries/Navarro.txt"
 ACC = "countries/Accwinglio.txt"
 TAO = "countries/Talononte.txt"
 LUH = "countries/Luchihoot.txt"
+PUL = "countries/Pulcino.txt"
 
 #Coast of Eler
 ESC = "countries/Escarlata.txt"

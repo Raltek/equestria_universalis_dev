@@ -3,18 +3,17 @@ add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = griffon
 religion = archonate
-primary_culture = talousian
-historical_friend = CHZ
-capital = 204		
+primary_culture = piumontese
+capital = 201
 
 530.6.20 = {
 	monarch = {
-		name = "Antonio V"
-		dynasty = "di Navarro"
-		birth_date = 497.3.11
-		adm = 3
-		dip = 4
-		mil = 3
+		name = "Antonio II"
+		dynasty = "Pallocini"
+		birth_date = 496.3.11
+		adm = 2
+		dip = 0
+		mil = 1
 		female = no
 	}
 }

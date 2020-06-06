@@ -14,7 +14,7 @@ fixed_capital = 167
 		birth_date = 515.3.7
 		adm = 2
 		dip = 4
-		mil = 4
+		mil = 1
 		female = no
 	}
 }
