@@ -4,12 +4,14 @@ add_core = AQU
 culture = aquilan
 religion = archonate
 hre = no
-base_tax = 5
-base_production = 7
-base_manpower = 5
+base_tax = 8
+base_production = 8
+base_manpower = 8
 is_city = yes
 
 discovered_by = griffon
 discovered_by = riverpony
 
 center_of_trade = 2
+
+fort_15th = yes

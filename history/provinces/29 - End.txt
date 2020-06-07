@@ -12,3 +12,5 @@ is_city = yes
 discovered_by = griffon
 discovered_by = riverpony
 discovered_by = north_griffonian
+
+fort_15th = yes

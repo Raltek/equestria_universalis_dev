@@ -4,11 +4,13 @@ culture = griffonstone
 religion = archonate
 add_core = BOI
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 5
+base_manpower = 6
 is_city = yes
 
 discovered_by = griffon
 discovered_by = riverpony
 center_of_trade = 2
+
+fort_15th = yes

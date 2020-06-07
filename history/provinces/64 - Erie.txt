@@ -11,3 +11,5 @@ discovered_by = griffon
 discovered_by = riverpony
 
 center_of_trade = 1
+
+fort_15th = yes

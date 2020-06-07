@@ -12,3 +12,5 @@ trade_goods = cloth
 discovered_by = riverpony
 discovered_by = griffon
 center_of_trade = 2
+
+fort_15th = yes

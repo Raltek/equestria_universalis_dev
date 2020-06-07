@@ -13,3 +13,5 @@ discovered_by = griffon
 discovered_by = riverpony
 discovered_by = equestrian
 discovered_by = severyanian
+
+fort_15th = yes

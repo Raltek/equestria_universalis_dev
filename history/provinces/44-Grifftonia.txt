@@ -5,8 +5,8 @@ religion = archonate
 add_core = STR
 hre = no
 base_tax = 5
-base_production = 4
-base_manpower = 4
+base_production = 5
+base_manpower = 5
 is_city = yes
 
 discovered_by = griffon
@@ -15,3 +15,5 @@ discovered_by = equestrian
 discovered_by = severyanian
 
 center_of_trade = 2
+
+fort_15th = yes

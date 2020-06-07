@@ -4,9 +4,9 @@ add_core = ARG
 culture = arantigan_culture
 religion = arantigan
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 3
+base_manpower = 3
 is_city = yes
 
 discovered_by = griffon
