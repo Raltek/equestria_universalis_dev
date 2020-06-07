@@ -11,7 +11,7 @@ groups = {
 	equestrian = { # Majority of Ponies that live in Equestria
 		start_level = 3
 		start_cost_modifier = 0
-		nation_deFsigner_unit_type = western
+		nation_designer_unit_type = western
 	}
 	
 	severyanian = { # Northern Ponies

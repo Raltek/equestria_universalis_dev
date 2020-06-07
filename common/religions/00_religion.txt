@@ -152,6 +152,7 @@ griffon_religion = {
 
 pony_religion = {
 	defender_of_faith = yes
+	crusade_name = GREAT_HOLY_WAR
 	pony_animism = {
 		color = { 127 0 0 }
 		icon = 13
@@ -181,7 +182,6 @@ pony_religion = {
 			cavalry_power = 0.1	
 			movement_speed = 0.1	
 		}
-		personal_deity = no
 		misguided_heretic = yes
 		heretic = { STROMCLOUD }
 	}
@@ -195,9 +195,10 @@ pony_religion = {
 		country_as_secondary = {
 			stability_cost_modifier = -0.1	
 		}
-	province = {
-		local_missionary_strength= -0.01
-	}	
+		province = {
+			local_missionary_strength= -0.01
+		}
+		heretic = { SUNLESS }
 	}
 	waveism = {
 		color = {0 0 80}
@@ -209,7 +210,7 @@ pony_religion = {
 		country_as_secondary = {
 			stability_cost_modifier = -0.1	
 		}
-
+		heretic = { DROWNED_ONE }
 	}
 	mountain_worship = {
 		color = {102 0 255}
@@ -220,10 +221,11 @@ pony_religion = {
 
 		country_as_secondary = {
 			stability_cost_modifier = -0.1	
+			}
+		province = {
+			local_missionary_strength= -0.01
 		}
-	province = {
-		local_missionary_strength= -0.01
-	}	
+		heretic = { LOWLANDER }
 	}
 	rjiken = {
 		color = {63 161 111}
@@ -235,9 +237,10 @@ pony_religion = {
 		country_as_secondary = {
 			stability_cost_modifier = -0.1	
 		}
-	province = {
-		local_missionary_strength= -0.01
-	}	
+		province = {
+			local_missionary_strength= -0.01
+		}
+		heretic = { HERETIC }
 	}
 	ponikami = {
 		color = {161 81 63}
@@ -249,7 +252,7 @@ pony_religion = {
 		country_as_secondary = {
 			stability_cost_modifier = -0.1	
 		}
-
+		heretic = { HERETIC }
 	}
 	varene = {
 		color = {122 56 115}
@@ -261,13 +264,14 @@ pony_religion = {
 		country_as_secondary = {
 			stability_cost_modifier = -0.1	
 		}
-
+		heretic = { HERETIC }
 	}
 
 }
 
 deer_religion = {
 	defender_of_faith = yes
+	crusade_name = GREAT_HOLY_WAR
 	olenian = {
 		color = { 229 204 255 }
 		icon = 14
@@ -282,12 +286,13 @@ deer_religion = {
 		province = {
 			local_missionary_strength = 0.02
 		}
-		
+		heretic = { DEEREATER }
 	}
-	}
+}
 
 dog_religion = {
 	defender_of_faith = yes
+	crusade_name = GREAT_HOLY_WAR
 	diamond_dog_faith = {
 		color = { 141 158 169 }
 		icon = 18
@@ -302,12 +307,13 @@ dog_religion = {
 		province = {
 			local_missionary_strength = 0.02
 		}
-		
+		heretic = { BADBOI }
 	}
-	}
+}
 
 changeling_religion = {
 	defender_of_faith = yes
+	crusade_name = GREAT_HOLY_WAR
 	greneclyfian = {
 		color = { 179 117 117 }
 		icon = 3
@@ -322,6 +328,6 @@ changeling_religion = {
 		province = {
 			local_missionary_strength = 0.02
 		}
-		
+		heretic = { HERETIC }
 	}
-	}
+}

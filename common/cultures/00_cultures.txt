@@ -1079,7 +1079,7 @@ sicameonese_group = {
 
 			}
 	tridentean = {
-	primary = TRI
+	primary = TDT
 		male_names = {
 			Sebastian Matias Nicolas Samuel Joaquin Martin Jeronimo Emmanuel Maximiliano Rodrigo
 			Agustín Alberto Alejandro Alfonso Álvaro Antonio Arsenio Augusto Baldomero
@@ -1131,7 +1131,7 @@ sicameonese_group = {
 evian_group = {
 	graphical_culture = westerngfx
 	lushian = {
-	primary = LMN
+	primary = LUS
 		male_names = { 
 		László István József János Sándor Ferenc Zoltán Tibor Imre Lajor Gábor Gyorgy Gyula Attila András
 		}
