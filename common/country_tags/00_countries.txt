@@ -7,6 +7,11 @@ NAT = "countries/Natives.txt"
 EQS = "countries/Equestria.txt"
 PRA = "countries/Prance.txt"
 ALB = "countries/Albion.txt"
+STS = "countries/Stratusburg.txt"
+
+# Serveryana
+TRO = "countries/Trotsylvania.txt"
+SEV = "countries/Severyana.txt"
 
 # North Griffonia
 VED = "countries/Vedina.txt"
@@ -46,7 +51,7 @@ HEL = "countries/Helheim.txt"
 RDW = "countries/Readewetter.txt"
 RAV = "countries/Ravensburg.txt"
 CRS = "countries/Mittelfeld.txt"
-KRS = "countries/Krästanz.txt"
+KRS = "countries/Krastanz.txt"
 RGA = "countries/Ravensgau.txt"
 OSN = "countries/Osnabeak.txt"
 BEE = "countries/Beerenbeck.txt"

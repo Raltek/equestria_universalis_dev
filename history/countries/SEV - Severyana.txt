@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = tsardom
+primary_culture = petershoofite
+religion = severyanan_rite
+technology_group = severyanian
+capital = 2506
+government_rank = 3
+
+530.3.25 = {
+	monarch = {
+		name = "Vasiliy III"
+		dynasty = "Peterovich"
+		birth_date = 501.3.25
+		adm = 3
+		dip = 2
+		mil = 3
+		leader = {	name = "Vasiliy III"	type = general	fire = 2	shock = 2	manuever = 2	siege = 0 }
+	}
+}

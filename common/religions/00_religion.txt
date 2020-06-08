@@ -277,8 +277,20 @@ pony_religion = {
 			adm_tech_cost_modifier = -0.1
 			stability_cost_modifier = -0.1
 		}
-		heretic = { DISCORDIANT }
+		heretic = { ICONOCLAST }
 		uses_harmony = yes
+	}
+	severyanan_rite = {
+		color = { 178 127 0 }
+		icon = 4
+		country = {
+			stability_cost_modifier = -0.1
+		}
+
+		country_as_secondary = {
+			stability_cost_modifier = -0.1
+		}
+		heretic = { DISCORDIANT }
 	}
 
 }

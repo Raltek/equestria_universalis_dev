@@ -1,4 +1,4 @@
-﻿th_griffon = {
+north_griffon = {
 	graphical_culture = westerngfx
 	
 	vedinian = {
@@ -862,6 +862,62 @@ equestrian = {
 		}
 		female_names = {
 			Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
+		}
+	}
+	stratusian = {
+		primary = STS
+		male_names = {
+			Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
+		}
+		female_names = {
+			Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
+		}
+	}
+}
+severyanian = {
+	graphical_culture = easterngfx
+	trotsylvanian = {
+		primary = TRO
+		male_names = {
+			Caramel Svyatoslav Borislav Bratislav Karamel Kobalt Star Ivan Comrade Steel Stahl Petya Vasily Kirill Mountain Rock Amethyst Felix Pyotr Daniil
+			Misha Mikhail Maria Jaroslav Vaska Shura Sanya Nika Alex Bolesław Borys Lechosław Leslav Timon Teodor Maxim Martin Iosif Illarion Igor Drew Karl Vasya
+			Dobrinya Bogdan Vsevolod Mirolub Svetozar Dobrozhir Hrabr Zhdun
+		}
+		female_names = {
+			Scarlet Twilight Starry Dew Emerald Mythic Lucky Cinnamon Cassiopeia Felixia Kalina
+		}
+	}
+	petershoofite = {
+		#primary = TRO
+		male_names = {
+			Caramel Svyatoslav Borislav Bratislav Karamel Kobalt Star Ivan Comrade Steel Stahl Petya Vasily Kirill Mountain Rock Amethyst Felix Pyotr Daniil
+			Misha Mikhail Maria Jaroslav Vaska Shura Sanya Nika Alex Bolesław Borys Lechosław Leslav Timon Teodor Maxim Martin Iosif Illarion Igor Drew Karl Vasya
+			Dobrinya Bogdan Vsevolod Mirolub Svetozar Dobrozhir Hrabr Zhdun
+		}
+		female_names = {
+			Scarlet Twilight Starry Dew Emerald Mythic Lucky Cinnamon Cassiopeia Felixia Kalina
+		}
+	}
+	zakatnieite = {
+		#primary = TRO
+		male_names = {
+			Caramel Svyatoslav Borislav Bratislav Karamel Kobalt Star Ivan Comrade Steel Stahl Petya Vasily Kirill Mountain Rock Amethyst Felix Pyotr Daniil
+			Misha Mikhail Maria Jaroslav Vaska Shura Sanya Nika Alex Bolesław Borys Lechosław Leslav Timon Teodor Maxim Martin Iosif Illarion Igor Drew Karl Vasya
+			Dobrinya Bogdan Vsevolod Mirolub Svetozar Dobrozhir Hrabr Zhdun
+		}
+		female_names = {
+			Scarlet Twilight Starry Dew Emerald Mythic Lucky Cinnamon Cassiopeia Felixia Kalina
+		}
+	}
+	zayatskite = {
+		#primary = TRO
+		male_names = {
+			Caramel Svyatoslav Borislav Bratislav Karamel Kobalt Star Ivan Comrade Steel Stahl Petya Vasily Kirill Mountain Rock Amethyst Felix Pyotr Daniil
+			Misha Mikhail Maria Jaroslav Vaska Shura Sanya Nika Alex Bolesław Borys Lechosław Leslav Timon Teodor Maxim Martin Iosif Illarion Igor Drew Karl Vasya
+			Dobrinya Bogdan Vsevolod Mirolub Svetozar Dobrozhir Hrabr Zhdun
+		}
+		female_names = {
+			Scarlet Twilight Starry Dew Emerald Mythic Lucky Cinnamon Cassiopeia Felixia Kalina
 		}
 	}
 }

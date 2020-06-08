@@ -12,7 +12,6 @@ fixed_capital = 258
 	monarch = {
 		name = "Frederick V"
 		dynasty = "von Ravensburg"
-		female = no
 		birth_date = 505.10.5
 		adm = 3
 		dip = 5
