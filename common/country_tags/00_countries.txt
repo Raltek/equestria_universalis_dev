@@ -154,6 +154,7 @@ TAO = "countries/Talononte.txt"
 LUH = "countries/Luchihoot.txt"
 PUL = "countries/Pulcino.txt"
 VOL = "countries/Volino.txt"
+GOL = "countries/Goldenfeather.txt"
 
 #Coast of Eler
 ESC = "countries/Escarlata.txt"

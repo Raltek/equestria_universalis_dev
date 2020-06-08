@@ -1,8 +1,8 @@
-owner = VOL
-controller = VOL
-add_core = VOL
-culture = talousian
-religion = trinitarian
+owner = GOL
+controller = GOL
+add_core = GOL
+culture = piumontese
+religion = archonate
 
 hre = no
 base_tax = 1

@@ -167,6 +167,7 @@ griffon_viscounty = {
 		government = monarchy
 		OR = {
 			tag = BEE
+			tag = GOL
 		}
 	}
 }
