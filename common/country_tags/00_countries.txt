@@ -3,8 +3,10 @@ REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
-# Equus
+# Equestria
 EQS = "countries/Equestria.txt"
+PRA = "countries/Prance.txt"
+ALB = "countries/Albion.txt"
 
 # North Griffonia
 VED = "countries/Vedina.txt"

@@ -1,0 +1,73 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = prench
+religion = celestial
+technology_group = equestrian
+capital = 891 # Paris
+national_focus = DIP
+
+471.9.16 = {
+	monarch = {
+		name = "Sunbeam VI"
+		dynasty = "de Bleu"
+		birth_date = 459.12.3
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+494.2.22 = {
+	heir = {
+		name = "Sunbeam"
+		monarch_name = "Sunbeam VII"
+		dynasty = "de Bleu"
+		birth_date = 494.2.22
+		death_date = 552.7.22
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+513.10.22 = {
+	monarch = {
+		name = "Sunbeam VII"
+		dynasty = "de Bleu"
+		birth_date = 494.2.22
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	queen = {
+		country_of_origin = EQS
+		name = "Medley"
+		dynasty = "d'Pomme"
+		birth_date = 495.10.14
+		death_date = 554.11.29
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+514.7.3 = {
+	heir = {
+		name = "Glory"
+		monarch_name = "Glory XI"
+		dynasty = "de Bleu"
+		birth_date = 514.7.3
+		death_date = 574.8.30
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	clear_scripted_personalities = yes
+	add_heir_personality = intricate_web_weaver_personality
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = well_advised_personality
+	add_queen_personality = zealot_personality
+}

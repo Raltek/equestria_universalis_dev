@@ -1,7 +1,16 @@
-owner = EQS
-controller = EQS
-add_core = EQS
+owner = PRA
+controller = PRA
+add_core = PRA
+culture = prench
+religion = celestial
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
 
 discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
+
+trade_goods = cloth

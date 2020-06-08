@@ -152,3 +152,5 @@
  RV_NO_DEITY_DESC:0 "Your religion allows you to select which god to follow as your main deity. Each deity will come with its own effects and last until your monarch changes."
  RV_PICK_DEITY_THIS:0 "Follow $NAME|Y$"
  RV_PICK_DEITY:0 "Select Deity"
+ celestial:0 "Celestial"
+ celestial_desc:0 "Recognition that Princess Celestia moves the sun and belief in the ideas of peace and harmony."

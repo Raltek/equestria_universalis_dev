@@ -840,10 +840,28 @@ equestrian = {
 	graphical_culture = westerngfx
 	canterlotian = {
 		male_names = {
-			Star Night Shining Breeze
+			Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
 		}
 		female_names = {
-			Twilight Rarity
+			Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
+		}
+	}
+	prench = {
+		primary = PRA
+		male_names = {
+			Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
+		}
+		female_names = {
+			Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
+		}
+	}
+	albionian = {
+		primary = ALB
+		male_names = {
+			Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
+		}
+		female_names = {
+			Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
 		}
 	}
 }

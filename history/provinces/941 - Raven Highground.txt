@@ -4,8 +4,8 @@ add_core = PRA
 culture = prench
 religion = celestial
 hre = no
-base_tax = 3
-base_production = 3
+base_tax = 2
+base_production = 2
 base_manpower = 2
 is_city = yes
 
@@ -13,4 +13,4 @@ discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
 
-trade_goods = cloth
+trade_goods = iron

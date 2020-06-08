@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = english_monarchy
+mercantilism = 25
+technology_group = equestrian
+primary_culture = albionian
+religion = celestial
+capital = 2557 # London
+national_focus = DIP
+
+520.11.6 = { #Coronation
+	monarch = {
+		name = "Haystalk VI"
+		dynasty = "Landcanter"
+		birth_date = 512.12.6
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = infertile_personality
+}

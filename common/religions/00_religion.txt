@@ -173,7 +173,7 @@ pony_religion = {
 	nimbusian_pantheon = {
 		color = { 43 207 182 }
 		icon = 21
-			country = {
+		country = {
 			cavalry_power = 0.1	
 			movement_speed = 0.1	
 		}
@@ -188,9 +188,9 @@ pony_religion = {
 	anam_teine = {
 		color = {40 93 191}
 		icon = 6
-			country = {
+		country = {
 			stability_cost_modifier = -0.1	
-			}
+		}
 
 		country_as_secondary = {
 			stability_cost_modifier = -0.1	
@@ -203,9 +203,9 @@ pony_religion = {
 	waveism = {
 		color = {0 0 80}
 		icon = 3
-			country = {
+		country = {
 			stability_cost_modifier = -0.1	
-			}
+		}
 
 		country_as_secondary = {
 			stability_cost_modifier = -0.1	
@@ -215,13 +215,13 @@ pony_religion = {
 	mountain_worship = {
 		color = {102 0 255}
 		icon = 8
-			country = {
-			stability_cost_modifier = -0.1	
-			}
+		country = {
+			stability_cost_modifier = -0.1
+		}
 
 		country_as_secondary = {
-			stability_cost_modifier = -0.1	
-			}
+			stability_cost_modifier = -0.1
+		}
 		province = {
 			local_missionary_strength= -0.01
 		}
@@ -230,12 +230,12 @@ pony_religion = {
 	rjiken = {
 		color = {63 161 111}
 		icon = 15
-			country = {
-			stability_cost_modifier = -0.1	
-			}
+		country = {
+			stability_cost_modifier = -0.1
+		}
 
 		country_as_secondary = {
-			stability_cost_modifier = -0.1	
+			stability_cost_modifier = -0.1
 		}
 		province = {
 			local_missionary_strength= -0.01
@@ -250,21 +250,35 @@ pony_religion = {
 			}
 
 		country_as_secondary = {
-			stability_cost_modifier = -0.1	
+			stability_cost_modifier = -0.1
 		}
 		heretic = { HERETIC }
 	}
 	varene = {
 		color = {122 56 115}
 		icon = 10
-			country = {
-			stability_cost_modifier = -0.1	
-			}
+		country = {
+			stability_cost_modifier = -0.1
+		}
 
 		country_as_secondary = {
-			stability_cost_modifier = -0.1	
+			stability_cost_modifier = -0.1
 		}
 		heretic = { HERETIC }
+	}
+	celestial = {
+		color = { 214 229 140 }
+		icon = 9
+		country = {
+			tolerance_heretic = 2
+			adm_tech_cost_modifier = -0.1
+		}
+		country_as_secondary = {
+			adm_tech_cost_modifier = -0.1
+			stability_cost_modifier = -0.1
+		}
+		heretic = { DISCORDIANT }
+		uses_harmony = yes
 	}
 
 }
