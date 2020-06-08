@@ -654,6 +654,43 @@ griffonstone_node={
 		4128 1951 161 1954 2746 328 150 156 4531 2447 4532 443 158 166 1873 1867 439 2370 159 2998 160 165 1769 1863 4240 2424 2304 
 	}
 }
+sparleto={
+	location=73
+	color={
+		242 141 208 
+	}
+	inland=yes
+	outgoing={
+		name="grunbeck"
+		path={
+			1300 1294 
+		}
+		control={
+			3134.000000 1555.000000 
+		}
+	}
+	outgoing={
+		name="confluenza"
+		path={
+			1300 1294 
+		}
+		control={
+			3135.000000 1473.000000 3137.000000 1435.000000 
+		}
+	}
+	outgoing={
+		name="talononte"
+		path={
+			1300 1294 
+		}
+		control={
+			3110.000000 1514.000000 
+		}
+	}
+	members={
+		73 2955 4126 152 134 132 69 4335 68 1872 1868 76 
+	}
+}
 grunbeck={
 	location=1952
 	color={
@@ -717,43 +754,6 @@ confluenza={
 	}
 	members={
 		1831 104 1862 109 2990 173 204 197 176 2206 212 108 105 3001 1766 3000 3002 201 138 139 1828 1767 1864 
-	}
-}
-sparleto={
-	location=73
-	color={
-		242 141 208 
-	}
-	inland=yes
-	outgoing={
-		name="grunbeck"
-		path={
-			1300 1294 
-		}
-		control={
-			3134.000000 1555.000000 
-		}
-	}
-	outgoing={
-		name="confluenza"
-		path={
-			1300 1294 
-		}
-		control={
-			3135.000000 1473.000000 3137.000000 1435.000000 
-		}
-	}
-	outgoing={
-		name="talononte"
-		path={
-			1300 1294 
-		}
-		control={
-			3110.000000 1514.000000 
-		}
-	}
-	members={
-		73 2955 4126 152 134 132 69 4335 68 1872 1868 76 
 	}
 }
 talononte={

@@ -513,7 +513,7 @@ coldmouth_area = {
     1956 4254 4259
 }
 
-greneclyf_area {
+greneclyf_area = {
 	312 4129 4257
 }
 
@@ -564,297 +564,297 @@ reitscheid_area = {
 	270 1936 4534
 }
 
-strawberry_area {
+strawberry_area = {
 	9 4163 4166
 }
 
-winterbell_area {
+winterbell_area = {
 	49 1982 4165
 }
 
-osnabeak_area {
+osnabeak_area = {
 	272 273 770 1960 4535
 }
 
-zwergenschwanz_area {
+zwergenschwanz_area = {
 	35 36 2995
 }
 
-zwischenrivier_area {
+zwischenrivier_area = {
 	67 269 1937 1938 4536
 }
 
-hellheim_area {
+hellheim_area = {
 	167 256 2970 4527 4533
 }
 
-crona_area {
+crona_area = {
 	60 61 292 771 1771 
 }
 
-kronburgerland_area {
+kronburgerland_area = {
 	291 2407 4542
 }
 
-yale_proper_area {
+yale_proper_area = {
 	78 80 1876
 }
 
-geburtsort_area {
+geburtsort_area = {
 	79 2957 2968
 }
 
-grunmark_area {
+grunmark_area = {
 	153 155 157 1952 4127
 }
 
-greifenmarschen_area {
+greifenmarschen_area = {
 	40 234 239 241 271 1770 
 }
 
-rabenseen_area {
+rabenseen_area = {
 	206 257 258 303 1939 4525
 }
 
-tannenschatten_area {
+tannenschatten_area = {
 	294 4248 4249 
 }
 
-bronzberg_area {
+bronzberg_area = {
 	275 276 1963 4242 4537
 }
 
-katerin_area {
+katerin_area = {
 	154 162 1318 1772 4529
 }
 
-einfoort_area {
+einfoort_area = {
 	168 265 4237
 }
-strassmark_area {
+strassmark_area = {
 	2406 2960 4236 
 }
 
-klingmuhl_area {
+klingmuhl_area = {
 	1856 1974 2195 2208
 }
 
-engelklau_area {
+engelklau_area = {
 	1756 2198 4306 
 }
 
-scheisswald_area {
+scheisswald_area = {
 	282 425 2405 
 }
 
-skyfall_area {
+skyfall_area = {
 	45 46 47 1857
 }
 
-grifftonia_area {
+grifftonia_area = {
 	44 51 2993 2996
 }
 
-vleugelland_area {
+vleugelland_area = {
 	57 1758 2971
 }
 
 ########################################
 # Verenia					 		   #
 ########################################
-verenia_area {
+verenia_area = {
 	191 192 193 1953 4392 
 }
 
-eyrie_area {
+eyrie_area = {
 	72 133 189 1880
 }
 
-avian_area {
+avian_area = {
 	233 4130 4373 4374
 }
 
-erie_area {
+erie_area = {
 	64 89 135 182 4125
 }
 
-balfeuer_area {
+balfeuer_area = {
 	65 87 88 181 1743
 }
 
 ########################################
 # Griffonstone					 	   #
 ########################################
-stone_highland_area {
+stone_highland_area = {
 	165 1869 1870
 }
 
-eincartref_area {
+eincartref_area = {
 	1769 2424 1863 4240
 }
 
-gale_area {
+gale_area = {
 	166 1867 1873
 }
 
-griffonstone_area {
+griffonstone_area = {
 	161 1951 2998 4128
 }
 
-solspitze_area {
+solspitze_area = {
 	156 158 439 443
 }
 
-murkbeak_area {
+murkbeak_area = {
 	159 2370 2447 4532
 }
 
-schwarzhohl_area {
+schwarzhohl_area = {
 	160 2304 4531 
 }
 
-uberberg_area {
+uberberg_area = {
 	422 424 462
 }
 
 ########################################
 # Western Riverlands			       #
 ########################################
-lauksstrumman_area {
+lauksstrumman_area = {
 	308 314 4250 
 }
 
-swarew_area {
+swarew_area = {
 	4246 4544 4545
 }
 
-ainaseil_area {
+ainaseil_area = {
 	290 299 467 2409
 }
 
-panaceja_area {
+panaceja_area = {
 	1943 2199 2412 2959
 }
 
-north_vartai_area {
+north_vartai_area = {
 	283 298 4543
 }
 
-south_vartai_area {
+south_vartai_area = {
 	261 268 2961 4541
 }
 
-kaza_ar_bark_area {
+kaza_ar_bark_area = {
 	4245 4251 4253 
 }
 
-diamond_mountain_area {
+diamond_mountain_area = {
 	300 4147 4252
 }
 
-var_woolth_area {
+var_woolth_area = {
 	296 2423 4263 
 }
 
-dit_kazar_area {
+dit_kazar_area = {
 	295 1957 4262
 }
 
-despoina_area {
+despoina_area = {
 	289 1941 4115 4247
 }
 
-wolfrest_area {
+wolfrest_area = {
 	302 304 1777 
 }
 
-deponya_area {
+deponya_area = {
 	1081 2415 2418 2419  
 }
 
-eygsic_forest_area {
+eygsic_forest_area = {
 	2421 4264 4267
 }
 
-coltsovo_area {
+coltsovo_area = {
 	297 2408 4116 4244
 }
 
-coltubarski_area {
+coltubarski_area = {
 	281 2962 4539 
 }
 
-bucka_area {
+bucka_area = {
 	280 1942 1944 4540 
 }
 
-jezeragrad_area {
+jezeragrad_area = {
 	473 474 475 1965 2420 4265
 }
 
-shayrmia_area {
+shayrmia_area = {
 	1062 1072 1073 1971 2445
 }
 
-blessedzemlja_area {
+blessedzemlja_area = {
 	1059 1964 2430 2431 2436
 }
 ########################################
 # Evi Valley			    		   #
 ########################################
-lushi_area {
+lushi_area = {
 	286 1846 2201 2413  2749 4530 
 	}
 
-floarea_alba_area {
+floarea_alba_area = {
 	2205 2314 4305 4315
 }
 
-kivessin_area {
+kivessin_area = {
 	216 316 2300 4299 4314
 }
 
-brodfeld_area {
+brodfeld_area = {
 	329 2299 4313
 }
 
-acute_forest_area {
+acute_forest_area = {
 	2305 4302 4304 4340
 }
 
-aegland_area {
+aegland_area = {
 	288 1935 2414 4555 2411 4558
 }
 
-purpleground_area {
+purpleground_area = {
 	420 421 2202
 }
 
-nicage_area {
+nicage_area = {
 	232 466 469
 }
 
-kaiv_area {
+kaiv_area = {
 	231 468 471 2189 2363
 }
 
-guardian_fields_area {
+guardian_fields_area = {
 	382 437 444 1854 4297
 }
 
-night_forest_area {
+night_forest_area = {
 	378 411 2350
 }
 
-czarna_dabrowka_area {
+czarna_dabrowka_area = {
 	442 455 1849 1855
 }
 
-krynika_morska_area {
+krynika_morska_area = {
 	438 441 2207 2309 4300
 }
 
-rzecznica_area {
+rzecznica_area = {
 	416 2348 2349 4293
 }
 
@@ -862,91 +862,91 @@ rzecznica_area {
 ########################################
 # Costa Eler				 		       #
 ########################################
-salmarkt_area {
+salmarkt_area = {
 	151 326 4310
 }
 
-cannabia_area {
+cannabia_area = {
 	331 2301 2303 2306 2307 4303
 }
 
-neachora_area {
+neachora_area = {
 	 317 322 332 2212 4311 4312
 }
 
-dageiadic_islands_area {
+dageiadic_islands_area = {
 	409 415 4294
 }
 
-aetiea_area {
+aetiea_area = {
 	126 406 2215 2310 4271
 }
 
-gelion_and_kaikion_area {
+gelion_and_kaikion_area = {
 	149 428 413 4290 4337
 }
 
-asteriads_area {
+asteriads_area = {
 	142 163 164 320 321 
 }
 
-asters_landing_area {
+asters_landing_area = {
 	144 145 146 2210 3003
 }
 
-prospero_area {
+prospero_area = {
 	414 2209 2213 2296 2297 4308 
 }
 
-agelada_area {
+agelada_area = {
 	147 1773 4291 4341
 }
 
-lillai_area {
+lillai_area = {
 	319 1848 2298
 }
 
-anamesa_area {
+anamesa_area = {
 	323 327 2211 
 }
 
-thermorion_area {
+thermorion_area = {
 	318 377 417 2302 2313 4298 
 }
 
-phocapetra_area {
+phocapetra_area = {
 	324 418  4295
 }
 
-minos_area {
+minos_area = {
 	  4292 4296 2308
 }
 
-arahno_pass_area {
+arahno_pass_area = {
 	419 423 2203 2204 4301
 }
 
-keowen_and_leve_area {
+keowen_and_leve_area = {
 	112 130 136 205 4112
 }
 
-queruscos_area {
+queruscos_area = {
 	174 194 203 4387 
 }
 
-valle_del_tridente_area {
+valle_del_tridente_area = {
 	199 410 2753 4111
 }
 
-midoria_area {
+midoria_area = {
 	125 175 196 1853 2982 
 }
 
-eritrocefalia_area {
+eritrocefalia_area = {
 	137 143 148  4174 4175
 }
 
-scarlet_area {
+scarlet_area = {
 	124 127 1247 2986 
 }
 
@@ -954,216 +954,216 @@ scarlet_area {
 # Karthinnia					 	   #
 ########################################
 
-alba_torre_area {
+alba_torre_area = {
 	150 325 328 330 2746
 }
 
-niemals_area {
+niemals_area = {
 	110 1871 4176 2978
 }
 
-sudfolc_and_jojo_area {
+sudfolc_and_jojo_area = {
 	111 200 1774 4391 
 }
 
-falcor_area {
+falcor_area = {
 	113 114 4386 1826 228
 }
 
-matton_area {
+matton_area = {
 	141 198  1827 1954 3000 
 }
 
-asbolus_area {
+asbolus_area = {
 	1766 2991 3001
 }
 
-thick_territory_area {
+thick_territory_area = {
 	104 105 108 109 212 1862 
 }
 
-wrobert_area {
+wrobert_area = {
 	102 103 1875 2992 4288
 }
 
-lowing_gap_area {
+lowing_gap_area = {
 	106 115 116
 }
 
-taloncana_area {
+taloncana_area = {
 	117 123 213 2977 2984
 }
 
-warthog_forest_area {
+warthog_forest_area = {
 	107 119 120 122 1933 2985 
 }
 
-karthin_area {
+karthin_area = {
 	118 121 1934 2976 2983 
 }
 
-librarsia_area {
+librarsia_area = {
 	101 429 2979 2980 2981 
 }
 
 ########################################
 # Transfolinia					 	   #
 ########################################
-arantiga_area {
+arantiga_area = {
 	73 132 134 2955
 }
 
-pulcino_area {
+pulcino_area = {
 	138 201 1828 1831 3002
 }
 
-goldenfeather_area {
+goldenfeather_area = {
 	152 1767 1864 4126
 }
 
-luchihoot_area {
+luchihoot_area = {
 	139 140 1765 4239
 }
 
-talononte_area {
+talononte_area = {
 	426 1747 2987
 }
 
-griffbound_area {
+griffbound_area = {
 	1851 2206 2988 
 }
 
-navarro_area {
+navarro_area = {
 	173 176 197 202 204 
 }
 
-boltaire_and_eldoran_area {
+boltaire_and_eldoran_area = {
 	221 1750
 }
 
-cross_island_area {
+cross_island_area = {
 	4552 2755 207 208
 }
 
-new_south_bales_area {
+new_south_bales_area = {
 	4384 172 171 170 169
 }
 
-north_new_mareland {
+north_new_mareland = {
 	211 1746 2989 2751 4557
 }
 
-celestia_area {
+celestia_area = {
 	214 210 4549
 }
 
-south_new_mareland_area {
+south_new_mareland_area = {
 	220 4559 333 4550 4560 2990
 }
 
 ########################################
 # Southern Riverlands				   #
 ########################################
-fireshore_area {
+fireshore_area = {
 	407 1065 2362 
 }
 
-lagosta_area {
+lagosta_area = {
 	1074 1075 4691
 }
 
-new_cervus_area {
+new_cervus_area = {
 	478 1066 2357 2359 2434 
 }
 
-barrad_area {
+barrad_area = {
 	215 465 1973 2353 2432 4679 
 }
 
-iomal_fairge_area {
+iomal_fairge_area = {
 	2352 2361 2369
 }
 
-ponaidhean_eibhinn_area {
+ponaidhean_eibhinn_area = {
 	477 1067 1966 2366 4222
 }
 
-fearann_ponaidh_area {
+fearann_ponaidh_area = {
 	217 470 2360 4556 
 }
 
-wittenland_area {
+wittenland_area = {
 	472 716 2367 2443 
 }
 
-wild_vodina_area {
+wild_vodina_area = {
 	1076 1972 4681  
 }
 
-kurai_area {
+kurai_area = {
 	714 1061 2355 2427 
 }
 
-darnish_highlands_area {
+darnish_highlands_area = {
 	718 719 1780 4683 
 }
 
-cumlia_area {
+cumlia_area = {
 	1063 1080 1970 4684 
 }
 
-fyrdland_area {
+fyrdland_area = {
 	1055 1060 2351 2365 4339 
 }
 
 ########################################
 # Eastern Riverlands				   #
 ########################################
-bakara_area {
+bakara_area = {
 	479 1079 2422 4266 
 }
 
-vetalije_area {
+vetalije_area = {
 	301 4255 4256
 }
 
-kotailia_area {
+kotailia_area = {
 	293 1754 1778 4122
 }
 
-mareibor_area {
+mareibor_area = {
 	307 1083 1753 
 }
 
-coltovac_area {
+coltovac_area = {
 	1082 4686 4688
 }
 
-coltonia_area {
+coltonia_area = {
 	305 1069 1755 2354
 }
 
-rijekograd_area {
+rijekograd_area = {
 	2429 2441 2442
 }
 
-neighretva_area {
+neighretva_area = {
 	440 1962 2428 2433 4554 4687
 }
 
-pterygapolis_area {
+pterygapolis_area = {
 	1045 1071 1077 2437 4689 4690
 }
 
-nimbusia_area {
+nimbusia_area = {
 	456 480 1064 1078 4547
 }
 
-kataigida_area {
+kataigida_area = {
 	1054 1068 1070 2444
 }
 
-oreino_tropo_area {
+oreino_tropo_area = {
 	219 476 2358 4551 4685 4692
 }
 
@@ -1171,125 +1171,125 @@ oreino_tropo_area {
 # Pingland					 		   #
 ########################################
 
-pinguin_land_area {
+pinguin_land_area = {
 	370 1003 1004 2590 2604
 }
 
-dachaigh_area {
+dachaigh_area = {
 	371 991 2588
 }
 
-chimincollie_area {
+chimincollie_area = {
 	998 1002 2580 2581	
 }
 
-frozen_north_area {
+frozen_north_area = {
 	969 1104 1105 
 }
 
-fearann_a_deas_area {
+fearann_a_deas_area = {
 	909 912 2559
 }
 
-wesslandia_area {
+wesslandia_area = {
 	2004 2008 2598 2602 2605 
 }
 
-mathair_fearrainn_area {
+mathair_fearrainn_area = {
 	808 2502 2510 2841 
 }
 
-eastern_key_lake_area {
+eastern_key_lake_area = {
 	806 807 2889 
 }
 
-onlartir_area {
+onlartir_area = {
 	2007 2804 2830
 }
 ########################################
 # Yakyakistan					 	   #
 ########################################
 
-yakiborder_area {
+yakiborder_area = {
 1005 1006 2591 2592
 } 
 
-vot_area {
+vot_area = {
 	959 960 2563 2564 2585 2595
 }
 
-kluv_valley_area {
+kluv_valley_area = {
 	987 1001 1007 2587 2593
 }
 
-manai_gazar_area {
+manai_gazar_area = {
 	904 958 2013
 }
 
-rose_forest_area {
+rose_forest_area = {
 	910 2015 2518 2562 2603 
 }
 
-saihan_tolgot_area {
+saihan_tolgot_area = {
 	961 967 970 2601 
 }
 
-shidetgasar_area {
+shidetgasar_area = {
 	989 992 2517 2599 2600
 }
 
-khereh_davsag_area {
+khereh_davsag_area = {
 	945 1813 2018 2503 2596
 }
 
-yakistan_valley_area {
+yakistan_valley_area = {
 	1011 2005 2017
 }
 
-yaket_range_area {
+yaket_range_area = {
 	1009 2594 2597 
 }
 
-huuramch_oi_area {
+huuramch_oi_area = {
 	906 1010 2521 
 }
 
 ########################################
 # Rocky Coast					 	   #
 ########################################
-hillyhills_area {
+hillyhills_area = {
 	982 984 2569 2589
 }
 
-rudeigin_a_tha_sin_area {
+rudeigin_a_tha_sin_area = {
 	990 993 2584
 }
 
-weidadehudedaier_area {
+weidadehudedaier_area = {
 	971 2565 2566 2567 2570 
 }
 
-weter_area {
+weter_area = {
 	980 981 997 2573 2574 2575
 }
 
-broken_skull_area {
+broken_skull_area = {
 	985 996 2576 2577 2578 
 }
 
-beak_area {
+beak_area = {
 	994 995 2572 2579 2582
 }
 
-bjornholm_area {
+bjornholm_area = {
 	968 988 2586
 }
 
-lammia_area {
+lammia_area = {
 	966 986 2671
 }
 
-snowy_land_area {
+snowy_land_area = {
 	2016 2511 2670 
 }
 
@@ -1297,102 +1297,102 @@ snowy_land_area {
 # Severyana					 		   #
 ########################################
 
-sovenok_area {
+sovenok_area = {
 	964 983 1000 2012 2583
 }
 
- princessyn_area {
+ princessyn_area = {
  	949 955 2554
 }
 
- krasivsk_area {
+ krasivsk_area = {
  	911 963 2011 
 }
 
- saint_petershoof_area {
+ saint_petershoof_area = {
  	937 953 2560 
 }
 
-trottingham_area {
+trottingham_area = {
 	944 965 2522 2561 2854 2928
 }
 
-marshmallow_area {
+marshmallow_area = {
 	942 943 2010
 }
 
-severokholm_area {
+severokholm_area = {
 	2550 2556 2639 
 }
 
-hoofbeat_krai_area {
+hoofbeat_krai_area = {
 	947 2549 2555 
 }
 
-mirage_area {
+mirage_area = {
 	224 2023 2558 
 }
 
-redheart_area {
+redheart_area = {
 	950 952 956 962 
 }
 
-kobilkyno_area {
+kobilkyno_area = {
 	946 2552 2553
 }
 
-malinovka_area {
+malinovka_area = {
 	948 951 2551 
 }
 
-baicall_area {
+baicall_area = {
 	915 2519 2525 2526 2544
 }
 
 ########################################
 # Equestrian East Coast				   #
 ########################################
-quiet_expanse_area {
+quiet_expanse_area = {
 	957 2548 2557
 }
 
-loupia_area {
+loupia_area = {
 	891 897 941 954 2514
 }
 
-manehattan_area {
+manehattan_area = {
 	898 2509 2515 2547
 }
 
-freeside_area {
+freeside_area = {
 	899 902 2672 
 }
 
-mareland_area {
+mareland_area = {
 	905 919 938 2531 2543
 }
 
-kemono_fields_area {
+kemono_fields_area = {
 	481 936 2523
 }
 
-tricorn_area {
+tricorn_area = {
 	940 2508 2524
 }
 
-april_grove_area {
+april_grove_area = {
 	901 933 2019 2545 
 }
 
-fillydelphia_area {
+fillydelphia_area = {
 	890 932 2490 2546 
 }
 
-divine_area {
+divine_area = {
 	931 2489 2501 2540 
 }
 
-amethyst_basin_area {
+amethyst_basin_area = {
 	2020 2529 2542
 }
 
@@ -1400,122 +1400,122 @@ amethyst_basin_area {
 # Aztlan			   				   #
 ########################################
 
-mango_area {
+mango_area = {
 	878 2494 4631 4632 
 }
 
-lesie_area {
+lesie_area = {
 	889 895 2496 4649
 }
 
-duskway_area {
+duskway_area = {
 	367 885 892 2528 
 }
 
-zazquiyahuitl_area {
+zazquiyahuitl_area = {
 	848 2539 2644 4583 4598
 }
 
-iztail_coast_area {
+iztail_coast_area = {
 	850 930 2538 2643 4575 
 }
 
-tenochtitlan_area {
+tenochtitlan_area = {
 	852 924 2623 2624 4574 
 }
 
-tonaltzintli_area {
+tonaltzintli_area = {
 	880 2532 2647 4579 
 }
 
-east_yucoltan_area {
+east_yucoltan_area = {
 	925 2627 2628 2648 4570 4578 
 }
 
-ayacachtli_area {
+ayacachtli_area = {
 	2622 2626 2669 4573 
 }
 
-chilchotl_area {
+chilchotl_area = {
 	927 2014 2534 
 }
 
-west_yucoltan_area {
+west_yucoltan_area = {
 	2537 4582 4625	
 }
 
-chinamitl_area {
+chinamitl_area = {
 	854 886 920 921 2621 
 }
 
-stableside_area {
+stableside_area = {
 	883 928 2516 2533 4580 
 }
 
-warm_water_way_area {
+warm_water_way_area = {
 	922 923 2500 2530 2657 4576 
 }
 
-forest_of_mosquitoes_area {
+forest_of_mosquitoes_area = {
 	893 2646 4581
 }
 
 ########################################
 # Coltlumbia			   			   #
 ########################################
-hoof_city_area {
+hoof_city_area = {
 	887 2665 4627
 }
 
-dodge_junction_area {
+dodge_junction_area = {
 	888 4629 2497 
 }
 
-great_minefields_area {
+great_minefields_area = {
 	884 2499 2616 4577 
 }
 
-coast_of_sorrow_area {
+coast_of_sorrow_area = {
 	851 882 2667 4628
 }
 
-south_trotsas_area {
+south_trotsas_area = {
 	863 864 881 
 }
 
-central_trotsas_area {
+central_trotsas_area = {
 	2492 2498 4643 4645 
 }
 
-north_trotsas_area {
+north_trotsas_area = {
 	879 2642 4633 4644 
 }
 
-wigwamia_area {
+wigwamia_area = {
 	867 876 877 
 }
 
-appleoosa_area {
+appleoosa_area = {
 	862 2666 4635
 }
 
-aetherlands_area {
+aetherlands_area = {
 	861 2615 2618 
 }
 
-las_pegasus_area {
+las_pegasus_area = {
 	858 2614 2668 4571 4648
 }
 
-rockville_area {
+rockville_area = {
 	860 2619 4641 4646
 }
 
-carrottop_area {
+carrottop_area = {
 	856 857 4647
 }
 
-neighvada_area {
+neighvada_area = {
 	853 4606 4634 4650
 }
 
@@ -1523,102 +1523,102 @@ neighvada_area {
 # Inner Equestria			 		   #
 ########################################
 
-meadowlands_area {
+meadowlands_area = {
 	875 973 2495 2606
 }
 
-canterlot_area {
+canterlot_area = {
 	1809 2504 2505 2625 
 }
 
-deepfall_forest_area {
+deepfall_forest_area = {
 	896 900 914 2520
 }
 
-hollow_shades_area {
+hollow_shades_area = {
 	894 934 935 
 }
 
-bales_area {
+bales_area = {
 	907 2483 2541 4626
 }
 
-manesbury_area {
+manesbury_area = {
 	913 916 917 918 939 
 }
 
-twin_cities_area {
+twin_cities_area = {
 	903 2493 2513 
 }
 
-canterian_vale_area {
+canterian_vale_area = {
 	2003 2006 2488 2527
 }
 
-little_pony_dale_area {
+little_pony_dale_area = {
 	870 874 2535 2607 
 }
 
-oleander_valley_area {
+oleander_valley_area = {
 	929 972 2487 2507 2610 2617 
 }
 
-eastmere_area {
+eastmere_area = {
 	859 866 2620 
 }
 
 ########################################
 # Western Equestria			 		   #
 ########################################
-westwood_area {
+westwood_area = {
 	855 926 2641 4642
 }
 
-lake_mead_area {
+lake_mead_area = {
 	868 2021 2479 4640
 }
 
-coltfoalnia_area {
+coltfoalnia_area = {
 	974 975 2485 4572 
 }
 
-tall_tales_area {
+tall_tales_area = {
 	2022 2484 2609  
 }
 
-cape_acadia_area {
+cape_acadia_area = {
 	844 976 978 4584 
 }
 
-fairflanks_area {
+fairflanks_area = {
 	2611 2629 2630 
 }
 
-acornage_area {
+acornage_area = {
 	849 2635 2649
 }
 
-featherfall_area {
+featherfall_area = {
 	2631 2632 2650 4585
 }
 
-unicorn_range_area {
+unicorn_range_area = {
 	977 2477 2480 2613 4637 
 }
 
-westmere_area {
+westmere_area = {
 	865 2478 2482 4638
 }
 
-twisted_tail_valley_area {
+twisted_tail_valley_area = {
 	869 873 2476 4636 4639 
 }
 
-galloping_gorge_area {
+galloping_gorge_area = {
 	871 872 2481
 }
 
-yeahcon_area {
+yeahcon_area = {
 	482 847 979 2612 
 }
 
@@ -1626,51 +1626,51 @@ yeahcon_area {
 # South Olenia					 	   #
 ########################################
 
-muteflow_area {
+muteflow_area = {
 	842 2633 2638
 }
 
-ostskog_area {
+ostskog_area = {
 	846 4590 4591 
 }
 
-vaverfront_area {
+vaverfront_area = {
 	845 2651 2652
 }
 
-sodra_stranden_area {
+sodra_stranden_area = {
 	843 2634 4587 4588 4589
 }
 
-manty_creek_area {
+manty_creek_area = {
 	841 2653 2837 4594
 }
 
-northern_hjortland_area {
+northern_hjortland_area = {
 	2636 2637 2640 2662 
 }
 
-central_hjortland_area {
+central_hjortland_area = {
 	839 2658 2659 4620 
 }
 
-southern_hjortland_area {
+southern_hjortland_area = {
 	490 840 4593 4621 
 }
 
-drowned_antler_area {
+drowned_antler_area = {
 	837 2836 2883 4597
 }
 
-cervus_area {
+cervus_area = {
 	828 836 2814 2817 4595 4601 
 }
 
-summerside_bay_area {
+summerside_bay_area = {
 	835 2819 2664 4599
 }
 
-porola_area {
+porola_area = {
 	829 2806 2818 4596 4614
 }
 
@@ -1678,114 +1678,114 @@ porola_area {
 # North Olenia					 	   #
 ########################################
 
-harlighamn_area {
+harlighamn_area = {
 	827 830 834 4600
 } 
 
-norra_vikar_area {
+norra_vikar_area = {
 	824 2813 4603 4609 4611 
 }
 
-palsstick_halvon_area {
+palsstick_halvon_area = {
 	823 2807 2812 4608 4610 4613
 }
 
-ishamn_area {
+ishamn_area = {
 	491 2808 2809 2816 4607 4612 
 }
 
-feer_dalar_area {
+feer_dalar_area = {
 	825 2810 2842 4602 
 }
 
-middle_olenia_area {
+middle_olenia_area = {
 	492 838 2663 4592 
 }
 
 ########################################
 #  Changeling Lands	 				   #
 ########################################
-western_key_lake_area {
+western_key_lake_area = {
 	809 810 811 2927  
 }
 
-northern_saddening_area {
+northern_saddening_area = {
 	814 2512 2826 4615
 }
 
-gorak_area {
+gorak_area = {
 	502 741 2935 2937 
 }
 
-changeling_fjords_area {
+changeling_fjords_area = {
 	743 2803 2827 2833 2878 4616 
 }
 
-dytrisium_area {
+dytrisium_area = {
 	744 745 820 2933 
 }
 
-neverwarm_point_area {
+neverwarm_point_area = {
 	746 793 2820
 }
 
-lyctida_area {
+lyctida_area = {
 	493 818 831 2946
 }
 
-vesalipolis_area {
+vesalipolis_area = {
 	802 804 805 2822 2947 
 }
 
-gardis_area {
+gardis_area = {
 	815 832 1116 2939
 }
 
-western_killing_swamp_area {
+western_killing_swamp_area = {
 	2243 2929 4605 
 }
 
-eastern_killing_swamp_area {
+eastern_killing_swamp_area = {
 	801 803 2660 2811 2901 
 }
 
-wild_lands_area {
+wild_lands_area = {
 	822 2815 2839 4617 
 }
 
-great_marsh_area {
+great_marsh_area = {
 	747 821 2832 
 }
 
-svarm_area {
+svarm_area = {
 	817 2945 4604 
 }
 
-major_forest_area {
+major_forest_area = {
 	794 816 819 2824 2828
 }
 
-jem_highlands_area {
+jem_highlands_area = {
 	742 799 2934 
 }
 
-vraks_area {
+vraks_area = {
 	796 797 2831 2900 2942 2943 
 }
 
-deadly_forest_area {
+deadly_forest_area = {
 	748 795 813 2821 2941 
 }
 
-totles_area {
+totles_area = {
 	800 2823 2825 2834
 }
 
-kladbise_area {
+kladbise_area = {
 	2805 2835 2838 2840 2938 2944
 }
 
-svartforest_area {
+svartforest_area = {
 	812 2829 2882 2902 2930 2940 
 }
 
@@ -1793,78 +1793,78 @@ svartforest_area {
 ########################################
 # Canterribean				 		   #
 ########################################
-dragon_islands_area {
+dragon_islands_area = {
 	227 229 230 368 4150 4548 
 }
 
-spa_islands_area {
+spa_islands_area = {
 	347 366 1110
 }
 
-matrotanzas_area {
+matrotanzas_area = {
 	484 485 4622 4623 4624 
 }
 
-puerto_caballo_area {
+puerto_caballo_area = {
 	483 486 2654 2655 2656 
 }
 
-summer_islands_area {
+summer_islands_area = {
 	487 488 489 1881 4618 4619
 }
 
-belle_ile_area {
+belle_ile_area = {
 	495 496 497 1113
 }
 
-les_abondantes_area {
+les_abondantes_area = {
 	498 501 1096 1111 
 }
 
-les_loyales_ouest_area {
+les_loyales_ouest_area = {
 	499 500 1115 2244 
 }
 
-les_loyales_est_area {
+les_loyales_est_area = {
 	494 1112 2237 
 }
 
 ########################################
 # Zebrides					 		   #
 ########################################
-pulalap_area {
+pulalap_area = {
 	617 659 2678 2679 2683 2684
 }
 
-zimor_and_marekassar_area {
+zimor_and_marekassar_area = {
 	626 627 631 2690 2691 2693 
 }
 
-east_zulawesi_area {
+east_zulawesi_area = {
 	624 625 628 629 2687 
 }
 
-west_zulawesi_area {
+west_zulawesi_area = {
 	630 2688 2689 
 }
 
-zunda_begaris_area {
+zunda_begaris_area = {
 	632 634 2692 
 }
 
-north_zava_area {
+north_zava_area = {
 	623 2676 2677 
 }
 
-south_zava_area {
+south_zava_area = {
 	621 622 2680 2681 
 }
 
-ceram_area {
+ceram_area = {
 	618 619 2674 2675 2682 2685
 }
 
-mareida_area {
+mareida_area = {
 	620 633 1998 
 }
 
@@ -2017,8 +2017,7 @@ samtskhe_area = { #3
 ########################################
 
 aydin_area = { #5
-	color = {  70 86 }
-	  4309
+	 4309
 }
 
 karaman_area = { #4
@@ -2064,7 +2063,6 @@ tabuk_area = { #4
 }
 
 medina_area = { #3
-	color = { 225 158 92 }
 	384 2329 2330
 }
 
@@ -2081,7 +2079,6 @@ tihama_al_yemen_area = { #3
 }
 
 upper_yemen_area = { #3
-	color = { 220 41 155 }
 	390 2344 4281
 }
 
@@ -2118,7 +2115,6 @@ mascat_area = { #3 (Batinah and Muscat coast
 }
 
 syrian_desert_area = { #3
-	color = { 219 30 57 }
     4270 
 }
 
@@ -2127,7 +2123,6 @@ syrian_desert_area = { #3
 ########################################
 
 gulf_of_arabia_area = { #5
-	color = { 19 219 75 }
 	365 2315 2320 2321
 }
 
@@ -2140,7 +2135,6 @@ delta_area = { #3
 }
 
 bahari_area = { #4 #Lower Egypt
-	color = { 19 193 219 }
 	361 2316 4316 4317 
 }
 
@@ -2229,7 +2223,6 @@ madagascar_highlands_area = { #3
 }
 
 betsimasaraka_area = { #3
-	color = { 29 162 26 }
 	4021 4024 4025
 }
 
@@ -2238,12 +2231,10 @@ sakalava_area = { #5
 }
 
 southern_madagascar = { #4
-	color = { 232 29 34 }
 	4026 4028 4029 4030
 }
 
 lower_zambezi_area = { #3
-	color = { 213 127 69 }
 	1187 1190 1191
 }
 
@@ -2356,7 +2347,6 @@ sankuru_area = { #3
 }
 
 lower_kasai = { #4
-	color = { 66 114 224 }
 	4081 4085 4086 4088
 }
 
@@ -2369,7 +2359,6 @@ darfur_central_sahara_area = { #5
 }
 
 kurdufan_area = { #3
-	color = { 97 110 203 }
 	1216 1221 2800
 }
 
@@ -2430,7 +2419,6 @@ shewa_area = { #3
 }
 
 mogadishu_area = { #5
-	color = { 239 36 74 }
 	1205 2775 2782 2794 2795
 }
 
@@ -2696,7 +2684,6 @@ termez_area = { #3
 }
 
 kabulistan_area = { #5
-	color = { 96 219 }
 	448 451 452 578 2226
 }
 
@@ -2713,12 +2700,10 @@ birjand_area = { #3 - Western Khorasan
 }
 
 ghor_area = { #3
-	color = { 191 176 53 }
 	447 449 2225
 }
 
 merv_area = { #3
-	color = { 60 186 134 }
 	 445 
 }
 
@@ -2788,7 +2773,6 @@ upper_doab_area = { #3
 }
 
 lower_doab_area = { #4
-	color = { 212 199  }
 	524 556 2063 4496
 }
 
@@ -2812,7 +2796,7 @@ north_bengal_area = { #4
 	562 2045 2046 4486
 }
 
-tripura_area { #3
+tripura_area = { #3
 	567 2091 4473
 }
 
@@ -2893,12 +2877,10 @@ malabar_area = { #5
 }
 
 malwa_area = { #5
-	color = { 232 18 18 }
 	526 2056 2057 2093 4461
 }
 
 mewar_area = { #5
-	color = { 126 17 17 }
 	518 2058 2087 4501 4462
 }
 
@@ -2927,7 +2909,6 @@ north_carnatic_area = { #4 (Only the Golcondan Karnatak)
 }
 
 south_carnatic_area = { #5 (Only the Golcondan Karnatak)
-	color = { 77 149 195 }
 	539 540 1947 2027 4417 
 }
 
@@ -3012,7 +2993,6 @@ patan_area = { #4
 }
 
 tapti_area = { #3
-	color = { 18 107 18 }
 	517 2036 4430
 }
 
@@ -3208,12 +3188,10 @@ eastern_chubu_area = { #4
 }
 
 chubu_area = { #3 (Western Chubu)
-	color = { 219 83 61 }
 	1030 1835 4359
 }
 
 kinai_area = { #4
-	color = { 208 206 65 }
 	1020 1021 1832 4187
 }
 
@@ -3334,7 +3312,6 @@ xilin_gol_area = {
 }
 
 altai_sayan_area = { #3
-	color = { 203 84 84 }
 	 2117  4680 4682
 }
 
@@ -3347,7 +3324,6 @@ uliastai_area = {#3
 }
 
 jetysuu_area = { #5
-	color = { 56 37 169 }
 	459 461 2125 2126 2368
 }
 
@@ -3368,7 +3344,6 @@ turpan_kumul_area = { #4
 }
 
 zungaria_area = { #5
-	color = { 65 220 28 }
 	713 715 2120 4208 
 }
 
