@@ -1,11 +1,11 @@
-owner = ALB
-controller = ALB
-add_core = ALB
-culture = albionian
+owner = PRA
+controller = PRA
+add_core = PRA
+culture = prench
 religion = celestial
 hre = no
-base_tax = 4
-base_production = 5
+base_tax = 3
+base_production = 3
 base_manpower = 2
 is_city = yes
 
@@ -13,4 +13,6 @@ discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
 
-trade_goods = naval_supplies
+trade_goods = grain
+
+fort_15th = yes

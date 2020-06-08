@@ -6,7 +6,7 @@ religion = celestial
 hre = no
 base_tax = 5
 base_production = 4
-base_manpower = 2
+base_manpower = 3
 is_city = yes
 
 discovered_by = equestrian
@@ -14,3 +14,4 @@ discovered_by = severyanian
 discovered_by = tzinacatlian
 
 trade_goods = cloth
+fort_15th = yes

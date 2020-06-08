@@ -5,7 +5,7 @@ culture = stratusian
 religion = celestial
 hre = no
 base_tax = 4
-base_production = 3
+base_production = 4
 base_manpower = 3
 is_city = yes
 
@@ -14,3 +14,5 @@ discovered_by = severyanian
 discovered_by = tzinacatlian
 
 trade_goods = cloth
+
+fort_15th = yes

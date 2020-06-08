@@ -14,3 +14,5 @@ discovered_by = severyanian
 discovered_by = tzinacatlian
 
 trade_goods = iron
+
+fort_15th = yes

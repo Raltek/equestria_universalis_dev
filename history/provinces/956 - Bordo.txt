@@ -4,8 +4,8 @@ add_core = SEV
 culture = petershoofite
 religion = severyanan_rite
 hre = no
-base_tax = 3
-base_production = 3
+base_tax = 4
+base_production = 4
 base_manpower = 3
 is_city = yes
 
@@ -14,3 +14,5 @@ discovered_by = severyanian
 discovered_by = tzinacatlian
 
 trade_goods = wool
+
+fort_15th = yes
