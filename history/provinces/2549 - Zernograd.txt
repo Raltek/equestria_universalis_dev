@@ -1,8 +1,8 @@
-owner = STS
-controller = STS
-add_core = STS
-culture = stratusian
-religion = celestial
+owner = SEV
+controller = SEV
+add_core = SEV
+culture = zakatnieite
+religion = severyanan_rite
 hre = no
 base_tax = 3
 base_production = 3

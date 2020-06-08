@@ -1,7 +1,7 @@
 owner = SEV
 controller = SEV
 add_core = SEV
-culture = petershoofite
+culture = zayatskite
 religion = severyanan_rite
 hre = no
 base_tax = 1
@@ -14,8 +14,3 @@ discovered_by = severyanian
 discovered_by = tzinacatlian
 
 trade_goods = wool
-
-add_permanent_province_modifier = {
-	name = river_estuary_modifier
-	duration = -1
-}

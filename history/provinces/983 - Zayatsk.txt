@@ -1,10 +1,10 @@
-owner = STS
-controller = STS
-add_core = STS
-culture = stratusian
-religion = celestial
+owner = SEV
+controller = SEV
+add_core = SEV
+culture = zayatskite
+religion = severyanan_rite
 hre = no
-base_tax = 3
+base_tax = 2
 base_production = 3
 base_manpower = 2
 is_city = yes
@@ -13,4 +13,4 @@ discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
 
-trade_goods = grain
+trade_goods = iron

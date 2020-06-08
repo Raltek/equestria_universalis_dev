@@ -1,7 +1,16 @@
-owner = EQS
-controller = EQS
-add_core = EQS
+owner = STS
+controller = STS
+add_core = STS
+culture = stratusian
+religion = celestial
+hre = no
+base_tax = 4
+base_production = 3
+base_manpower = 3
+is_city = yes
 
 discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
+
+trade_goods = cloth

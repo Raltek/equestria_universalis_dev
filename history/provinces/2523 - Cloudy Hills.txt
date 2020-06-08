@@ -1,11 +1,11 @@
-owner = ALB
-controller = ALB
-add_core = ALB
-culture = albionian
+owner = STS
+controller = STS
+add_core = STS
+culture = stratusian
 religion = celestial
 hre = no
-base_tax = 5
-base_production = 4
+base_tax = 3
+base_production = 3
 base_manpower = 2
 is_city = yes
 
@@ -13,4 +13,4 @@ discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
 
-trade_goods = cloth
+trade_goods = iron

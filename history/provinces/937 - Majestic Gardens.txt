@@ -1,11 +1,11 @@
-owner = ALB
-controller = ALB
-add_core = ALB
-culture = albionian
-religion = celestial
+owner = SEV
+controller = SEV
+add_core = SEV
+culture = petershoofite
+religion = severyanan_rite
 hre = no
 base_tax = 3
-base_production = 3
+base_production = 2
 base_manpower = 1
 is_city = yes
 
@@ -13,4 +13,4 @@ discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
 
-trade_goods = salt
+trade_goods = grain
