@@ -1,8 +1,8 @@
-owner = ACC
-controller = ACC
-add_core = ACC
-culture = talousian
-religion = old_believer
+owner = EAT
+controller = EAT
+add_core = EAT
+culture = piumontese
+religion = archonate
 
 hre = no
 base_tax = 2

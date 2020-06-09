@@ -1,12 +1,12 @@
-owner = NAV
-controller = NAV
-add_core = NAV
-culture = talousian
+owner = ROA
+controller = ROA
+add_core = ROA
+culture = piumontese
 religion = archonate
 
 hre = no
-base_tax = 2
-base_production = 1
+base_tax = 3
+base_production = 2
 base_manpower = 2
 is_city = yes
 

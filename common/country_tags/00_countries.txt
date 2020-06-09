@@ -162,6 +162,8 @@ LUH = "countries/Luchihoot.txt"
 PUL = "countries/Pulcino.txt"
 VOL = "countries/Volino.txt"
 GOL = "countries/Goldenfeather.txt"
+ROA = "countries/Roameo.txt"
+EAT = "countries/Eatela.txt"
 
 #Coast of Eler
 ESC = "countries/Escarlata.txt"
