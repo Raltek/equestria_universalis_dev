@@ -6,6 +6,8 @@ technology_group = equestrian
 capital = 891 # Paris
 national_focus = DIP
 
+elector = yes
+
 471.9.16 = {
 	monarch = {
 		name = "Sunbeam VI"

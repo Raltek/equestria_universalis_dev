@@ -7,6 +7,8 @@ religion = celestial
 capital = 2557 # London
 national_focus = DIP
 
+elector = yes
+
 520.11.6 = { #Coronation
 	monarch = {
 		name = "Haystalk VI"

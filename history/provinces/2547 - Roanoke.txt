@@ -6,7 +6,7 @@ discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
 
-hre = no
+hre = yes
 base_tax = 10
 base_production = 10
 base_manpower = 10

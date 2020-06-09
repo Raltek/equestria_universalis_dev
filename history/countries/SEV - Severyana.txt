@@ -3,6 +3,8 @@ add_government_reform = tsardom
 primary_culture = petershoofite
 religion = severyanan_rite
 technology_group = severyanian
+add_accepted_culture = zakatnieite
+add_accepted_culture = zayatskite
 capital = 2506
 government_rank = 3
 
