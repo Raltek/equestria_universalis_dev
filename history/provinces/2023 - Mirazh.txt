@@ -1,8 +1,8 @@
 owner = ALB
 controller = ALB
 add_core = ALB
-culture = albionian
-religion = celestial
+culture = petershoofite
+religion = severyanan_rite
 hre = no
 base_tax = 3
 base_production = 3

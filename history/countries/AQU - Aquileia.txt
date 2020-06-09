@@ -9,6 +9,7 @@ add_accepted_culture = flowenois
 add_accepted_culture = pridean
 religion = archonate
 capital = 1761 # Aquila
+fixed_capital = 1761
 
 530.6.20 = {
 	monarch = {

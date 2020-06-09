@@ -4,3 +4,4 @@ technology_group = griffon
 religion = archonate
 primary_culture = karthinian
 capital = 118		# Karthin
+fixed_capital = 118

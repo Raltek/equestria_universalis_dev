@@ -1,14 +1,2 @@
-owner = AQU
-controller = AQU
-add_core = AQU
-add_core = WSK
-culture = vinovian
-religion = archonate
-hre = no
-base_tax = 2
-base_production = 1
-base_manpower = 2
-is_city = yes
-
 discovered_by = griffon
 discovered_by = riverpony

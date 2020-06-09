@@ -1,13 +1,2 @@
-owner = WIT
-controller = WIT
-culture = wittenlandic
-religion = mountain_worship
-add_core = WIT
-hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
-is_city = yes
-
 discovered_by = riverpony
 discovered_by = griffon

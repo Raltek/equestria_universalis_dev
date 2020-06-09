@@ -1,7 +1,7 @@
 owner = FZR
 controller = FZR
 culture = feathisian
-religion = archonate
+religion = old_believer
 add_core = FZR
 hre = no
 base_tax = 2

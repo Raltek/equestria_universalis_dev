@@ -86,6 +86,21 @@ north_griffon = {
 			Elisabet Gunhild
 		}
 	}
+	tarpean = {
+		primary = ARC
+		male_names = {
+					Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
+			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
+			Ancietus Reinhold August Elias Harald Eggert Konrad Fritz Cornelius Erhard Horst Herbert Rolf
+			Wilhelm Erwin Wolfgang Kalus Friedrich Rikard Siegfried Gustav Heinrich Waldemar Theodor Ludwig 
+			Oskar Ferdinand Albrecht Reinhardt Strom
+		}
+		female_names = {
+			Jessica Emma Hanna Sofia Marie Iris Elsa Victoria Karin Ingrid Margarethe Edith Erna Mia Theresa
+			Pauline Louisa Luoise Clara Sara Karja Eva Sophie Carla Gretchen Kathrine Heidi Lorelei Regitze Ilsa Wilhelmina 
+			Ulrike Sieglinde Wanda Ulla Ingeborg Charlotte Hedwig Irene Rita Anne Elsbeth Elisabeth Rosa Sonja Barbara Brunhilde
+		}
+	}
 	dynasty_names = {
 		Greytalon Mistfeather Stormfeather Raincrest Hellcrest Bronzetail Thundertail Mudbeak Helltalon Duskwing
 		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
@@ -703,35 +718,33 @@ highpony_group = {
 		}
 	}
 
-		wittenlandic = {
+	wittenlandic = {
 		primary = WIT
 
 		male_names = {
-			Silver Gold
+			Silver Gold Wulfric Cuthberht Sigeweard Eadberht Haysil Wilburg Osgar Aelfthryd Cerulean
 		}
 
 		female_names = {
-			White Black Honoria 
+			White Black Honoria Hilda Mildgyd Glaedwine Emeralda Dayne
 		}
 
 		dynasty_names = {
-			Star Tower Moon Light Mountain 
+			Star Tower Moon Light Mountain Grey Spellshield Steelsnow Amethyst Redmane Emeraldflame Brasseyes Crimsonstripe Palecoat
 		}
 	}
-
-		barradian = {
-		primary = SRL
+	barradian = {
 
 		male_names = {
-			Silver Gold Hook Board Shot Ram
+			Silver Gold Wulfric Cuthberht Sigeweard Eadberht Haysil Wilburg Osgar Aelfthryd Cerulean
 		}
 
 		female_names = {
-			White Black Honoria 
+			White Black Honoria Hilda Mildgyd Glaedwine Emeralda Dayne
 		}
 
 		dynasty_names = {
-			Star Tower Moon Light Mountain Ship Sail 
+			Star Tower Moon Light Mountain Grey Spellshield Steelsnow Amethyst Redmane Emeraldflame Brasseyes Crimsonstripe Palecoat
 		}
 	}
 }
@@ -739,66 +752,45 @@ highpony_group = {
 varten_group = {
 	graphical_culture = easterngfx
 	ilgakardian = {
-	primary = IND
-	
-	male_names = {
-			Zygimantas Kazimieras Aleksandras Jonas Albertas Zygimantas Augustas Vytautas Jogaila Vladislovas 
-			Algirdas Stanislovas Svitrigaila Mindaugas Albertas Andrius Antanas Aras Arturas Azuolas 
-			Gediminas Giedrius Gintaras Henrikas Jonas Jonusas Juozapas Jurgis Kaributas Karolis Kristupas 
-			Liudvikas Marijus Mykolas Paulius Petras Pranciskus Raimondas Ramunas Steponas Skirgaila Tomas 
-			Vincentas Vilhelmas Vytenis Kestutis Viktoras Leonas Linas Bronislovas Darius 
-		}
-		female_names = {
-			Agné Morta Viltauté Agné Aldona Amalija Audra Aurelija Aušra Austeja Barbora Daina Daiva Dalia Danute Diana Doroteja 
-			Edita Egle Elena Elžbieta Elze Emilija Ernesta Estera Gabija Gabriele Giedre Gintare Ieva Ilona Inga Irena Jadvyga 
-			Janina Jelena Yelena Jolanta Julija Justina Kamile Karolina Katre Kotryna Kristina Laima Leja Lilija Lina Liucija 
-			Liudvika Margarita Marija Marijona Melanija Migle Milda Monika Morta Ona Rasa Regina Rozalija Rože Ruta Sandra Saule 
-			Smilte Sofija Solveiga Svajone Tatjana Ugne Urte Valerija Veronika Viktorija Vilhelmina Viltaute Vilte Vita Vitalija
-		}
-		dynasty_names = {
-			Ugandi Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
-			Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
-			"Giedraitis" "Mantigirdaitis" "Chodkevicius" "Sudimantaitis" "Korybut" "Jogailaitis" "Gediminaitis"
-		}	
-		}
-	hellquil = {
-	primary = RIK
-	male_names = {
-			Zygimantas Kazimieras Aleksandras Jonas Albertas Zygimantas Augustas Vytautas Jogaila Vladislovas 
-			Algirdas Stanislovas Svitrigaila Mindaugas Albertas Andrius Antanas Aras Arturas Azuolas 
-			Gediminas Giedrius Gintaras Henrikas Jonas Jonusas Juozapas Jurgis Kaributas Karolis Kristupas 
-			Liudvikas Marijus Mykolas Paulius Petras Pranciskus Raimondas Ramunas Steponas Skirgaila Tomas 
-			Vincentas Vilhelmas Vytenis Kestutis Viktoras Leonas Linas Bronislovas Darius 
-		}
-		female_names = {
-			Agné Morta Viltauté Agné Aldona Amalija Audra Aurelija Aušra Austeja Barbora Daina Daiva Dalia Danute Diana Doroteja 
-			Edita Egle Elena Elžbieta Elze Emilija Ernesta Estera Gabija Gabriele Giedre Gintare Ieva Ilona Inga Irena Jadvyga 
-			Janina Jelena Yelena Jolanta Julija Justina Kamile Karolina Katre Kotryna Kristina Laima Leja Lilija Lina Liucija 
-			Liudvika Margarita Marija Marijona Melanija Migle Milda Monika Morta Ona Rasa Regina Rozalija Rože Ruta Sandra Saule 
-			Smilte Sofija Solveiga Svajone Tatjana Ugne Urte Valerija Veronika Viktorija Vilhelmina Viltaute Vilte Vita Vitalija
-		}
-		dynasty_names = {
-			Ugandi Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
-			Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
-			"Giedraitis" "Mantigirdaitis" "Chodkevicius" "Sudimantaitis" "Korybut" "Jogailaitis" "Gediminaitis"
-		}
+		primary = IND
 	}
+	hellquil = {
+		primary = RIK
+	}
+	male_names = {
+		Zygimantas Kazimieras Aleksandras Jonas Albertas Zygimantas Augustas Vytautas Jogaila Vladislovas 
+		Algirdas Stanislovas Svitrigaila Mindaugas Albertas Andrius Antanas Aras Arturas Azuolas 
+		Gediminas Giedrius Gintaras Henrikas Jonas Jonusas Juozapas Jurgis Kaributas Karolis Kristupas 
+		Liudvikas Marijus Mykolas Paulius Petras Pranciskus Raimondas Ramunas Steponas Skirgaila Tomas 
+		Vincentas Vilhelmas Vytenis Kestutis Viktoras Leonas Linas Bronislovas Darius 
+	}
+	female_names = {
+		Agné Morta Viltauté Agné Aldona Amalija Audra Aurelija Aušra Austeja Barbora Daina Daiva Dalia Danute Diana Doroteja 
+		Edita Egle Elena Elžbieta Elze Emilija Ernesta Estera Gabija Gabriele Giedre Gintare Ieva Ilona Inga Irena Jadvyga 
+		Janina Jelena Yelena Jolanta Julija Justina Kamile Karolina Katre Kotryna Kristina Laima Leja Lilija Lina Liucija 
+		Liudvika Margarita Marija Marijona Melanija Migle Milda Monika Morta Ona Rasa Regina Rozalija Rože Ruta Sandra Saule 
+		Smilte Sofija Solveiga Svajone Tatjana Ugne Urte Valerija Veronika Viktorija Vilhelmina Viltaute Vilte Vita Vitalija
+	}
+	dynasty_names = {
+		Ugandi Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
+		Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
+		"Giedraitis" "Mantigirdaitis" "Chodkevicius" "Sudimantaitis" "Korybut" "Jogailaitis" "Gediminaitis"
+	}	
 }
 
 northpony_group = {
 	graphical_culture = northamericagfx
 	northpony = {
-	primary = FAR
-	male_names = {
-		Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
+		male_names = {
+			Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
+		}
+		female_names = {
+			Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
+		}
+		dynasty_names = {
+			Wings Fashion Colt Cinnamon Twirl Scarlet Harmony Little Snowflake Bubblegum Mythic Star Amethyst Lilly Solar Wings Emerald Fashion Dew Smooch
+		}
 	}
-	female_names = {
-		Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
-	}
-	dynasty_names = {
-		Wings Fashion Colt Cinnamon Twirl Scarlet Harmony Little Snowflake Bubblegum Mythic Star Amethyst Lilly Solar Wings Emerald Fashion Dew Smooch
-	}
-}
 }
 diamond_dog = {
 	graphical_culture = easterngfx
@@ -839,39 +831,22 @@ wild_griffon = {
 equestrian = {
 	graphical_culture = westerngfx
 	canterlotian = {
-		male_names = {
-			Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
-		}
-		female_names = {
-			Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
-		}
+		
 	}
 	prench = {
 		primary = PRA
-		male_names = {
-			Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
-		}
-		female_names = {
-			Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
-		}
 	}
 	albionian = {
 		primary = ALB
-		male_names = {
-			Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
-		}
-		female_names = {
-			Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
-		}
 	}
 	stratusian = {
 		primary = STS
-		male_names = {
-			Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
-		}
-		female_names = {
-			Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
-		}
+	}
+	male_names = {
+		Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
+	}
+	female_names = {
+		Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
 	}
 }
 severyanian = {
@@ -925,7 +900,7 @@ severyanian = {
 olenian_group = {
 	graphical_culture = westerngfx
 	austurlander = {
-	primary = OLV
+		primary = OLV
 		male_names = {
 				Ale Alfr Alf Alfgeir Anders Andrew Anlaufr Anundr Anund Arnbjörn Arngrimr Arni Arne Arnfast 
 				Asbjörn Bagge Baldr Balder Barid Bengt Benedict Bersi Bertil Birger Björn Beorn Bo Borkvard 
@@ -967,7 +942,7 @@ olenian_group = {
 			"Skanke" "Bolt" "Giske" "Brockenhuus" "Adelswärd" "Kane" "Blixen" "Løvendal" "Balke"
 			"Vedel" "Bjelke" "Galle" "Griis"
 		}
-}
+	}
 }
 
 changeling_group = {
@@ -1011,68 +986,45 @@ changeling_group = {
 		}
 }
 
-tarpean_group = {
-	graphical_culture = westerngfx
-	tarpean = {
-	primary = ARC
-		male_names = {
-					Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
-			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
-			Ancietus Reinhold August Elias Harald Eggert Konrad Fritz Cornelius Erhard Horst Herbert Rolf
-			Wilhelm Erwin Wolfgang Kalus Friedrich Rikard Siegfried Gustav Heinrich Waldemar Theodor Ludwig 
-			Oskar Ferdinand Albrecht Reinhardt Strom
-		}
-		female_names = {
-		Jessica Emma Hanna Sofia Marie Iris Elsa Victoria Karin Ingrid Margarethe Edith Erna Mia Theresa
-		Pauline Louisa Luoise Clara Sara Karja Eva Sophie Carla Gretchen Kathrine Heidi Lorelei Regitze Ilsa Wilhelmina 
-		Ulrike Sieglinde Wanda Ulla Ingeborg Charlotte Hedwig Irene Rita Anne Elsbeth Elisabeth Rosa Sonja Barbara Brunhilde
-		}
-		dynasty_names = { 
-		Greytalon Mistfeather Stormfeather Raincrest Hellcrest Bronzetail Thundertail Mudbeak Helltalon Duskwing
-		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
-		Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing
-		}
-
-		}
-}
-
 griffonstone_group = {
 	graphical_culture = westerngfx
 	griffonstone = {
-	primary = BOI
+		primary = BOI
 		male_names = {  Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
 			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
 			Ancietus Reinhold August Elias Harald Eggert Konrad Fritz Cornelius Erhard Horst Herbert Rolf
 			Wilhelm Erwin Wolfgang Kalus Friedrich Rikard Siegfried Gustav Heinrich Waldemar Theodor Ludwig 
 			Oskar Ferdinand Albrecht Reinhardt Strom
 		}
-		female_names = { Jessica Emma Hanna Sofia Marie Iris Elsa Victoria Karin Ingrid Margarethe Edith Erna Mia Theresa
-		Pauline Louisa Luoise Clara Sara Karja Eva Sophie Carla Gretchen Kathrine Heidi Lorelei Regitze Ilsa Wilhelmina 
-		Ulrike Sieglinde Wanda Ulla Ingeborg Charlotte Hedwig Irene Rita Anne Elsbeth Elisabeth Rosa Sonja Barbara Brunhilde
+		female_names = { 
+			Jessica Emma Hanna Sofia Marie Iris Elsa Victoria Karin Ingrid Margarethe Edith Erna Mia Theresa
+			Pauline Louisa Luoise Clara Sara Karja Eva Sophie Carla Gretchen Kathrine Heidi Lorelei Regitze Ilsa Wilhelmina 
+			Ulrike Sieglinde Wanda Ulla Ingeborg Charlotte Hedwig Irene Rita Anne Elsbeth Elisabeth Rosa Sonja Barbara Brunhilde
 		}
 		dynasty_names = {
-		Greytalon Mistfeather Stormfeather Raincrest Hellcrest Bronzetail Thundertail Mudbeak Helltalon Duskwing
-		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
-		Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing
+			Greytalon Mistfeather Stormfeather Raincrest Hellcrest Bronzetail Thundertail Mudbeak Helltalon Duskwing
+			Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
+			Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing
 		}
-
-		}
+	}
 	gruselberger = {
-	primary = MUR
-		male_names = {  Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
+		primary = BLH
+		male_names = {  
+			Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
 			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
 			Ancietus Reinhold August Elias Harald Eggert Konrad Fritz Cornelius Erhard Horst Herbert Rolf
 			Wilhelm Erwin Wolfgang Kalus Friedrich Rikard Siegfried Gustav Heinrich Waldemar Theodor Ludwig 
 			Oskar Ferdinand Albrecht Reinhardt Strom
 		}
-		female_names = { Jessica Emma Hanna Sofia Marie Iris Elsa Victoria Karin Ingrid Margarethe Edith Erna Mia Theresa
-		Pauline Louisa Luoise Clara Sara Karja Eva Sophie Carla Gretchen Kathrine Heidi Lorelei Regitze Ilsa Wilhelmina 
-		Ulrike Sieglinde Wanda Ulla Ingeborg Charlotte Hedwig Irene Rita Anne Elsbeth Elisabeth Rosa Sonja Barbara Brunhilde
+		female_names = { 
+			Jessica Emma Hanna Sofia Marie Iris Elsa Victoria Karin Ingrid Margarethe Edith Erna Mia Theresa
+			Pauline Louisa Luoise Clara Sara Karja Eva Sophie Carla Gretchen Kathrine Heidi Lorelei Regitze Ilsa Wilhelmina 
+			Ulrike Sieglinde Wanda Ulla Ingeborg Charlotte Hedwig Irene Rita Anne Elsbeth Elisabeth Rosa Sonja Barbara Brunhilde
 		}
 		dynasty_names = {
-		Greytalon Mistfeather Stormfeather Raincrest Hellcrest Bronzetail Thundertail Mudbeak Helltalon Duskwing
-		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
-		Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing
+			Greytalon Mistfeather Stormfeather Raincrest Hellcrest Bronzetail Thundertail Mudbeak Helltalon Duskwing
+			Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
+			Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing
 		}
 	}	
 }
@@ -1080,32 +1032,31 @@ griffonstone_group = {
 arantigan_group = {
 	graphical_culture = westerngfx
 	arantigan_culture = {
-	primary = ARG
+		primary = ARG
 		male_names = {
 			Glessandro Galfonso Gambrogio Gamedeo Andrea Angelo Antonio Benito Camillo Carlo
 			Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
 			Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
 			Luigi Mario Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
 			Raffaele Griffberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio
-			}
+		}
 		female_names = {
 		 Maria Anna Sara Laura Sofia Stella Angela Giovanna Guiseppina Gianna Giulia Valentina 
-		 }
+		}
 		dynasty_names = {
-		Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
-		Caviglia Ceccherini Cialdini Cusani Dezza "di Robilant" "di Gavoia" Featherin
-		Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
-		Menabrea Orengo Pallavicino Pecori-Giraldi  Pelloux Perruchetti Pianelli Porro
-		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari Vaccari Zupelli
+			Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+			Caviglia Ceccherini Cialdini Cusani Dezza "di Robilant" "di Gavoia" Featherin
+			Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+			Menabrea Orengo Pallavicino Pecori-Giraldi  Pelloux Perruchetti Pianelli Porro
+			Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari Vaccari Zupelli
 		}
-
-		}
+	}
 }
 
 sicameonese_group = {
 	graphical_culture = westerngfx
 	arahnoan = {
-	primary = ARN
+		primary = ARN
 		male_names = {
 			Sebastian Matias Nicolas Samuel Joaquin Martin Jeronimo Emmanuel Maximiliano Rodrigo
 			Agustín Alberto Alejandro Alfonso Álvaro Antonio Arsenio Augusto Baldomero
@@ -1115,21 +1066,20 @@ sicameonese_group = {
 			Joaquín José  Juan Julio Leopoldo Lorenzo 
 			Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
 			Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente 
-			}
+		}
 	
-	female_names = { 
+		female_names = { 
 			Sofia Mariana Gabriela Victoria Lucia Sara Samantha Emma Catalina Julieta Antonella
 			Adelita Araceli Belén Camila Candelaria Chavela Consuelo Cristina Delfina Esperanza
 			Fidelia Graciela Irene Isadora Isabella Jimena Ximena Luciana Lucrecia María Marisol
 			Noemí Nohemi Valentina Valeria Rocío Socorro Sofía Teófila Amaranta Úrsula Rebeca Remedios
-			}
-	dynasty_names = {
-		Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar
-			}
-
-			}
+		}
+		dynasty_names = {
+			Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar
+		}
+	}
 	midorian = {
-	primary = MIO
+		primary = MIO
 		male_names = {
 			Sebastian Matias Nicolas Samuel Joaquin Martin Jeronimo Emmanuel Maximiliano Rodrigo
 			Agustín Alberto Alejandro Alfonso Álvaro Antonio Arsenio Augusto Baldomero
@@ -1139,21 +1089,20 @@ sicameonese_group = {
 			Joaquín José  Juan Julio Leopoldo Lorenzo 
 			Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
 			Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente 
-			}
+		}
 	
-	female_names = { 
+		female_names = { 
 			Sofia Mariana Gabriela Victoria Lucia Sara Samantha Emma Catalina Julieta Antonella
 			Adelita Araceli Belén Camila Candelaria Chavela Consuelo Cristina Delfina Esperanza
 			Fidelia Graciela Irene Isadora Isabella Jimena Ximena Luciana Lucrecia María Marisol
 			Noemí Nohemi Valentina Valeria Rocío Socorro Sofía Teófila Amaranta Úrsula Rebeca Remedios
-			}
-	dynasty_names = {
-		Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar
-			}
-
-			}
+		}
+		dynasty_names = {
+			Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar
+		}
+	}
 	tridentean = {
-	primary = TDT
+		primary = TDT
 		male_names = {
 			Sebastian Matias Nicolas Samuel Joaquin Martin Jeronimo Emmanuel Maximiliano Rodrigo
 			Agustín Alberto Alejandro Alfonso Álvaro Antonio Arsenio Augusto Baldomero
@@ -1163,21 +1112,21 @@ sicameonese_group = {
 			Joaquín José  Juan Julio Leopoldo Lorenzo 
 			Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
 			Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente 
-			}
+		}
 	
-	female_names = { 
+		female_names = { 
 			Sofia Mariana Gabriela Victoria Lucia Sara Samantha Emma Catalina Julieta Antonella
 			Adelita Araceli Belén Camila Candelaria Chavela Consuelo Cristina Delfina Esperanza
 			Fidelia Graciela Irene Isadora Isabella Jimena Ximena Luciana Lucrecia María Marisol
 			Noemí Nohemi Valentina Valeria Rocío Socorro Sofía Teófila Amaranta Úrsula Rebeca Remedios
-			}
-	dynasty_names = {
-		Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar
-			}
+		}
+		dynasty_names = {
+			Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar
+		}
 
-			}
+	}
 	escarlatan = {
-	primary = ESC
+		primary = ESC
 		male_names = {
 			Sebastian Matias Nicolas Samuel Joaquin Martin Jeronimo Emmanuel Maximiliano Rodrigo
 			Agustín Alberto Alejandro Alfonso Álvaro Antonio Arsenio Augusto Baldomero
@@ -1187,36 +1136,36 @@ sicameonese_group = {
 			Joaquín José  Juan Julio Leopoldo Lorenzo 
 			Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
 			Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente 
-			}
+		}
 	
-	female_names = { 
+		female_names = { 
 			Sofia Mariana Gabriela Victoria Lucia Sara Samantha Emma Catalina Julieta Antonella
 			Adelita Araceli Belén Camila Candelaria Chavela Consuelo Cristina Delfina Esperanza
 			Fidelia Graciela Irene Isadora Isabella Jimena Ximena Luciana Lucrecia María Marisol
 			Noemí Nohemi Valentina Valeria Rocío Socorro Sofía Teófila Amaranta Úrsula Rebeca Remedios
-			}
-	dynasty_names = {
-		Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar
-			}
+		}
+		dynasty_names = {
+			Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar
+		}
 
-			}
+	}
 }
 
 evian_group = {
 	graphical_culture = westerngfx
 	lushian = {
-	primary = LUS
+		primary = LUS
 		male_names = { 
-		László István József János Sándor Ferenc Zoltán Tibor Imre Lajor Gábor Gyorgy Gyula Attila András
+			László István József János Sándor Ferenc Zoltán Tibor Imre Lajor Gábor Gyorgy Gyula Attila András
 		}
 	
-	female_names  = {
+		female_names  = {
 			Mária Erzsébet Éva Katalin Ilona Zsuzsanna Anna Ildikó Judit Ágnes Margit Erika Julianna Edit Irén
 		}
 	
-	dynasty_names = {
-		Nagy Kovács Tóth Szabó Horváth Varga Kiss Molnár Németh Farkas Balogh Papp Takács
-	}
+		dynasty_names = {
+			Nagy Kovács Tóth Szabó Horváth Varga Kiss Molnár Németh Farkas Balogh Papp Takács
+		}
 
 	}
 }

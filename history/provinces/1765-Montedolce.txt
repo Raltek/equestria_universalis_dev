@@ -2,7 +2,7 @@ owner = LUH
 controller = LUH
 add_core = LUH
 culture = talousian
-religion = archonate
+religion = arantigan
 
 hre = no
 base_tax = 2

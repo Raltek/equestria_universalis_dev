@@ -3,7 +3,7 @@ controller = WNG
 add_core = WNG
 add_core = ASB
 culture = taloncan
-religion = archonate
+religion = old_believer
 
 hre = no
 base_tax = 3

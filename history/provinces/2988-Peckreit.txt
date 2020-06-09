@@ -2,7 +2,7 @@ owner = CHZ
 controller = CHZ
 add_core = CHZ
 culture = talousian
-religion = archonate
+religion = arantigan
 
 hre = no
 base_tax = 2

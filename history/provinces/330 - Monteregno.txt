@@ -3,7 +3,7 @@ controller = MAT
 add_core = MAT
 
 culture = talontan
-religion = archonate
+religion = maarite
 
 hre = no
 base_tax = 2

@@ -65,6 +65,8 @@ eastern_herzland_region = {
 		klingmuhl_area
 		scheisswald_area
 		engelklau_area
+		verenia_area
+		eyrie_area
 	}
 }
 
@@ -110,16 +112,6 @@ hill_ponies_region = {
 	}
 }
 
-verenia_region = {
-	areas = {
-		verenia_area
-		eyrie_area
-		avian_area
-		erie_area
-		balfeuer_area
-	}
-}
-
 periphery_region = {
 	areas = {
 		fezera_area
@@ -131,6 +123,9 @@ periphery_region = {
 		pomovarra_area
 		flowena_area
 		pulliers_area
+		avian_area
+		erie_area
+		balfeuer_area
 	}
 
 }

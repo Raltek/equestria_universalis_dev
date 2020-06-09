@@ -26,274 +26,8 @@ griffon_religion = {
 			diplomatic_reputation = 1
 			advisor_pool = 1
 		}
-		personal_deity = yes
-		heretic = { TRINITARIAN MONOTHEIST }
-	}
-	old_believer = {
-		color = { 245 255 133 }
-		icon = 21
-		allowed_conversion = {
-			archonate
-		}
-		on_convert = {
-				change_religion = archonate
-				add_prestige = -100	
-				add_country_modifier = {
-						name = "conversion_zeal"
-						duration = 3650
-				}
-		}
-		country = {
-			stability_cost_modifier = -0.1
-			tolerance_own = 1
-		}
-		province = {
-			local_missionary_strength = -0.01
-		}
-		country_as_secondary = {
-			tolerance_own = 1
-			global_unrest = -1
-		}
-		personal_deity = yes
-		misguided_heretic = yes
-		heretic = { TRINITARIAN MONOTHEIST }
-	}
-	maarite = {
-		color = { 0 32 79 }
-		icon = 15
-		allowed_conversion = {
-			archonate
-		}
-		on_convert = {
-				change_religion = archonate
-				add_prestige = -100	
-				add_country_modifier = {
-						name = "conversion_zeal"
-						duration = 3650
-				}
-		}
-		country = {
-			diplomatic_reputation = -3
-			manpower_recovery_speed = 0.2
-		}
-		province = {
-			local_missionary_strength = -0.02
-			local_unrest = 4
-		}
-		country_as_secondary = {
-			diplomatic_reputation = -1
-			manpower_recovery_speed = 0.1
-		}
-		doom = yes
-		declare_war_in_regency = yes
-		heretic = { QUADITARIAN DREAMWALKER MERCIFUL }
-	}
-	arantigan = {
-		color = { 70 124 126 }
-		icon = 18
-		allowed_conversion = {
-			archonate
-		}
-		on_convert = {
-				change_religion = archonate
-				add_prestige = -100	
-				add_country_modifier = {
-						name = "conversion_zeal"
-						duration = 3650
-				}
-		}
-		country = {
-			army_tradition = 0.5
-			discipline = 0.05			
-		}
-		province = {
-			local_missionary_strength = -0.01
-		}
-		country_as_secondary = {
-			army_tradition = 0.25
-			land_forcelimit_modifier = 0.05
-		}
-		fervor = yes
-		misguided_heretic = yes
-		declare_war_in_regency = yes
-		heretic = { TRINITARIAN }
-	}
-	trinitarian = {
-		color = { 24 51 139 }
-		icon = 27
-		allowed_conversion = {
-			archonate
-		}
-		on_convert = {
-				change_religion = archonate
-				add_prestige = -100	
-				add_country_modifier = {
-						name = "conversion_zeal"
-						duration = 3650
-				}
-		}
-		country = {
-			stability_cost_modifier = -0.1
-			tolerance_own = 1
-		}
-		province = {
-			local_missionary_strength = -0.01
-		}
-		country_as_secondary = {
-			tolerance_own = 1
-			global_unrest = -1
-		}
-		personal_deity = yes
-		misguided_heretic = yes
-		heretic = { TRINITARIAN MONOTHEIST }
-	}
-}
-
-
-pony_religion = {
-	defender_of_faith = yes
-	crusade_name = GREAT_HOLY_WAR
-	pony_animism = {
-		color = { 127 0 0 }
-		icon = 13
-		country = {
-			tolerance_heathen = 1
-			global_unrest = -1
-		}
-		country_as_secondary = {
-			tolerance_heathen = 1
-			global_unrest = -1
-		}
-		province = {
-			local_missionary_strength = 0.02
-		}
-		
-		heretic = { BLOODLETTERS }
-	}
-	nimbusian_pantheon = {
-		color = { 43 207 182 }
-		icon = 21
-		country = {
-			cavalry_power = 0.1	
-			movement_speed = 0.1	
-		}
-	
-		country_as_secondary = {
-			cavalry_power = 0.1	
-			movement_speed = 0.1	
-		}
-		misguided_heretic = yes
-		heretic = { STROMCLOUD }
-	}
-	anam_teine = {
-		color = {40 93 191}
-		icon = 6
-		country = {
-			stability_cost_modifier = -0.1	
-		}
-
-		country_as_secondary = {
-			stability_cost_modifier = -0.1	
-		}
-		province = {
-			local_missionary_strength= -0.01
-		}
-		heretic = { SUNLESS }
-	}
-	waveism = {
-		color = {0 0 80}
-		icon = 3
-		country = {
-			stability_cost_modifier = -0.1	
-		}
-
-		country_as_secondary = {
-			stability_cost_modifier = -0.1	
-		}
-		heretic = { DROWNED_ONE }
-	}
-	mountain_worship = {
-		color = {102 0 255}
-		icon = 8
-		country = {
-			stability_cost_modifier = -0.1
-		}
-
-		country_as_secondary = {
-			stability_cost_modifier = -0.1
-		}
-		province = {
-			local_missionary_strength= -0.01
-		}
-		heretic = { LOWLANDER }
-	}
-	rjiken = {
-		color = {63 161 111}
-		icon = 15
-		country = {
-			stability_cost_modifier = -0.1
-		}
-
-		country_as_secondary = {
-			stability_cost_modifier = -0.1
-		}
-		province = {
-			local_missionary_strength= -0.01
-		}
-		heretic = { HERETIC }
-	}
-	ponikami = {
-		color = {161 81 63}
-		icon = 13
-			country = {
-			stability_cost_modifier = -0.1	
-			}
-
-		country_as_secondary = {
-			stability_cost_modifier = -0.1
-		}
-		heretic = { HERETIC }
-	}
-	varene = {
-		color = {122 56 115}
-		icon = 10
-		country = {
-			stability_cost_modifier = -0.1
-		}
-
-		country_as_secondary = {
-			stability_cost_modifier = -0.1
-		}
-		heretic = { HERETIC }
-	}
-	celestial = {
-		color = { 214 229 140 }
-		icon = 9
-		country = {
-			tolerance_heretic = 2
-			adm_tech_cost_modifier = -0.1
-		}
-		country_as_secondary = {
-			adm_tech_cost_modifier = -0.1
-			stability_cost_modifier = -0.1
-		}
-		heretic = { ICONOCLAST }
-		uses_harmony = yes
-	}
-	severyanan_rite = {
-		color = { 178 127 0 }
-		icon = 4
-		country = {
-			tolerance_heretic = 2
-			tolerance_own = 1
-		}
-		country_as_secondary = {
-			tolerance_own = 1
-			stability_cost_modifier = -0.1
-		}
-		heretic = { DISCORDIANT }
 		has_patriarchs = yes
-
+		heretic = { TRINITARIAN MONOTHEIST }
 		orthodox_icons = {
 			# If no icon has ai_will_do above 1 - <current patriarch authority> , the AI will not enact it. (60% PA = 0.6 -> ai_will_do has to be at least 0.4)
 
@@ -406,6 +140,269 @@ pony_religion = {
 			}
 		}
 	}
+	old_believer = {
+		color = { 245 255 133 }
+		icon = 21
+		allowed_conversion = {
+			archonate
+		}
+		on_convert = {
+				change_religion = archonate
+				add_prestige = -100	
+				add_country_modifier = {
+						name = "conversion_zeal"
+						duration = 3650
+				}
+		}
+		country = {
+			stability_cost_modifier = -0.1
+			tolerance_own = 1
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		personal_deity = yes
+		misguided_heretic = yes
+		heretic = { TRINITARIAN MONOTHEIST }
+	}
+	maarite = {
+		color = { 0 32 79 }
+		icon = 15
+		allowed_conversion = {
+			archonate
+		}
+		on_convert = {
+				change_religion = archonate
+				add_prestige = -100	
+				add_country_modifier = {
+						name = "conversion_zeal"
+						duration = 3650
+				}
+		}
+		country = {
+			diplomatic_reputation = -3
+			manpower_recovery_speed = 0.2
+		}
+		province = {
+			local_missionary_strength = -0.02
+			local_unrest = 4
+		}
+		country_as_secondary = {
+			diplomatic_reputation = -1
+			manpower_recovery_speed = 0.1
+		}
+		declare_war_in_regency = yes
+		heretic = { QUADITARIAN DREAMWALKER MERCIFUL }
+	}
+	arantigan = {
+		color = { 70 124 126 }
+		icon = 18
+		allowed_conversion = {
+			archonate
+		}
+		on_convert = {
+				change_religion = archonate
+				add_prestige = -100	
+				add_country_modifier = {
+						name = "conversion_zeal"
+						duration = 3650
+				}
+		}
+		country = {
+			army_tradition = 0.5
+			discipline = 0.05			
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country_as_secondary = {
+			army_tradition = 0.25
+			land_forcelimit_modifier = 0.05
+		}
+		fervor = yes
+		misguided_heretic = yes
+		declare_war_in_regency = yes
+		heretic = { TRINITARIAN }
+	}
+	trinitarian = {
+		color = { 24 51 139 }
+		icon = 27
+		allowed_conversion = {
+			archonate
+		}
+		on_convert = {
+				change_religion = archonate
+				add_prestige = -100	
+				add_country_modifier = {
+						name = "conversion_zeal"
+						duration = 3650
+				}
+		}
+		country = {
+			cavalry_power = 0.1
+			tolerance_own = 1
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			cavalry_power = 0.05
+		}
+		uses_church_power = yes
+		misguided_heretic = yes
+		heretic = { MONOTHEIST }
+	}
+}
+
+
+pony_religion = {
+	defender_of_faith = yes
+	crusade_name = GREAT_HOLY_WAR
+	pony_animism = {
+		color = { 127 0 0 }
+		icon = 13
+		country = {
+			tolerance_heathen = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_heathen = 1
+			global_unrest = -1
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { BLOODLETTERS }
+	}
+	nimbusian_pantheon = {
+		color = { 43 207 182 }
+		icon = 21
+		country = {
+			cavalry_power = 0.1	
+			movement_speed = 0.1	
+		}
+	
+		country_as_secondary = {
+			cavalry_power = 0.1	
+			movement_speed = 0.1	
+		}
+		misguided_heretic = yes
+		heretic = { STORMCLOUD }
+	}
+	anam_teine = {
+		color = {40 93 191}
+		icon = 6
+		country = {
+			stability_cost_modifier = -0.1	
+		}
+
+		country_as_secondary = {
+			stability_cost_modifier = -0.1	
+		}
+		province = {
+			local_missionary_strength= -0.01
+		}
+		heretic = { SUNLESS }
+	}
+	waveism = {
+		color = {0 0 80}
+		icon = 3
+		country = {
+			stability_cost_modifier = -0.1	
+		}
+
+		country_as_secondary = {
+			stability_cost_modifier = -0.1	
+		}
+		heretic = { DROWNED_ONE }
+	}
+	mountain_worship = {
+		color = {102 0 255}
+		icon = 8
+		country = {
+			stability_cost_modifier = -0.1
+		}
+
+		country_as_secondary = {
+			stability_cost_modifier = -0.1
+		}
+		province = {
+			local_missionary_strength= -0.01
+		}
+		heretic = { LOWLANDER }
+	}
+	rjiken = {
+		color = {63 161 111}
+		icon = 15
+		country = {
+			stability_cost_modifier = -0.1
+		}
+
+		country_as_secondary = {
+			stability_cost_modifier = -0.1
+		}
+		province = {
+			local_missionary_strength= -0.01
+		}
+		heretic = { BLOODRIVER }
+	}
+	ponikami = {
+		color = {161 81 63}
+		icon = 25
+		country = {
+			stability_cost_modifier = -0.1	
+		}
+
+		country_as_secondary = {
+			stability_cost_modifier = -0.1
+		}
+		heretic = { LAKE_WORSHIP }
+	}
+	varene = {
+		color = {122 56 115}
+		icon = 10
+		country = {
+			stability_cost_modifier = -0.1
+		}
+
+		country_as_secondary = {
+			stability_cost_modifier = -0.1
+		}
+		heretic = { POSNIAK  }
+	}
+	celestial = {
+		color = { 214 229 140 }
+		icon = 9
+		country = {
+			diplomatic_reputation = 1
+			stability_cost_modifier = -0.1
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			stability_cost_modifier = -0.1
+		}
+		heretic = { NIGHTMARE_MOON SOLAR_CULT }
+		uses_karma = yes
+	}
+	severyanan_rite = {
+		color = { 178 127 0 }
+		icon = 4
+		country = {
+			tolerance_heretic = 2
+			tolerance_own = 1
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			stability_cost_modifier = -0.1
+		}
+		heretic = { DISCORDIANT }
+	}
 
 }
 
@@ -468,6 +465,6 @@ changeling_religion = {
 		province = {
 			local_missionary_strength = 0.02
 		}
-		heretic = { HERETIC }
+		heretic = { HATCHER_WORSHIP }
 	}
 }

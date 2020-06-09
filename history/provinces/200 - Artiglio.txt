@@ -2,7 +2,7 @@ owner = FAL
 controller = FAL
 add_core = FAL
 culture = falcorian
-religion = archonate
+religion = old_believer
 
 hre = no
 base_tax = 3

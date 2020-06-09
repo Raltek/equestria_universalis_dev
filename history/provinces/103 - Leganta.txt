@@ -2,7 +2,7 @@ owner = WNG
 controller = WNG
 add_core = WNG
 culture = karthinian
-religion = archonate
+religion = old_believer
 
 hre = no
 base_tax = 3

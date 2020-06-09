@@ -3,8 +3,9 @@ add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = griffon
 primary_culture = rumare
-religion = old_believer
-capital = 2424 # Rumare
+religion = archonate
+capital = 1769
+fixed_capital = 1769
 
 530.6.20 = {
 	monarch = {

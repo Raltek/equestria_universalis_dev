@@ -1,5 +1,5 @@
 
-culture = south_griffkingian
+culture = tarrinian
 religion = archonate
 hre = no
 base_tax = 2

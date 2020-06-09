@@ -1,7 +1,7 @@
 owner = AIW
 controller = AIW
 culture = feathisian
-religion = archonate
+religion = old_believer
 add_core = AIW
 hre = no
 base_tax = 1

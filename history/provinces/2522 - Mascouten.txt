@@ -1,0 +1,14 @@
+owner = ALB
+controller = ALB
+culture = albionian
+religion = celestial
+add_core = ALB
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+is_city = yes
+
+discovered_by = equestrian
+discovered_by = severyanian
+discovered_by = tzinacatlian
