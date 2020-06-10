@@ -1,0 +1,19 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = equestrian
+primary_culture = marelander
+religion = celestial
+capital = 899
+fixed_capital = 899
+
+500.4.12 = {
+	monarch = {
+		name = "Seadrift"
+		dynasty = "Sand"
+		birth_date = 486.7.21
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
