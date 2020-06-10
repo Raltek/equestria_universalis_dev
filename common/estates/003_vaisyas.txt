@@ -131,33 +131,33 @@ estate_vaisyas = {
 		}	
 		influence = 10
 	}
-	influence_modifier = {
-		desc = EST_VAL_OTHER_ESTATE_IN_POWER
-		trigger = {
-			OR = {
-				has_disaster = estate_nobility_disaster
-				has_disaster = estate_church_disaster
-				has_disaster = estate_burghers_disaster
-				has_disaster = estate_brahmins_disaster
-				has_disaster = estate_jains_disaster
-			}
-		}	
-		influence = -40
-	}
+	# influence_modifier = {
+	# 	desc = EST_VAL_OTHER_ESTATE_IN_POWER
+	# 	trigger = {
+	# 		OR = {
+	# 			has_disaster = estate_nobility_disaster
+	# 			has_disaster = estate_church_disaster
+	# 			has_disaster = estate_burghers_disaster
+	# 			has_disaster = estate_brahmins_disaster
+	# 			has_disaster = estate_jains_disaster
+	# 		}
+	# 	}	
+	# 	influence = -40
+	# }
 	
-	loyalty_modifier = {
-		desc = EST_VAL_OTHER_ESTATE_IN_POWER_LOY
-		trigger = {
-			OR = {
-				has_disaster = estate_nobility_disaster
-				has_disaster = estate_church_disaster
-				has_disaster = estate_burghers_disaster
-				has_disaster = estate_brahmins_disaster
-				has_disaster = estate_jains_disaster
-			}
-		}
-		loyalty = -20
-	}
+	# loyalty_modifier = {
+	# 	desc = EST_VAL_OTHER_ESTATE_IN_POWER_LOY
+	# 	trigger = {
+	# 		OR = {
+	# 			has_disaster = estate_nobility_disaster
+	# 			has_disaster = estate_church_disaster
+	# 			has_disaster = estate_burghers_disaster
+	# 			has_disaster = estate_brahmins_disaster
+	# 			has_disaster = estate_jains_disaster
+	# 		}
+	# 	}
+	# 	loyalty = -20
+	# }
 
 	privileges = {
 		estate_vaisyas_land_rights

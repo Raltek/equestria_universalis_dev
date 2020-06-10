@@ -277,28 +277,28 @@ on_battle_lost_country = {
 # province
 # root = location, from = loser country
 on_battle_won_province = {
-	if = {
-		limit = {
-			from = {
-				tag = REB
-				is_rebel_type = revolutionary_rebels
-			}
-			owner = {
-				any_owned_province = {
-					region = root
-					has_revolution_in_province = yes
-				}
-				NOT = { has_disaster = french_revolution }
-				NOT = { has_disaster = revolution }
-				NOT = { has_spawned_rebels = revolutionary_rebels }
-			}
-		}
-		owner = { country_event = { id = center_of_revolution.1600 } }
-	}
-	random_events = {
-		1000 = 0
-		100 = war_of_the_roses.6	# WotR - Rebel Leaders Captured
-	}
+	# if = {
+	# 	limit = {
+	# 		from = {
+	# 			tag = REB
+	# 			is_rebel_type = revolutionary_rebels
+	# 		}
+	# 		owner = {
+	# 			any_owned_province = {
+	# 				region = root
+	# 				has_revolution_in_province = yes
+	# 			}
+	# 			NOT = { has_disaster = french_revolution }
+	# 			NOT = { has_disaster = revolution }
+	# 			NOT = { has_spawned_rebels = revolutionary_rebels }
+	# 		}
+	# 	}
+	# 	owner = { country_event = { id = center_of_revolution.1600 } }
+	# }
+	# random_events = {
+	# 	1000 = 0
+	# 	100 = war_of_the_roses.6	# WotR - Rebel Leaders Captured
+	# }
 }
 
 #Unit Scope OnAction for Battle Won
@@ -387,27 +387,27 @@ on_siege_lost_country = {
 # province
 # root = location, from = losing country
 on_siege_won_province = {
-	events = {
-		synthetic_dawn.4
-	}
-	if = {
-		limit = {
-			from = {
-				tag = REB
-				is_rebel_type = revolutionary_rebels
-			}
-			owner = {
-				any_owned_province = {
-					region = root
-					has_revolution_in_province = yes
-				}
-				NOT = { has_disaster = french_revolution }
-				NOT = { has_disaster = revolution }
-				NOT = { has_spawned_rebels = revolutionary_rebels }
-			}
-		}
-		owner = { country_event = { id = center_of_revolution.1600 } }
-	}
+	# events = {
+	# 	synthetic_dawn.4
+	# }
+	# if = {
+	# 	limit = {
+	# 		from = {
+	# 			tag = REB
+	# 			is_rebel_type = revolutionary_rebels
+	# 		}
+	# 		owner = {
+	# 			any_owned_province = {
+	# 				region = root
+	# 				has_revolution_in_province = yes
+	# 			}
+	# 			NOT = { has_disaster = french_revolution }
+	# 			NOT = { has_disaster = revolution }
+	# 			NOT = { has_spawned_rebels = revolutionary_rebels }
+	# 		}
+	# 	}
+	# 	owner = { country_event = { id = center_of_revolution.1600 } }
+	# }
 }
 
 # province

@@ -93,33 +93,33 @@ estate_church =
 		}	
 		influence = -15
 	}
-	influence_modifier = {
-		desc = EST_VAL_OTHER_ESTATE_IN_POWER
-		trigger = {
-			OR = {
-				has_disaster = estate_nobility_disaster
-				has_disaster = estate_burghers_disaster
-				has_disaster = estate_brahmins_disaster
-				has_disaster = estate_vaisyas_disaster
-				has_disaster = estate_jains_disaster
-			}
-		}
-		influence = -40
-	}
+	# influence_modifier = {
+	# 	desc = EST_VAL_OTHER_ESTATE_IN_POWER
+	# 	trigger = {
+	# 		OR = {
+	# 			has_disaster = estate_nobility_disaster
+	# 			has_disaster = estate_burghers_disaster
+	# 			has_disaster = estate_brahmins_disaster
+	# 			has_disaster = estate_vaisyas_disaster
+	# 			has_disaster = estate_jains_disaster
+	# 		}
+	# 	}
+	# 	influence = -40
+	# }
 
-	loyalty_modifier = {
-		desc = EST_VAL_OTHER_ESTATE_IN_POWER_LOY
-		trigger = {
-			OR = {
-				has_disaster = estate_nobility_disaster
-				has_disaster = estate_burghers_disaster
-				has_disaster = estate_brahmins_disaster
-				has_disaster = estate_vaisyas_disaster
-				has_disaster = estate_jains_disaster
-			}
-		}
-		loyalty = -20
-	}
+	# loyalty_modifier = {
+	# 	desc = EST_VAL_OTHER_ESTATE_IN_POWER_LOY
+	# 	trigger = {
+	# 		OR = {
+	# 			has_disaster = estate_nobility_disaster
+	# 			has_disaster = estate_burghers_disaster
+	# 			has_disaster = estate_brahmins_disaster
+	# 			has_disaster = estate_vaisyas_disaster
+	# 			has_disaster = estate_jains_disaster
+	# 		}
+	# 	}
+	# 	loyalty = -20
+	# }
 	# loyalty_modifier = {
 	# 	desc = EST_KNI_CONQUEST_OF_JERUSALEM
 	# 	trigger = {

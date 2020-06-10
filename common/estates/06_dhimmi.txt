@@ -73,38 +73,38 @@ estate_dhimmi = {
 	# 	}
 	# 	influence = 20
 	# }
-	influence_modifier = {
-		desc = EST_VAL_OTHER_ESTATE_IN_POWER
-		trigger = {
-			OR = {
-				has_disaster = estate_nobility_disaster
-				has_disaster = estate_church_disaster
-				has_disaster = estate_burghers_disaster
-				has_disaster = estate_brahmins_disaster
-				has_disaster = estate_vaisyas_disaster
-				has_disaster = estate_jains_disaster
-			}
-		}
-		influence = -40
-	}
+	# influence_modifier = {
+	# 	desc = EST_VAL_OTHER_ESTATE_IN_POWER
+	# 	trigger = {
+	# 		OR = {
+	# 			has_disaster = estate_nobility_disaster
+	# 			has_disaster = estate_church_disaster
+	# 			has_disaster = estate_burghers_disaster
+	# 			has_disaster = estate_brahmins_disaster
+	# 			has_disaster = estate_vaisyas_disaster
+	# 			has_disaster = estate_jains_disaster
+	# 		}
+	# 	}
+	# 	influence = -40
+	# }
 
-	influence_from_dev_modifier = 0.5
+	# influence_from_dev_modifier = 0.5
 	
-	#Loyalty Modifiers
-	loyalty_modifier = {
-		desc = EST_VAL_OTHER_ESTATE_IN_POWER_LOY
-		trigger = {
-			OR = {
-				has_disaster = estate_nobility_disaster
-				has_disaster = estate_church_disaster
-				has_disaster = estate_burghers_disaster
-				has_disaster = estate_brahmins_disaster
-				has_disaster = estate_vaisyas_disaster
-				has_disaster = estate_jains_disaster
-			}
-		}
-		loyalty = -20
-	}
+	# #Loyalty Modifiers
+	# loyalty_modifier = {
+	# 	desc = EST_VAL_OTHER_ESTATE_IN_POWER_LOY
+	# 	trigger = {
+	# 		OR = {
+	# 			has_disaster = estate_nobility_disaster
+	# 			has_disaster = estate_church_disaster
+	# 			has_disaster = estate_burghers_disaster
+	# 			has_disaster = estate_brahmins_disaster
+	# 			has_disaster = estate_vaisyas_disaster
+	# 			has_disaster = estate_jains_disaster
+	# 		}
+	# 	}
+	# 	loyalty = -20
+	# }
 	loyalty_modifier = {
 		desc = EST_VAL_HEATHEN_PEACE_LOYALTY
 		trigger = {
