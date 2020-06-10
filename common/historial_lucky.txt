@@ -1,0 +1,21 @@
+# Order here is the priority for taking them, if trigger is true.
+
+BOI = {
+	always = yes
+}
+
+FAL = {
+	always = yes
+}
+
+TRD = {
+	always = yes
+}
+
+RCT = {
+	always = yes
+}
+
+NIM = {
+	always = yes
+}
