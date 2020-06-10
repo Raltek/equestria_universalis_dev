@@ -11,6 +11,9 @@ STS = "countries/Stratusburg.txt"
 CNT = "countries/Canterlot.txt"
 MRL = "countries/Mareland.txt"
 MAN = "countries/Manehattan.txt"
+DAP = "countries/Dappleshore.txt"
+HOL = "countries/Hollow Shades.txt"
+BLU = "countries/Blumental.txt"
 
 # Serveryana
 TRO = "countries/Trotsylvania.txt"

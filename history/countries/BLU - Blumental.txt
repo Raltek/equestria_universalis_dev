@@ -1,0 +1,19 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = equestrian
+primary_culture = marelander
+religion = celestial
+capital = 896
+fixed_capital = 896
+
+528.6.20 = {
+	monarch = {
+		name = "Summer"
+		dynasty = "Flowers"
+		birth_date = 500.7.21
+		adm = 5
+		dip = 3
+		mil = 1
+	}
+}

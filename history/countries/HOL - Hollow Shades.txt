@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = equestrian
+primary_culture = marelander
+religion = celestial
+capital = 935
+fixed_capital = 935
+
+527.6.20 = {
+	monarch = {
+		name = "Moonlight"
+		dynasty = "Sonata"
+		female = yes
+		birth_date = 510.2.7
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}

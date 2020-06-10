@@ -12,3 +12,5 @@ is_city = yes
 discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
+
+trade_goods = grain
