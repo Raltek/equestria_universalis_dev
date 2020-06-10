@@ -1,6 +1,13 @@
-owner = EQS
-controller = EQS
-add_core = EQS
+owner = MAN
+controller = MAN
+add_core = MAN
+culture = marelander
+religion = celestial
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
 
 discovered_by = equestrian
 discovered_by = severyanian

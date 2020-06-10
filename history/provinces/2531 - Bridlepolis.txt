@@ -1,16 +1,14 @@
-owner = STS
-controller = STS
-add_core = STS
-culture = stratusian
+owner = MRL
+controller = MRL
+add_core = MRL
+culture = marelander
 religion = celestial
 hre = yes
-base_tax = 3
+base_tax = 4
 base_production = 3
-base_manpower = 2
+base_manpower = 3
 is_city = yes
 
 discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
-
-trade_goods = grain

@@ -1,6 +1,6 @@
-owner = EQS
-controller = EQS
-add_core = EQS
+owner = CNT
+controller = CNT
+add_core = CNT
 
 discovered_by = equestrian
 discovered_by = severyanian

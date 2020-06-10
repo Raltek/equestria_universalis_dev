@@ -1,0 +1,27 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 3
+technology_group = equestrian
+primary_culture = canterlotian
+religion = celestial
+add_accepted_culture = equestrian_unicorn
+add_accepted_culture = equestrian_pegasus
+add_accepted_culture = equestrian_earth_pony
+religion = harmonism
+capital = 1809 # Canterlot
+
+1.1.1 = {
+	monarch = {
+		name = "Celestia"
+		dynasty = ""
+		birth_date = 1.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+		female = yes
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = immortal_personality
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = calm_personality
+}

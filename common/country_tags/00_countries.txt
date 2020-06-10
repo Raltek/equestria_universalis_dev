@@ -8,6 +8,9 @@ EQS = "countries/Equestria.txt"
 PRA = "countries/Prance.txt"
 ALB = "countries/Albion.txt"
 STS = "countries/Stratusburg.txt"
+CNT = "countries/Canterlot.txt"
+MRL = "countries/Mareland.txt"
+MAN = "countries/Manehattan.txt"
 
 # Serveryana
 TRO = "countries/Trotsylvania.txt"
@@ -129,7 +132,7 @@ IND = "countries/Indrija.txt"
 AIN = "countries/Ainaseil.txt"
 RIK = "countries/Rikismestan.txt"
 LAM = "countries/Laukstrum.txt"
-SWA = "countries/Swarew.txt"
+SWR = "countries/Swarew.txt"
 
 #Hillland
 NCH = "countries/Greneclyf.txt"

@@ -1,0 +1,20 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = equestrian
+primary_culture = marelander
+religion = celestial
+capital = 2547  # Manehattan
+fixed_capital = 2547
+
+530.6.20 = {
+	monarch = {
+		name = "Sweet"
+		dynasty = "Orange"
+		female = yes
+		birth_date = 501.10.5
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}

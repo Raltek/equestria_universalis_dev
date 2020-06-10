@@ -1,11 +1,12 @@
-owner = EQS
-controller = EQS
-add_core = EQS
+owner = MAN
+controller = MAN
+add_core = MAN
 
 discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
-
+culture = marelander
+religion = celestial
 hre = yes
 base_tax = 10
 base_production = 10

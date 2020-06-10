@@ -842,6 +842,9 @@ equestrian = {
 	stratusian = {
 		primary = STS
 	}
+	marelander = {
+		primary = MRL
+	}
 	male_names = {
 		Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
 	}

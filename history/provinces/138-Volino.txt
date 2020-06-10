@@ -2,7 +2,7 @@ owner = VOL
 controller = VOL
 add_core = VOL
 culture = piumontese
-religion = archonate
+religion = trinitarian
 
 hre = no
 base_tax = 2

@@ -2,9 +2,9 @@
 
 graphical_culture = westerngfx
 
-color = { 158 242 117 }
+color = { 30 115 52 }
 
-revolutionary_colors = { 14  8  2 }
+revolutionary_colors = { 0  0  0 }
 
 historical_idea_groups = {
 	administrative_ideas
@@ -45,7 +45,7 @@ leader_names = {
 }
 
 ship_names = {
-
+	
 }
 
 army_names = {

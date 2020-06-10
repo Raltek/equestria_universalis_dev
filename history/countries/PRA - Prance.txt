@@ -5,7 +5,7 @@ religion = celestial
 technology_group = equestrian
 capital = 891 # Paris
 national_focus = DIP
-
+historical_rival = ALB 
 elector = yes
 
 471.9.16 = {

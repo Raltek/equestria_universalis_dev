@@ -282,7 +282,7 @@ pony_religion = {
 	}
 	nimbusian_pantheon = {
 		color = { 43 207 182 }
-		icon = 21
+		icon = 17
 		country = {
 			cavalry_power = 0.1	
 			movement_speed = 0.1	
@@ -312,7 +312,7 @@ pony_religion = {
 	}
 	waveism = {
 		color = {0 0 80}
-		icon = 3
+		icon = 8
 		country = {
 			stability_cost_modifier = -0.1	
 		}
@@ -324,7 +324,7 @@ pony_religion = {
 	}
 	mountain_worship = {
 		color = {102 0 255}
-		icon = 8
+		icon = 26
 		country = {
 			stability_cost_modifier = -0.1
 		}
@@ -339,7 +339,7 @@ pony_religion = {
 	}
 	rjiken = {
 		color = {63 161 111}
-		icon = 15
+		icon = 17
 		country = {
 			stability_cost_modifier = -0.1
 		}
@@ -432,7 +432,7 @@ dog_religion = {
 	crusade_name = GREAT_HOLY_WAR
 	diamond_dog_faith = {
 		color = { 141 158 169 }
-		icon = 18
+		icon = 24
 		country = {
 			tolerance_heathen = 1
 			global_unrest = -1

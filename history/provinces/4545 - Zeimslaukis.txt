@@ -1,8 +1,8 @@
-owner = SWA
-controller = SWA
+owner = SWR
+controller = SWR
 culture = hellquil
 religion = varene
-add_core = SWA
+add_core = SWR
 hre = no
 base_tax = 1
 base_production = 1

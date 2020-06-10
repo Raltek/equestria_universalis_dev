@@ -422,6 +422,8 @@ equestrian_government = {
 		government = monarchy
 		OR = {
 			tag = EQS
+			tag = CNT
+			tag = MRL
 		}
 	}
 }
