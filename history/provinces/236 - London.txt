@@ -1,12 +1,12 @@
-owner = ROT
-controller = ROT
+owner = RTD
+controller = RTD
 culture = feathisian
 religion = archonate
-add_core = ROT
+add_core = RTD
 hre = no
-base_tax = 5
-base_production = 4
-base_manpower = 5
+base_tax = 6
+base_production = 6
+base_manpower = 7
 is_city = yes
 
 discovered_by = griffon
