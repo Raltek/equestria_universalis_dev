@@ -1,3 +1,6 @@
+owner = VER
+controller = VER
+add_core = VER
 culture = south_griffkingian
 religion = archonate
 hre = no

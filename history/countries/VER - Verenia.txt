@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = griffon
+religion = archonate
+primary_culture = griffkingian
+capital = 4392
+
+530.6.20 = {
+	monarch = {
+		name = "Leopold II"
+		dynasty = "Eyrie"
+		birth_date = 494.3.11
+		adm = 3
+		dip = 1
+		mil = 4
+		female = no
+	}
+}

@@ -10,12 +10,12 @@ fixed_capital = 45
 
 530.6.20 = {
 	monarch = {
-		name = ""
-		dynasty = ""
-		female = yes
-		birth_date = 486.10.5
-		adm = 3
-		dip = 3
-		mil = 3
+		name = "Markus"
+		dynasty = "Blaustein"
+		female = no
+		birth_date = 490.10.5
+		adm = 4
+		dip = 5
+		mil = 1
 	}
 }

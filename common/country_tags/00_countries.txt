@@ -71,6 +71,7 @@ GRN = "countries/Greenback.txt"
 YAL = "countries/Yale.txt"
 PYT = "countries/Greifenmarschen.txt"
 STW = "countries/Strawberry.txt"
+VER = "countries/Verenia.txt"
 
 # Aquileia
 AQU = "countries/Aquileia.txt"
