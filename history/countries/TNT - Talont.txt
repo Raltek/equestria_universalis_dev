@@ -5,3 +5,16 @@ technology_group = griffon
 religion = archonate
 primary_culture = talontan
 capital = 2746		# Talont
+
+
+530.6.20 = {
+	monarch = {
+		name = "Emilio II"
+		dynasty = "Azzurropiuma"
+		birth_date = 508.3.11
+		adm = 1
+		dip = 3
+		mil = 0
+		female = no
+	}
+}

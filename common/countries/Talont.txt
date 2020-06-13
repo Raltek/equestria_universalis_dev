@@ -32,24 +32,12 @@ historical_units = {
 }
 
 monarch_names = {
-	"Giulio #0" = 10
-	"Garibald #0" = 10
-	"Giovanni #0" = 5
-	"Garlo #0" = 5
-	"Gatteo #0" = 5
-	"Guido #0" = 5
-	"Gumberto #0" = 5
-	"Gregorio #0" = 5
-	"Geraldo #0" = 5
-	"Giccolò #0" = 0
-	"Gichelangelo #0" = 0
-	"Gercole #0" = 0
-	"Garibald Talonuel #0" = 0
+	"Garibald #7" = 100
+	"Giccolò #5" = 50
+	"Giulio #4" = 50
+	"Emilio #2" = 50
+	"Gatteo #2" = 5
 	
-	"Gabelina #0" = -1
-	"Gadelia #0" = -1
-	"Giovanna #0" = -1
-	"Godovica #0" = -1
 }
 
 leader_names = {

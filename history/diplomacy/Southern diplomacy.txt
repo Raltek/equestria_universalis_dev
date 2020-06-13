@@ -46,3 +46,17 @@ vassal = {
 	start_date = 500.1.1
 	end_date = 535.1.2
 }
+
+vassal = {
+	first = GOL
+	second = EAT
+	start_date = 500.1.1
+	end_date = 535.1.2
+}
+
+vassal = {
+	first = GOL
+	second = ROA
+	start_date = 500.1.1
+	end_date = 535.1.2
+}

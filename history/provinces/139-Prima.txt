@@ -1,7 +1,7 @@
 owner = VOL
 controller = VOL
 add_core = VOL
-culture = talousian
+culture = piumontese
 religion = trinitarian
 
 hre = no

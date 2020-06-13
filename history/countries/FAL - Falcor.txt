@@ -1,6 +1,20 @@
 government = monarchy
 add_government_reform = feudalism_reform
 technology_group = griffon
+historical_rival = WNG
 religion = archonate
 primary_culture = falcorian
 capital = 4386		# Falcor
+
+
+530.6.20 = {
+	monarch = {
+		name = "Victor I"
+		dynasty = "Gallimardo"
+		birth_date = 485.3.11
+		adm = 2
+		dip = 4
+		mil = 1
+		female = no
+	}
+}

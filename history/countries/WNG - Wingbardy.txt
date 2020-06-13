@@ -2,6 +2,20 @@ government = monarchy
 add_government_reform = feudalism_reform
 technology_group = griffon
 religion = archonate
+historical_rival = FAL
 primary_culture = karthinian
 capital = 118		# Karthin
 fixed_capital = 118
+
+
+530.6.20 = {
+	monarch = {
+		name = "Garlo III"
+		dynasty = "di Almieri"
+		birth_date = 502.3.11
+		adm = 4
+		dip = 3
+		mil = 6
+		female = no
+	}
+}
