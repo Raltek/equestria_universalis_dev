@@ -17,4 +17,13 @@ fixed_capital = 78
 		mil = 5
 		female = no
 	}
+	
+	leader = {
+		name = "Berthold II von Yalenberg"
+		type = "general"
+		fire  = 5
+		shock = 3
+		manuever = 1
+		siege = 4
+	}
 }

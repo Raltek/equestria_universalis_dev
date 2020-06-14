@@ -13,7 +13,7 @@ capital = 4386		# Falcor
 		dynasty = "Gallimardo"
 		birth_date = 485.3.11
 		adm = 2
-		dip = 4
+		dip = 3
 		mil = 1
 		female = no
 	}

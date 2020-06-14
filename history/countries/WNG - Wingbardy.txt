@@ -18,4 +18,13 @@ fixed_capital = 118
 		mil = 6
 		female = no
 	}
+	
+	leader = {
+		name = "Garlo III di Almieri"
+		type = "general"
+		fire  = 4
+		shock = 5
+		manuever = 2
+		siege = 3
+	}
 }
