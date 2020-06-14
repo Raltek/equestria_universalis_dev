@@ -1,10 +1,12 @@
-
+owner = LOI
+controller = LOI
+add_core = LOI
 culture = tarrinian
 religion = archonate
 hre = no
 base_tax = 3
 base_production = 3
-base_manpower = 3
+base_manpower = 2
 is_city = yes
 
 discovered_by = griffon

@@ -60,6 +60,8 @@ griffon_county = {
 			tag = MIV
 			tag = ASB
 			tag = PUL
+			tag = TAR
+			tag = AET
 			
 		}
 	}

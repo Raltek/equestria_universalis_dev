@@ -1,4 +1,6 @@
-
+owner = LOI
+controller = LOI
+add_core = LOI
 culture = south_griffkingian
 religion = old_believer
 hre = no

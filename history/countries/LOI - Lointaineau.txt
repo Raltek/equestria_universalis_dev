@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = griffon
+primary_culture = tarrinian
+religion = archonate
+capital = 1743
+
+530.6.20 = {
+	monarch = {
+		name = "Jean III"
+		dynasty = "de Courganne"
+		birth_date = 501.3.11
+		adm = 3
+		dip = 4
+		mil = 3
+		female = no
+	}
+}

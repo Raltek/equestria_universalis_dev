@@ -1014,15 +1014,15 @@ arantiga_area = {
 }
 
 pulcino_area = {
-	138 201 1828 1831 3002
+	138 139 201 1828 1831
 }
 
 goldenfeather_area = {
-	152 1767 1864 4126
+	152 1767 1864 3002 4126
 }
 
 luchihoot_area = {
-	139 140 1765 4239
+    140 1765 4239
 }
 
 talononte_area = {

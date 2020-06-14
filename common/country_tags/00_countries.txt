@@ -90,6 +90,7 @@ VZY = "countries/Vyzima.txt"
 WSK = "countries/Westkeep.txt"
 FLW = "countries/Flowerino.txt"
 FLO = "countries/Flowena.txt"
+LOI = "countries/Lointaineau.txt"
 
 #Trade City Area
 TRD = "countries/Skyfall.txt"
