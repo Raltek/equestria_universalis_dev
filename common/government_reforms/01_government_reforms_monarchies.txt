@@ -554,7 +554,7 @@ principality = {
 	potential = {
 		NOT = { has_reform = tsardom }
 		NOT = { have_had_reform = tsardom }
-		religion = orthodox
+		religion = severyanan_rite
 		OR = {
 			culture_group = severyanian
 			AND = {
@@ -589,7 +589,7 @@ tsardom = {
 	icon = "king"
 	allow_normal_conversion = yes
 	potential = {
-		religion = orthodox
+		religion = severyanan_rite
 		OR = {
 			AND = {
 				tag = SEV
