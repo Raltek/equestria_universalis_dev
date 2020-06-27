@@ -1,8 +1,8 @@
 owner = GOL
 controller = GOL
 add_core = GOL
-culture = piumontese
-religion = archonate
+culture = arantigan_culture
+religion = arantigan
 
 hre = no
 base_tax = 1

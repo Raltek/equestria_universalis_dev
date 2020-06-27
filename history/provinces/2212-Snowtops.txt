@@ -1,5 +1,5 @@
-owner = ARN
-controller = ARN
+owner = 
+controller = 
 add_core = ARN
 culture = arahnoan
 religion = old_believer

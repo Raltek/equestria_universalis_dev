@@ -6,8 +6,8 @@ religion = archonate
 
 hre = no
 base_tax = 8
-base_production = 8
-base_manpower = 6
+base_production = 7
+base_manpower = 7
 is_city = yes
 
 fort_15th = yes
