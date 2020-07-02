@@ -14,6 +14,7 @@ MAN = "countries/Manehattan.txt"
 DAP = "countries/Dappleshore.txt"
 HOL = "countries/Hollow Shades.txt"
 BLU = "countries/Blumental.txt"
+FIL = "countries/Fillydelphia.txt"
 
 # Serveryana
 TRO = "countries/Trotsylvania.txt"

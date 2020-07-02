@@ -1,7 +1,16 @@
 owner = CNT
 controller = CNT
 add_core = CNT
+culture = canterlotian
+religion = celestial
+hre = yes
+base_tax = 2
+base_production = 1
+base_manpower = 2
+is_city = yes
 
 discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
+
+trade_goods = salt

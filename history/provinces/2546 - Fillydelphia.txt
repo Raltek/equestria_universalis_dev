@@ -1,11 +1,19 @@
-owner = CNT
-controller = CNT
-add_core = CNT
+owner = FIL
+controller = FIL
+add_core = FIL
+culture = fillydelphian
+religion = celestial
+hre = yes
+base_tax = 7
+base_production = 5
+base_manpower = 6
+is_city = yes
 
 discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
 
+trade_goods = paper
 
 center_of_trade = 2
 

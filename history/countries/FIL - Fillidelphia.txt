@@ -1,0 +1,21 @@
+government = republic
+add_government_reform = free_city
+government_rank = 1
+mercantilism = 20
+technology_group = equestrian
+primary_culture = fillydelphian
+religion = celestial
+capital = 2546  # Fillydelphia
+fixed_capital = 2546
+
+530.6.20 = {
+	monarch = {
+		name = "Sunny"
+		dynasty = "Skies"
+		female = yes
+		birth_date = 510.10.5
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

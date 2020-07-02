@@ -845,6 +845,9 @@ equestrian = {
 	marelander = {
 		primary = MRL
 	}
+	fillydelphian = {
+		primary = FIL
+	}
 	male_names = {
 		Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
 	}

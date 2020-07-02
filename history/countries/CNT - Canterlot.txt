@@ -7,7 +7,7 @@ religion = celestial
 #add_accepted_culture = equestrian_unicorn
 #add_accepted_culture = equestrian_pegasus
 #add_accepted_culture = equestrian_earth_pony
-religion = harmonism
+#religion = harmonism
 capital = 1809 # Canterlot
 
 1.1.1 = {
