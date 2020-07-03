@@ -1174,4 +1174,16 @@ evian_group = {
 		}
 
 	}
+	prywhenian = {
+		primary = BRO
+		male_names = {
+			Alexandru Stefan Andrei Ion Carol  
+		}
+		
+		female_names = {
+			Maria Elena Ioana Sofia Alexandra Antonia
+		}
+		
+		dynasty_names = {
+			
 }
