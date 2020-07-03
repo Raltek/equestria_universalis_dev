@@ -1176,14 +1176,31 @@ evian_group = {
 	}
 	prywhenian = {
 		primary = BRO
-		male_names = {
-			Alexandru Stefan Andrei Ion Carol  
+		male_names = {  
+			Adian Arn Bicola Cherl 
+			Chetru Cipran Cladu
+			Corneiu Cosin Constanti Den Denali Farin Floren Flafu
+			Gabriel Galeriu Gherghe Gobdan Helm
+			Ianu Ile Ion Iorhu Kihai Kimion Kloseu Latcu Laventiu Leagoie
+			Lexandru Lucan Lucus Macob Marius
+		    Mikos Nuliu Radovan Radu Regiu Rimcea Roctavian
+			Tedor Tefan Telian Tomado 
+			Victor
 		}
 		
 		female_names = {
-			Maria Elena Ioana Sofia Alexandra Antonia
+			Amina Ara Dena Delina Dora
+			Fania Flora Gabriela Glavia
+			Iana Ienela Kena Lexandra Lexia Lica Lilia Limpia Linica
+			Maria Meza Mira Mirina 
+			Nana Nulia Oleta Rina Sabeta Selicia Soria Stasia 
+			Talia Terina Tonia Voica Zana
 		}
 		
 		dynasty_names = {
-			
+			"de Kissau" "de Sydia"
+			Soimescu Leuescu Codreanu Ghica Vacarescu
+			Golescu Dumbravean Muntean
+		}
+	}
 }
