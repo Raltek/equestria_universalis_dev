@@ -1204,3 +1204,16 @@ evian_group = {
 		}
 	}
 }
+
+minotaur_group = {
+	graphical_culture = westerngfx
+	kyanoian = {
+		
+	}
+	asterionese = {
+
+	}
+	notosian = {
+
+	}
+}
