@@ -1,6 +1,6 @@
 owner = 
 controller = 
-add_core = ARN
+add_core = ROC
 culture = arahnoan
 religion = old_believer
 hre = no

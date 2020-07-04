@@ -1,0 +1,21 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = griffon
+unit_type = western
+primary_culture = arahnoan
+religion = old_believer
+capital = 332
+fixed_capital = 332
+
+530.6.20 = {
+	monarch = {
+		name = "Francisco"
+		dynasty = "Leomontano"
+		female = no
+		birth_date = 511.4.3
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
