@@ -55,4 +55,9 @@
  MARCHIONESS:0 "Marchioness"
  MARQUIS_CONSORT:0 "Marquis-Consort"
  MARCHIONESS_CONSORT:0 "Marchioness-Consort"
+ PRINCIPALITY:0 "Principality"
+ PRINCE:0 "Prince"
+ PRINCESS:0 "Princess"
+ PRINCE_CONSORT:0 "Prince-Consort"
+ PRINCESS_CONSORT:0 "Princess-Consort"
  

@@ -1,0 +1,23 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = griffon
+unit_type = western
+primary_culture = prywhenian
+religion = old_believer
+capital = 4299
+fixed_capital = 4299
+
+530.6.20 = {
+	monarch = {
+		name = "Drogus"
+		dynasty = "Munteanu"
+		female = no
+		birth_date = 494.10.5
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+}
+
+# Gobdan Dumbravean takes over in 539

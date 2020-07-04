@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = griffon
+unit_type = western
+primary_culture = prywhenian
+religion = old_believer
+capital = 216
+fixed_capital = 216
+
+530.6.20 = {
+	monarch = {
+		name = "Garle"
+		dynasty = "de Sydia"
+		female = no
+		birth_date = 508.10.5
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}

@@ -1,0 +1,13 @@
+owner = SYD
+controller = SYD
+culture = prywhenian
+religion = old_believer
+add_core = SYD
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = griffon
+discovered_by = riverpony

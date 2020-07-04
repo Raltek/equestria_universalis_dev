@@ -1,0 +1,13 @@
+owner = KIV
+controller = KIV
+culture = prywhenian
+religion = old_believer
+add_core = KIV
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+is_city = yes
+
+discovered_by = griffon
+discovered_by = riverpony

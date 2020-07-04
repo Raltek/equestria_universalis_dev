@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = griffon
+unit_type = western
+primary_culture = prywhenian
+religion = old_believer
+capital = 4313
+fixed_capital = 4313
+
+530.6.20 = {
+	monarch = {
+		name = "Ion II"
+		dynasty = "de Kissau"
+		female = no
+		birth_date = 498.10.5
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
