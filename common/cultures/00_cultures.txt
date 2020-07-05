@@ -1208,12 +1208,39 @@ evian_group = {
 minotaur_group = {
 	graphical_culture = westerngfx
 	kyanoian = {
-		
+		primary = 
+		male_names = {
+			Alexios Alexandros Evgénios Basílios Stratigós Ilías Stylianí Polémios Strátos Kýros Argos Skiódis Alíki Íkaros Bartholomoús Geórgios Giánnis Dimitrios Konstantinos Theodoros Theodosios Filippos
+			}
+		female_names = {
+			Sidirá Ioánna Amoulía Moumoulína María Eiríni Elena Evgenia Evridiki Filippa Irini Konstantina Sophia Theodora Theodosia 
+			}
+		dynasty_names = {
+			Argyris Floros Antonis Giannopoulos Ioannidis Sekarthionis Aetos Economos Laskaris Kolopoulos Asteripoulos Laikoanos Neachorapoulos Aetiapoulos Kaikiopoulos Akartheos
+			}
 	}
 	asterionese = {
-
+        primary = 
+		male_names = {
+			Alexios Alexandros Evgénios Basílios Stratigós Ilías Stylianí Polémios Strátos Kýros Argos Skiódis Alíki Íkaros Bartholomoús Geórgios Giánnis Dimitrios Konstantinos Theodoros Theodosios Filippos
+			}
+		female_names = {
+			Sidirá Ioánna Amoulía Moumoulína María Eiríni Elena Evgenia Evridiki Filippa Irini Konstantina Sophia Theodora Theodosia 
+			}
+		dynasty_names = {
+			Argyris Floros Antonis Giannopoulos Ioannidis Sekarthionis Aetos Economos Laskaris Kolopoulos Asteripoulos Laikoanos Neachorapoulos Aetiapoulos Kaikiopoulos Akartheos
+			}
 	}
 	notosian = {
-
+        primary = 
+		male_names = {
+			Alexios Alexandros Evgénios Basílios Stratigós Ilías Stylianí Polémios Strátos Kýros Argos Skiódis Alíki Íkaros Bartholomoús Geórgios Giánnis Dimitrios Konstantinos Theodoros Theodosios Filippos
+			}
+		female_names = {
+			Sidirá Ioánna Amoulía Moumoulína María Eiríni Elena Evgenia Evridiki Filippa Irini Konstantina Sophia Theodora Theodosia 
+			}
+		dynasty_names = {
+			Argyris Floros Antonis Giannopoulos Ioannidis Sekarthionis Aetos Economos Laskaris Kolopoulos Asteripoulos Laikoanos Neachorapoulos Aetiapoulos Kaikiopoulos Akartheos
+			}
 	}
 }
