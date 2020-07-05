@@ -1,9 +1,37 @@
 bookmark =
 {
-	name = "RISE_OF_THE_OTTOMANS"
-	desc = "RISE_OF_THE_OTTOMANS_DESC"
+	name = "RISE_OF_THE_KARTHINIANS"
+	desc = "RISE_OF_THE_KARTHINIANS_DESC"
 	date = 535.1.1
 	
 	center = 112
+	country = WNG
+	country = FAL
+	default = yes
+}
+bookmark =
+{
+	name = "CELESTIAL_UPHEAVAL"
+	desc = "CELESTIAL_UPHEAVAL_DESC"
+	date = 535.1.1
+	
+	center = 1809
+	country = CNT
+	country = PRA
+	country = ALB
+	country = SEV
+	default = yes
+}
+bookmark =
+{
+	name = "WAR_ON_THE_GRIFFKING"
+	desc = "CELESTIAL_UPHEAVAL_DESC"
+	date = 535.1.1
+	
+	center = 260
+	country = KAT
+	country = ROU
+	country = YAL
+	country = PYT
 	default = yes
 }
