@@ -1,7 +1,7 @@
 bookmark =
 {
-	name = "RISE_OF_THE_KARTHINIANS"
-	desc = "RISE_OF_THE_KARTHINIANS_DESC"
+	name = "THE_RISE_OF_THE_KARTHINIANS"
+	desc = "THE_RISE_OF_THE_KARTHINIANS_DESC"
 	date = 535.1.1
 	
 	center = 112
