@@ -1,7 +1,7 @@
 bookmark =
 {
-	name = "WAR_ON_THE_GRIFFKING"
-	desc = "WAR_ON_THE_GRIFFKING_DESC"
+	name = "War on the Griffking"
+	desc = ""
 	date = 535.1.1
 	
 	center = 260
