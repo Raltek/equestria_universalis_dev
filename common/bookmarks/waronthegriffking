@@ -1,0 +1,13 @@
+bookmark =
+{
+	name = "WAR_ON_THE_GRIFFKING"
+	desc = "WAR_ON_THE_GRIFFKING_DESC"
+	date = 535.1.1
+	
+	center = 260
+	country = KAT
+	country = ROU
+	country = YAL
+	country = PYT
+	default = yes
+}
