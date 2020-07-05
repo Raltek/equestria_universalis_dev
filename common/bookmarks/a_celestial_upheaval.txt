@@ -1,7 +1,7 @@
 bookmark =
 {
-	name = "CELESTIAL_UPHEAVAL"
-	desc = "CELESTIAL_UPHEAVAL_DESC"
+	name = "Celestial Upheaval"
+	desc = ""
 	date = 535.1.1
 	
 	center = 1809
