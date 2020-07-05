@@ -1,0 +1,13 @@
+bookmark =
+{
+	name = "CELESTIAL_UPHEAVAL"
+	desc = "CELESTIAL_UPHEAVAL_DESC"
+	date = 535.1.1
+	
+	center = 1809
+	country = CNT
+	country = PRA
+	country = ALB
+	country = SEV
+	default = yes
+}
