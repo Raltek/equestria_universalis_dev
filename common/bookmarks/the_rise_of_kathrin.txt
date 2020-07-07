@@ -1,9 +1,0 @@
-bookmark =
-{
-	name = "RISE_OF_THE_OTTOMANS"
-	desc = "RISE_OF_THE_OTTOMANS_DESC"
-	date = 535.1.1
-	
-	center = 112
-	default = yes
-}
