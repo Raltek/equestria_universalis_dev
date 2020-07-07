@@ -5,8 +5,8 @@ bookmark =
 	date = 535.1.1
 	
 	center = 260
-	country = KAT
-	country = ROU
+	country = KTR
+	country = RMA
 	country = YAL
 	country = PYT
 	default = yes
