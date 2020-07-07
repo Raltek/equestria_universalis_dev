@@ -1,2 +1,15 @@
-# No previous file for Anámesa
+owner = MIT
+controller = MIT
+culture = asterionese
+religion = actualism
+add_core = MIT
+hre = no
+base_tax = 5
+base_production = 4
+base_manpower = 5 
+is_city = yes
+
+discovered_by = griffon
+discovered_by = riverpony
+
 center_of_trade = 1

@@ -1,0 +1,36 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = minotaur
+religion = actualism
+primary_culture = asterionese
+capital = 145		
+
+530.6.20 = {
+	monarch = {
+		name = "Alexios II"
+		dynasty = "Sekarthionis"
+		birth_date = 502.3.11
+		adm = 1
+		dip = 3
+		mil = 3
+		female = no
+	}
+}
+
+530.6.20 = {
+	heir = {
+		name = "Konstantinos"            
+		monarch_name = "Konstantinos VIII"     
+		dynasty = "Sekarthionis"         
+		birth_date = 527.3.11         
+		death_date = 585.3.11          
+		claim = 100              
+		adm = 3                
+		dip = 2                 
+		mil = 4                
+		female = no                
+		religion = actualism       
+		culture = asterionese 
+	}
+}

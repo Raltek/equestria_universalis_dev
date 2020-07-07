@@ -4,9 +4,9 @@ culture = prywhenian
 religion = old_believer
 add_core = SYD
 hre = no
-base_tax = 5
-base_production = 6
-base_manpower = 5
+base_tax = 6
+base_production = 5
+base_manpower = 6
 is_city = yes
 
 discovered_by = griffon

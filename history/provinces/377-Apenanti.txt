@@ -4,12 +4,10 @@ culture = asterionese
 religion = actualism
 add_core = MIT
 hre = no
-base_tax = 6
-base_production = 6
-base_manpower = 6 
+base_tax = 2
+base_production = 3
+base_manpower = 3 
 is_city = yes
 
 discovered_by = griffon
 discovered_by = riverpony
-
-center_of_trade = 1

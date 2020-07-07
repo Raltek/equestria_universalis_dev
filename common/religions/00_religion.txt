@@ -312,7 +312,7 @@ pony_religion = {
 	}
 	waveism = {
 		color = {0 0 80}
-		icon = 8
+		icon = 7
 		country = {
 			stability_cost_modifier = -0.1	
 		}
@@ -466,5 +466,21 @@ changeling_religion = {
 			local_missionary_strength = 0.02
 		}
 		heretic = { HATCHER_WORSHIP }
+	}
+}
+
+minotaur_religion = {
+	defender_of_faith = no
+	crusade_name = GREAT_HOLY_WAR
+	actualism = {
+		color = {95 196 255}
+		icon = 8
+		country = {
+			stability_cost_modifier = -0.1	
+		}
+		country_as_secondary = {
+			stability_cost_modifier = -0.1	
+		}
+		heretic = { ASTERIONESE_PANTHEON }
 	}
 }

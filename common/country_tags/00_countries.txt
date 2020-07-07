@@ -187,6 +187,7 @@ ELE = "countries/Eleria.txt"
 CAZ = "countries/Cabeza.txt"
 MIO = "countries/Midoria.txt"
 ROC = "countries/Roca Leon.txt"
+MIT = "countries/Asterion.txt"
 
 #Evi Valley
 DRB = "countries/Drakburg.txt"

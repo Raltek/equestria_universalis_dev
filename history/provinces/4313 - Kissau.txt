@@ -5,7 +5,7 @@ religion = old_believer
 add_core = BRO
 hre = no
 base_tax = 3
-base_production = 4
+base_production = 3
 base_manpower = 4
 is_city = yes
 

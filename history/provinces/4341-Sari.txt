@@ -1,10 +1,10 @@
-owner = BRO
-controller = BRO
-culture = prywhenian
-religion = old_believer
-add_core = BRO
+owner = MIT
+controller = MIT
+culture = asterionese
+religion = actualism
+add_core = MIT
 hre = no
-base_tax = 1
+base_tax = 2
 base_production = 1
 base_manpower = 2 
 is_city = yes
