@@ -1,0 +1,13 @@
+bookmark =
+{
+	name = "War on the Griffking"
+	desc = ""
+	date = 535.1.1
+	
+	center = 260
+	country = KAT
+	country = ROU
+	country = YAL
+	country = PYT
+	default = yes
+}
