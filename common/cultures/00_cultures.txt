@@ -1220,7 +1220,7 @@ minotaur_group = {
 			}
 	}
 	asterionese = {
-        primary = 
+        primary = MIT
 		male_names = {
 			Alexios Alexandros Evgénios Basílios Stratigós Ilías Stylianí Polémios Strátos Kýros Argos Skiódis Alíki Íkaros Bartholomoús Geórgios Giánnis Dimitrios Konstantinos Theodoros Theodosios Filippos
 			}
