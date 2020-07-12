@@ -1208,7 +1208,7 @@ evian_group = {
 minotaur_group = {
 	graphical_culture = westerngfx
 	kyanoian = {
-		primary = 
+		
 		male_names = {
 			Alexios Alexandros Evgénios Basílios Stratigós Ilías Stylianí Polémios Strátos Kýros Argos Skiódis Alíki Íkaros Bartholomoús Geórgios Giánnis Dimitrios Konstantinos Theodoros Theodosios Filippos
 			}
@@ -1232,7 +1232,7 @@ minotaur_group = {
 			}
 	}
 	notosian = {
-        primary = 
+         
 		male_names = {
 			Alexios Alexandros Evgénios Basílios Stratigós Ilías Stylianí Polémios Strátos Kýros Argos Skiódis Alíki Íkaros Bartholomoús Geórgios Giánnis Dimitrios Konstantinos Theodoros Theodosios Filippos
 			}

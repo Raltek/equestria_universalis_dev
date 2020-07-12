@@ -221,6 +221,7 @@ griffon_lordship = {
 		government = monarchy
 		OR = {
 			tag = EAT
+			tag = COL
 		}
 	}
 }

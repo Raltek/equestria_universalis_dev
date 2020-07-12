@@ -188,6 +188,7 @@ CAZ = "countries/Cabeza.txt"
 MIO = "countries/Midoria.txt"
 ROC = "countries/Roca Leon.txt"
 MIT = "countries/Asterion.txt"
+COL = "countries/Coloe.txt"
 
 #Evi Valley
 DRB = "countries/Drakburg.txt"
