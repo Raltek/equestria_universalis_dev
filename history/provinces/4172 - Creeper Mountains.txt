@@ -1,3 +1,4 @@
 # No previous file for Creeper Mountains
 discovered_by = riverpony
 discovered_by = griffon
+discovered_by = minotaur

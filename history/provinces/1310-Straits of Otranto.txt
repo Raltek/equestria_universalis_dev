@@ -1,4 +1,4 @@
-# No previous file for Celtic Sea
+# No previous file for Straits of Otranto
 discovered_by = riverpony
 discovered_by = griffon
 discovered_by = minotaur

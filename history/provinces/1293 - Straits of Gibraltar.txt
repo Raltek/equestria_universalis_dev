@@ -1,3 +1,4 @@
 # No previous file for Straits of Gibraltar
 discovered_by = riverpony
 discovered_by = griffon
+discovered_by = minotaur
