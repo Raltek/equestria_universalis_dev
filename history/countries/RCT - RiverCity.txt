@@ -24,7 +24,7 @@ historical_friend = CLV
 	heir = {
 		name = "Calm"
 		dynasty = "Water"
-		female = no
+		
 		birth_date = 520.1.1
 		adm = 5
 		dip = 5

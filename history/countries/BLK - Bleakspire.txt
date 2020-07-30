@@ -13,7 +13,6 @@ national_focus = MIL
 	monarch = {
 		name = "Knut"
 		dynasty = "Gr�klo"
-		female = no
 		birth_date = 495.10.5
 		adm = 3
 		dip = 2

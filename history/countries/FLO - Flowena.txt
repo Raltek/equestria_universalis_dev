@@ -14,6 +14,6 @@ capital = 266 # Flowena
 		adm = 2
 		dip = 2
 		mil = 2
-		female = no
+		
 	}
 }

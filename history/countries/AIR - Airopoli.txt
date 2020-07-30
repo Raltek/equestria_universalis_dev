@@ -12,7 +12,6 @@ fixed_capital = 1064
 	monarch = {
 		name = "Airios"
 		dynasty = "Pegacles"
-		female = no
 		birth_date = 485.10.5
 		adm = 5
 		dip = 3

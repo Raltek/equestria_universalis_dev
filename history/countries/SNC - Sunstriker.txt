@@ -13,7 +13,7 @@ national_focus = MIL
 	monarch = {
 		name = "Gorm"
 		dynasty = "Sunstriker"
-		female = no
+		
 		birth_date = 487.10.5
 		adm = 1
 		dip = 2

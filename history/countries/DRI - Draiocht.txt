@@ -12,7 +12,7 @@ fixed_capital = 470
 	monarch = {
 		name = "Dionaidair"
 		dynasty = "NicSgiath"
-		female = no
+		
 		birth_date = 493.11.9
 		adm = 1
 		dip = 3

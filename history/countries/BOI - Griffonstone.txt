@@ -15,7 +15,6 @@ fixed_capital = 4128
 		adm = 4
 		dip = 4
 		mil = 2
-		female = no
 	}
 }
 

@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = griffon
-primary_culture = adelarter
+primary_culture = adelartian
 religion = archonate
 capital = 42 # Eagleton
 

@@ -12,7 +12,6 @@ fixed_capital = 4313
 	monarch = {
 		name = "Ion II"
 		dynasty = "de Kissau"
-		female = no
 		birth_date = 498.10.5
 		adm = 4
 		dip = 2

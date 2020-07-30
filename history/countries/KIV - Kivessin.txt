@@ -12,7 +12,7 @@ fixed_capital = 4299
 	monarch = {
 		name = "Drogus"
 		dynasty = "Munteanu"
-		female = no
+		
 		birth_date = 494.10.5
 		adm = 3
 		dip = 1

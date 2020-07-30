@@ -12,7 +12,7 @@ fixed_capital = 4530
 	monarch = {
 		name = "Melor"
 		dynasty = "Drak"
-		female = no
+		
 		birth_date = 500.3.10
 		adm = 2
 		dip = 1
@@ -23,7 +23,7 @@ fixed_capital = 4530
 	heir = {
 		name = "Lucar II"
 		dynasty = "Drak"
-		female = no
+		
 		birth_date = 530.3.4
 		adm = 4
 		dip = 2

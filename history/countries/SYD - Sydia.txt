@@ -12,7 +12,7 @@ fixed_capital = 216
 	monarch = {
 		name = "Garle"
 		dynasty = "de Sydia"
-		female = no
+		
 		birth_date = 508.10.5
 		adm = 5
 		dip = 3

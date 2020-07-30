@@ -15,6 +15,6 @@ capital = 4386		# Falcor
 		adm = 2
 		dip = 2
 		mil = 1
-		female = no
+		
 	}
 }

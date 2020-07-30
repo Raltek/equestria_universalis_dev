@@ -12,7 +12,7 @@ fixed_capital = 1054
 	monarch = {
 		name = "Anogidos"
 		dynasty = "Soter"
-		female = no
+		
 		birth_date = 503.10.11
 		adm = 4
 		dip = 4

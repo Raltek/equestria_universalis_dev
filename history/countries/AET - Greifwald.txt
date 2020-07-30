@@ -2,8 +2,8 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = griffon
-primary_culture = greifwalder
-add_accepted_culture = adelarter
+primary_culture = griefwalder
+add_accepted_culture = adelartian
 add_accepted_culture = aquilan
 religion = archonate
 capital = 264 # Falcontown
@@ -16,7 +16,6 @@ capital = 264 # Falcontown
 		adm = 2
 		dip = 1
 		mil = 5
-		female = no
 	}
 }
 

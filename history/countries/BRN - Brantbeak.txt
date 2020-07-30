@@ -14,7 +14,6 @@ national_focus = ADM
 	monarch = {
 		name = "Vilfred"
 		dynasty = "St�rkpote"
-		female = no
 		birth_date = 475.10.5
 		adm = 3
 		dip = 1

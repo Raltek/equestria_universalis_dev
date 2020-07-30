@@ -1837,7 +1837,7 @@ country_event = {
 	trigger = {
 		papacy_active = yes
 		religion = catholic
-		NOT = { tag = PAP }
+		# NOT = { tag = PAP }
 		NOT = { num_of_cardinals = 7 }
 		any_owned_province = {
 			development = 10
@@ -1964,76 +1964,76 @@ province_event = {
 	}
 }
 
-# Thoughts of Heresy
-province_event = {
-	id = aow_events.45
-	title = "aow_events.45.t"
-	desc = "aow_events.45.d"
-	picture = PRAYING_eventPicture
-	goto = root
+# # Thoughts of Heresy
+# province_event = {
+# 	id = aow_events.45
+# 	title = "aow_events.45.t"
+# 	desc = "aow_events.45.d"
+# 	picture = PRAYING_eventPicture
+# 	goto = root
 
-	trigger = {
-		has_cardinal = yes
-		any_neighbor_province = {
-			NOT = { religion = catholic }
-			religion_group = christian
-		}
-	}
+# 	trigger = {
+# 		has_cardinal = yes
+# 		any_neighbor_province = {
+# 			NOT = { religion = catholic }
+# 			religion_group = christian
+# 		}
+# 	}
 
-	is_mtth_scaled_to_size = 1
+# 	is_mtth_scaled_to_size = 1
 	
-	mean_time_to_happen = {
-		months = 480
-	}
+# 	mean_time_to_happen = {
+# 		months = 480
+# 	}
 
-	# 
-	option = {
-		name = "aow_events.45.a"
-		owner = {
-			add_years_of_income = -0.1
-		}
-			random = {
-				chance = 40
-				province_event = {
-					id = aow_events.46
-					days = 180
-					tooltip = "aow_events.45.a.tt"
-				}
-			}
+# 	# 
+# 	option = {
+# 		name = "aow_events.45.a"
+# 		owner = {
+# 			add_years_of_income = -0.1
+# 		}
+# 			random = {
+# 				chance = 40
+# 				province_event = {
+# 					id = aow_events.46
+# 					days = 180
+# 					tooltip = "aow_events.45.a.tt"
+# 				}
+# 			}
 
-	}
+# 	}
 
-	option = {
-		name = "aow_events.45.b"
-		remove_cardinal = yes
-	}
-}
+# 	option = {
+# 		name = "aow_events.45.b"
+# 		remove_cardinal = yes
+# 	}
+# }
 
-# Pope Discovers Duplicity
-province_event = {
-	id = aow_events.46
-	title = "aow_events.46.t"
-	desc = "aow_events.46.d"
-	picture = POPE_PREACHING_eventPicture
-	goto = root
+# # Pope Discovers Duplicity
+# province_event = {
+# 	id = aow_events.46
+# 	title = "aow_events.46.t"
+# 	desc = "aow_events.46.d"
+# 	picture = POPE_PREACHING_eventPicture
+# 	goto = root
 
-	is_triggered_only = yes
+# 	is_triggered_only = yes
 
-	trigger = {
-		exists = PAP
-	}
+# 	trigger = {
+# 		exists = PAP
+# 	}
 
-	# 
-	option = {
-		name = "aow_events.46.a"
-		PAP = {
-			add_opinion = {
-				who = ROOT
-				modifier = bribed_cardinal
-			}
-		}
-	}
-}
+# 	# 
+# 	option = {
+# 		name = "aow_events.46.a"
+# 		PAP = {
+# 			add_opinion = {
+# 				who = ROOT
+# 				modifier = bribed_cardinal
+# 			}
+# 		}
+# 	}
+# }
 
 # Cardinal Distrusts Heathens
 province_event = {
@@ -2083,7 +2083,7 @@ country_event = {
 	trigger = {
 		papacy_active = yes
 		religion = catholic
-		NOT = { tag = PAP }
+		# NOT = { tag = PAP }
 		OR = {
 			employed_advisor = {
 				type = theologian

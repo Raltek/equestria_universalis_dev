@@ -15,6 +15,6 @@ capital = 140
 		adm = 1
 		dip = 2
 		mil = 0
-		female = no
+		
 	}
 }

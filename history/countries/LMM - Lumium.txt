@@ -23,7 +23,7 @@ fixed_capital = 286
 	heir = {
 		name = "Balkar"
 		dynasty = "Whitecrest"
-		female = no
+		
 		birth_date = 520.2.2
 		adm = 4
 		dip = 2

@@ -12,7 +12,7 @@ fixed_capital = 205
 	monarch = {
 		name = "Enrique"
 		dynasty = "Garra"
-		female = no
+		
 		birth_date = 490.7.10
 		adm = 2
 		dip = 1

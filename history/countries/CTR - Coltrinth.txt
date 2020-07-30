@@ -12,7 +12,6 @@ fixed_capital = 1071
 	monarch = {
 		name = "Pygselos"
 		dynasty = "Periandros"
-		female = no
 		birth_date = 493.3.6
 		adm = 2
 		dip = 1

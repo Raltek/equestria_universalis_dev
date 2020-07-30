@@ -1,5 +1,5 @@
 guarantee = {
-	first = ROT
+	first = RTD
 	second = KLB
 	start_date = 500.1.1
 	end_date = 1670.1.1
@@ -44,3 +44,4 @@ alliance = {
 	second = VLE
 	start_date = 500.1.1
 	end_date = 535.1.2
+}

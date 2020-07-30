@@ -12,7 +12,7 @@ fixed_capital = 2749
 	monarch = {
 		name = "Hamrion"
 		dynasty = "Matton"
-		female = no
+		
 		birth_date = 490.10.5
 		adm = 5
 		dip = 1
@@ -23,7 +23,7 @@ fixed_capital = 2749
 	heir = {
 		name = "Moker"
 		dynasty = "Matton"
-		female = no
+		
 		birth_date = 515.1.1
 		adm = 2
 		dip = 2

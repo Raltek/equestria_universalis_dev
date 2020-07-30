@@ -12,7 +12,6 @@ fixed_capital = 1079
 	monarch = {
 		name = "Wave"
 		dynasty = "Rider"
-		female = no
 		birth_date = 512.2.3
 		adm = 3
 		dip = 5

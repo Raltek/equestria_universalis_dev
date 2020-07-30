@@ -11,3 +11,5 @@ is_city = yes
 
 discovered_by = griffon
 discovered_by = riverpony
+
+trade_goods = grain

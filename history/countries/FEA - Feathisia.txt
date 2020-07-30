@@ -12,7 +12,7 @@ fixed_capital = 26
 	monarch = {
 		name = "Walther"
 		dynasty = "Weijermars"
-		female = no
+		
 		birth_date = 490.10.5
 		adm = 3
 		dip = 2
@@ -23,7 +23,7 @@ fixed_capital = 26
 	heir = {
 		name = "Gerlach"
 		dynasty = "Weijermars"
-		female = no
+		
 		birth_date = 515.1.1
 		adm = 3
 		dip = 4

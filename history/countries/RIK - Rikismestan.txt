@@ -12,7 +12,7 @@ fixed_capital = 283
 	monarch = {
 		name = "Letas"
 		dynasty = "Palmaitis"
-		female = no
+		
 		birth_date = 501.6.6
 		adm = 3
 		dip = 1

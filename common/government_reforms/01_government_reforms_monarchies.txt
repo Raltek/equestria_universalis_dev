@@ -1707,10 +1707,10 @@ letat_cest_moi_reform = {
 	}
 	ai = {
 		factor = 1.5
-		modifier = {
-			factor = 2
-			tag = FRA
-		}
+		# modifier = {
+		# 	factor = 2
+		# 	tag = FRA
+		# }
 	}
 }
 
@@ -1751,10 +1751,10 @@ political_absolutism_reform = {
 	}
 	ai = {
 		factor = 1.5
-		modifier = {
-			factor = 2
-			tag = FRA
-		}
+		# modifier = {
+		# 	factor = 2
+		# 	tag = FRA
+		# }
 	}
 }
 

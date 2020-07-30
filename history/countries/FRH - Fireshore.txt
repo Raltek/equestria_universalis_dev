@@ -12,7 +12,7 @@ fixed_capital = 2362
 	monarch = {
 		name = "Ale"
 		dynasty = "Breath"
-		female = no
+		
 		birth_date = 504.2.2
 		adm = 2
 		dip = 4

@@ -12,7 +12,7 @@ fixed_capital = 4246
 	monarch = {
 		name = "Vardi"
 		dynasty = "Dailuns"
-		female = no
+		
 		birth_date = 504.6.2
 		adm = 1
 		dip = 2

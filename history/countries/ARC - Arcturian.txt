@@ -11,7 +11,6 @@ fixed_capital = 30
 	monarch = {
 		name = "Frederik"
 		dynasty = "Lightbringer"
-		female = no
 		birth_date = 479.4.5
 		adm = 3
 		dip = 2

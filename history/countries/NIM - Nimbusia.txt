@@ -12,7 +12,7 @@ fixed_capital = 1078
 	monarch = {
 		name = "Pegicleon"
 		dynasty = "Machonos"
-		female = no
+		
 		birth_date = 493.2.1
 		adm = 4
 		dip = 1

@@ -1,6 +1,5 @@
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 1
 technology_group = griffon
 primary_culture = flowenois
 add_accepted_culture = vinovian
@@ -15,6 +14,6 @@ capital = 2967 # Westkeep
 		adm = 5
 		dip = 4
 		mil = 5
-		female = no
+		
 	}
 }

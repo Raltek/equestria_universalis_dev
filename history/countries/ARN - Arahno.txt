@@ -12,7 +12,6 @@ fixed_capital = 2203
 	monarch = {
 		name = "Gustavo"
 		dynasty = "Leoz"
-		female = no
 		birth_date = 490.4.3
 		adm = 2
 		dip = 1

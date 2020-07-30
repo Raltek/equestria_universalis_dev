@@ -12,7 +12,7 @@ fixed_capital = 332
 	monarch = {
 		name = "Francisco"
 		dynasty = "Leomontano"
-		female = no
+		
 		birth_date = 511.4.3
 		adm = 3
 		dip = 3

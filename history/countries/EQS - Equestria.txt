@@ -6,5 +6,5 @@ primary_culture = canterlotian
 #add_accepted_culture = equestrian_unicorn
 #add_accepted_culture = equestrian_pegasus
 #add_accepted_culture = equestrian_earth_pony
-religion = harmonism
+religion = celestial
 capital = 1809 # Canterlot

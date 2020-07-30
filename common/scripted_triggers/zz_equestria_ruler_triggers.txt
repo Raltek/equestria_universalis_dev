@@ -1,13 +1,13 @@
 # Triggers for rulers
 
 can_marry = {
-	NOT = { has_ruler_personality = immortal }
+	NOT = { ruler_has_personality = immortal_personality }
 }
 
 can_have_heirs = {
-	NOT = { has_ruler_personality = immortal }
+	NOT = { ruler_has_personality = immortal_personality }
 }
 
 ruler_can_die = {
-	NOT = { has_ruler_personality = immortal }
+	NOT = { ruler_has_personality = immortal_personality }
 }

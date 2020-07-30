@@ -34,7 +34,7 @@ country_event = { #Aquileia breaks apart in the aftermath of the Discret Takeove
 		ai_chance = { factor = 100 }
 		kill_ruler = yes
 		add_legitimacy = -20
-		change_government = despotic_monarchy
+		add_government_reform = autocracy_reform
 		define_ruler = {
 			name = "Aimery I"
 			dynasty = "Discret"

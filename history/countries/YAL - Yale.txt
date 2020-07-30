@@ -15,7 +15,7 @@ fixed_capital = 78
 		adm = 6
 		dip = 3
 		mil = 5
-		female = no
+		
 	}
 	
 	leader = {

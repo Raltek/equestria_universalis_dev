@@ -10,7 +10,7 @@ fixed_capital = 1979
 	monarch = {
 		name = "Olaf"
 		dynasty = "av Winterhold"
-		female = no
+		
 		birth_date = 499.10.5
 		adm = 1
 		dip = 2

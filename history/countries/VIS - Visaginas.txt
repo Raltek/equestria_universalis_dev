@@ -12,7 +12,7 @@ fixed_capital = 2199
 	monarch = {
 		name = "Dovydas"
 		dynasty = "Ipoltas"
-		female = no
+		
 		birth_date = 494.3.5
 		adm = 2
 		dip = 2

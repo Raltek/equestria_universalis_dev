@@ -12,7 +12,7 @@ fixed_capital = 2434
 	monarch = {
 		name = "Stigi"
 		dynasty = "Gerir"
-		female = no
+		
 		birth_date = 487.10.3
 		adm = 2
 		dip = 1

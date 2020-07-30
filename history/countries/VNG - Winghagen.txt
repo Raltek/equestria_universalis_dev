@@ -14,7 +14,7 @@ national_focus = DIP
 	monarch = {
 		name = "Valdemar"
 		dynasty = "S�farende"
-		female = no
+		
 		birth_date = 491.10.5
 		adm = 2
 		dip = 5

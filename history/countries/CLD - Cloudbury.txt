@@ -14,7 +14,6 @@ national_focus = MIL
 	monarch = {
 		name = "Harald"
 		dynasty = "Plumenjar"
-		female = no
 		birth_date = 500.10.5
 		adm = 4
 		dip = 2

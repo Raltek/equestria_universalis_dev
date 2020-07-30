@@ -13,7 +13,7 @@ fixed_capital = 2971
 	monarch = {
 		name = "Carel VII"
 		dynasty = "van Eimond"
-		female = no
+		
 		birth_date = 501.10.5
 		adm = 3
 		dip = 3

@@ -15,7 +15,7 @@ capital = 198	# Matton
 		adm = 4
 		dip = 2
 		mil = 3
-		female = no
+		
 		religion = archonate
 		culture = mattonian
 	}
@@ -32,7 +32,7 @@ capital = 198	# Matton
 		adm = 5                
 		dip = 4                 
 		mil = 6                
-		female = no                
+		                
 		religion = archonate       
 		culture = mattonian 
 	}

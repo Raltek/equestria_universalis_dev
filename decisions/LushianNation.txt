@@ -84,7 +84,7 @@ country_decisions = {
 					government = tribal
 				}
 				change_government = monarchy #Desert tribes settling down, theocracies become monarchies.
-				set_legacy_government = despotic_monarchy
+				add_government_reform = autocracy_reform
 			}
 			
 			set_country_flag = formed_lushi_flag

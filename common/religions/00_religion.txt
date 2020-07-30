@@ -470,7 +470,6 @@ changeling_religion = {
 }
 
 minotaur_religion = {
-	defender_of_faith = no
 	crusade_name = GREAT_HOLY_WAR
 	actualism = {
 		color = {95 196 255}

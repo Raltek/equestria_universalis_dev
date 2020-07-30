@@ -13,7 +13,6 @@ national_focus = MIL
 	monarch = {
 		name = "Sigurd"
 		dynasty = "Cursebearer"
-		female = no
 		birth_date = 490.10.5
 		adm = 3
 		dip = 1

@@ -12,7 +12,7 @@ fixed_capital = 175
 	monarch = {
 		name = "Jefe"
 		dynasty = "Duro"
-		female = no
+		
 		birth_date = 499.3.3
 		adm = 4
 		dip = 3

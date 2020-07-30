@@ -14,7 +14,7 @@ capital = 1878
 		adm = 2
 		dip = 2
 		mil = 2
-		female = no
+		
 	}
 }
 

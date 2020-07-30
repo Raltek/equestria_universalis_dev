@@ -12,7 +12,7 @@ fixed_capital = 4534
 	monarch = {
 		name = "Tristan"
 		dynasty = "Berge"
-		female = no
+		
 		birth_date = 497.10.5
 		adm = 4
 		dip = 1

@@ -12,7 +12,7 @@ fixed_capital = 1966
 	monarch = {
 		name = "Glice"
 		dynasty = "NicInntinn"
-		female = no
+		
 		birth_date = 484.2.5
 		adm = 4
 		dip = 5

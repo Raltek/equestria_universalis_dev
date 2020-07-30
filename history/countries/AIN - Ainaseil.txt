@@ -12,7 +12,6 @@ fixed_capital = 299
 	monarch = {
 		name = "Vytautas"
 		dynasty = "Maziulis"
-		female = no
 		birth_date = 498.2.1
 		adm = 2
 		dip = 5
