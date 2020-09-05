@@ -110,6 +110,9 @@ impassable = {
 	
 	#Changelings
 	2931
+	
+	#Zebrica
+	1151 2280
 }
 
 mild_monsoon = {
