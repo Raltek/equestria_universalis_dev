@@ -1006,6 +1006,7 @@ arabia_region = {
 niger_region = {
 	areas = {
 		adamawa_plateau_area
+		sao_paolo_area
 		lower_niger_area
 		hausa_area
 		katsina_area
@@ -1018,6 +1019,7 @@ niger_region = {
 		manding_area
 		tekrur_area
 		jenne_area
+		ofaie_area
 	}
 	monsoon = {
 		00.06.01
@@ -1146,6 +1148,7 @@ kongo_region = {
 		matamba_area
 		lower_kasai
 		kasai_area
+		patagonia_area
 	}
 	monsoon = {
 		00.02.01
@@ -1490,14 +1493,13 @@ north_china_region = {
 	}
 }
 
-brazil_region = {
+peninsular_region = {
 	
 	areas = {
 		rio_grande_do_sol_area
 		minas_gerais_area
 		goias_area
 		mato_grosso_area
-		sao_paolo_area
 		rio_de_janeiro_area
 		bahia_area
 		pernambuco_area
@@ -1524,10 +1526,9 @@ brazil_region = {
 	}
 }
 
-la_plata_region = {
+Riseia_region = {
 	areas = {
 		nehuenken_area
-		patagonia_area
 		cuyo_area
 		southern_pampas_area
 		buenos_aires_area

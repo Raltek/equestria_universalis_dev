@@ -2024,14 +2024,6 @@ karaman_area = { #4
 	   4307
 }
 
-trans_jordan_area = { #3
-	380 381 2327
-}
-
-palestine_area = { #3
-	364 379 
-}
-
 basra_area = { #4
 	408 2311 2312 
 }
@@ -2055,15 +2047,11 @@ pirate_coast_area = { #4
 }
 
 nafud_area = { #3
-	393 2338 4272
+    4272 2321 2894 2892
 }
 
 tabuk_area = { #4
-	383 2328 4268 4269
-}
-
-medina_area = { #3
-	384 2329 2330
+	383 2328 4268
 }
 
 mecca_area = { #5
@@ -2099,7 +2087,7 @@ yamamah_area = { #4
 }
 
 qasim_area = { #4
-	392 2337 4273 4274
+	392 4273 4274
 }
 
 dhofar_area = { #3 (Dhofar + Masirah)
@@ -2114,16 +2102,12 @@ mascat_area = { #3 (Batinah and Muscat coast
 	399 400 4286
 }
 
-syrian_desert_area = { #3
-    4270 
-}
-
 ########################################
 # North Africa					       #
 ########################################
 
 gulf_of_arabia_area = { #5
-	365 2315 2320 2321
+	365 2315 2320
 }
 
 al_wahat_area = { #3
@@ -2279,7 +2263,7 @@ limpopo_area = { #4
 }
 
 central_swahili_coast_area = { #5
-	1196 1197 1198 1199 1201
+	1196 1197 1198 1199
 }
 
 northern_swahili_coast_area = { #3
@@ -2339,7 +2323,7 @@ bunyoro_area = { #3
 }
 
 kasai_area = { #5
-	4083 4087 4091 4092 4093
+	4083 4087 4091 4092 4093 2874 783 2876
 }
 
 sankuru_area = { #3
@@ -2547,11 +2531,11 @@ niger_bend_area ={ #5
 }
 
 upper_volta_area = { #5
-    1135 1136 1137 2265 2266
+    1135 1136 2266
 }
 
 kong_area = { #4
-    1122 1125 2252 2253
+    2253
 }
 
 lower_volta_area = { #5
@@ -2559,7 +2543,7 @@ lower_volta_area = { #5
 }
 
 lower_niger_area = { #5
-    1144 1145 1146 1152 1153
+    1144 1145 1152 1153
 }
 
 hausa_area = { #3
@@ -2571,7 +2555,7 @@ katsina_area = { #3
 }
 
 zazzau_area = { #4
-	1150 1154 2278 2293
+	1154
 }
 
 bornu_area = { #5
@@ -2599,7 +2583,7 @@ east_azbin_area = { #3
 }
 
 atacora_oueme_area = { #5
-    1140 1143 2291 2292 2295
+    2291 
 }
 
 gulf_of_guinea_area = { #4
@@ -2607,7 +2591,7 @@ gulf_of_guinea_area = { #4
 }
 
 benin_area = { #4
-	1147 2289 2290 2294 
+	1147 2289 2294 
 }
 
 sao_tome_area = { #2
@@ -2619,7 +2603,7 @@ west_africa_coast_area = { #5
 }
 
 guinea_coast_area = { #4
-    1118 1119 2241 2242
+    1119 2241 2242
 }
 
 south_atlantic_islands_area = { #2
@@ -2639,7 +2623,7 @@ kongo_area = { #5
 }
 
 angola_namibia_area = { #5
-	1098 1167 1171 1172 1174 
+	1167 1171 1172 
 }
 
 cape_of_good_hope_area = { #5
@@ -3424,15 +3408,15 @@ west_gansu_area = { #4
 ########################################
 
 rio_grande_do_sol_area = { #4
-	2857 2879 2884 2887
+	2857 2879 2884 2887 2855 2859
 }
 
 minas_gerais_area = { #4
-	765 2892 2894 2899
+	765 2899 2872 2888 
 }
 
 diamantina_area = { #3
-	759 2898 2891
+	759 2898 2891 779
 }
 
 goias_area = { #5
@@ -3440,7 +3424,7 @@ goias_area = { #5
 }
 
 pontal_area = { #3
-	2909 2910 2911
+	2909 2910 2911 2862 2861 2877 787 4270
 }
 
 mato_grosso_area = { #4
@@ -3452,7 +3436,7 @@ ofaie_area = { #3
 }
 
 sao_paolo_area = { #3
-	766 769 2896
+	766 769 2896 2293 2867 763 764 
 }
 
 west_sao_paolo_area = { #3
@@ -3460,27 +3444,27 @@ west_sao_paolo_area = { #3
 }
 
 rio_de_janeiro_area = { #4
-	761 762 763 764
+	761 762 1174 1089 2866 1098
 }
 
 bahia_area = { #5
-	756 757 760 2914 2916
+	756 757 760 2914 2916 2860 380 2327 379 364 381
 }
 
 pernambuco_area = { #5
-	754 755 2912 2921 2922
+	754 755 2912 2921 2922 393 4269 384 2329 2330 2847
 }
 
 ceara_area = { #3
-	750 751 753
+	750 751 753 2845
 }
 
 sao_francisco_area = { #5
-	2885 2913 2915 2917 2918
+	2885 2913 2915 2917 2918 778 2865
 }
 
 maranhao_area = { #5
-	749 2923 2924 2926 
+	749 2923 2924 2926 2337 2338
 }
 
 piaui_area = { #3
@@ -3496,7 +3480,7 @@ paraguay_area = { #5
 }
 
 patagonia_area  = { #3
-	781 782 2869
+	781 782 2869 2252 1122 1146 2290 2265 1150 2278 1137 1125 1118
 }
 
 bahia_blanca_area = { #3
@@ -3504,51 +3488,35 @@ bahia_blanca_area = { #3
 }
 
 patagonian_andes = { #4
-	2863 2870 2875 2876
+	2863 2870 2875
 }
 
 cuyo_area  = { #5
-	2843 2844 2845 2847 2877
+	2843 2844 791 2295 1140
 }
 
 nehuenken_area = { #4
-	785 2867 2871 2872
-}
-
-southern_pampas_area  = { #5
-	779 2860 2861 2865 2866 
+	785 2871
 }
 
 buenos_aires_area = { #4
-	778 2846 2848 2849
+    2846 2848 2849 2292 790 1143
 }
 
 misiones_area = { #5
-	777 2853 2855 2858 2859
-}
-
-tucuman_area  = { #3
-	791  
-}
-
-chaco_area  = { #4
-	790  
+	777 2853 2858
 }
 
 banda_oriental_area = { #5
-	772 773 2850 2851 2852
-}
-
-northern_chile_area = { #5
-	792    
+	772 773 2850 2851 2852 792 2049 1201
 }
 
 central_chile_area = { #3
-	784 787 2862
+	784
 }
 
 southern_chile_area = { #3
-	783 2873 2874
+	2873
 }
 
 chimor_area = { #5
