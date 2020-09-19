@@ -37,8 +37,8 @@ southern_equus_superregion = {
 	manehattan_region
 	aztlan_region
 	coltlumbia_region
-	inner_equestria
-	western_equestria
+	inner_equestria_region
+	western_equestria_region
 }
 
 northern_zebrica_superregion= {
