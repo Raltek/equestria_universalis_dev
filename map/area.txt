@@ -3415,16 +3415,24 @@ minas_gerais_area = { #4
 	765 2899 2872 2888 
 }
 
-diamantina_area = { #3
-	759 2898 2891 779
+diamantina_area = { #5
+	759 2898 2891 779 758
 }
 
 goias_area = { #5
-	758 2906 2907 2908 2919
+	2906 2907 2908 2919
 }
 
 pontal_area = { #3
-	2909 2910 2911 2862 2861 2877 787 4270
+	787 4270
+}
+
+iafilat_area = { #3
+	2910 2862 752
+}
+
+taila_imsan_area = { #5
+    2861 2877 2926 2925 2923
 }
 
 mato_grosso_area = { #4
@@ -3448,27 +3456,51 @@ rio_de_janeiro_area = { #4
 }
 
 bahia_area = { #5
-	756 757 760 2914 2916 2860 380 2327 379 364 381
+	756 757 760 2916 2860 380 2327 379 364 381
+}
+
+coltif_area = { #3
+	756 2860 2909
 }
 
 pernambuco_area = { #5
-	754 755 2912 2921 2922 393 4269 384 2329 2330 2847
+    755 2921 2922
 }
 
-ceara_area = { #3
-	750 751 753 2845
+ghazzmare_area = { #3
+    393 2329 2330
+}
+
+najgallop_area = { #4
+    2912 4269 384 778
+}
+
+maneknes_area = { #3
+    755 2921 2922
+}
+
+qawasmane_area = { #3
+	754 2847 2915
+}
+
+high_maretlas_area = { #3
+	2845 2338 2337
+}
+
+cemareta_area = { #3
+	750 753 2924
 }
 
 sao_francisco_area = { #5
-	2885 2913 2915 2917 2918 778 2865
+	2885 2913 2917 2918 2865
 }
 
-maranhao_area = { #5
-	749 2923 2924 2926 2337 2338
+ilponwa_area = { #4
+	2885 2913 2914 2865
 }
 
-piaui_area = { #3
-	752 2886 2925
+mareakech_area = { #3
+  2886 751 749
 }
 
 grao_para_area = { #4

@@ -1515,6 +1515,18 @@ peninsular_region = {
 		guapore_area
 		ceara_area
 		west_sao_paolo_area
+		cemareta_area
+		taila_imsan_area
+		iafilat_area
+		mareakech_area
+		high_maretlas_area
+		maneknes_area
+		qawasmane_area
+		ilponwa_area
+		najgallop_area
+		ghazzmare_area
+		coltif_area
+		diamantina_area
 	}
 	monsoon = {
 		00.12.01
