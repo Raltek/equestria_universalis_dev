@@ -3411,20 +3411,21 @@ rio_grande_do_sol_area = { #4
 	2857 2879 2884 2887 2855 2859
 }
 
-minas_gerais_area = { #4
-	765 2899 2872 2888 
+trotaif_area = { #3
+	765 2899 2905 
 }
 
-diamantina_area = { #5
+qunfudhah_area = { #5
 	759 2898 2891 779 758
 }
 
-goias_area = { #5
-	2906 2907 2908 2919
+AL-kahb_area = { #3
+	2906 2907 2919
 }
 
-pontal_area = { #3
-	787 4270
+
+hoofuf_area = { #3
+	787 2918 2917
 }
 
 iafilat_area = { #3
@@ -3435,8 +3436,8 @@ taila_imsan_area = { #5
     2861 2877 2926 2925 2923
 }
 
-mato_grosso_area = { #4
-	2888 2903 2904 2905
+aqabah_area = { #3
+	2888 2904 2872
 }
 
 ofaie_area = { #3
@@ -3451,16 +3452,24 @@ west_sao_paolo_area = { #3
 	768 2895 2897
 }
 
-rio_de_janeiro_area = { #4
-	761 762 1174 1089 2866 1098
+qujmareda_area = { #3
+	1174 2866 1098
 }
 
-bahia_area = { #5
-	756 757 760 2916 2860 380 2327 379 364 381
+yanbu_al-sayf_area = { #3
+	760 762 761
 }
 
-coltif_area = { #3
-	756 2860 2909
+al-yamanemah_area = { #4
+	757 2916 2911 4270
+}
+
+bishah_area = { #5
+	380 2327 379 364 381
+}
+
+coltif_area = { #4
+	756 2860 2909 2908
 }
 
 pernambuco_area = { #5
@@ -3492,7 +3501,7 @@ cemareta_area = { #3
 }
 
 sao_francisco_area = { #5
-	2885 2913 2917 2918 2865
+	2885 2913 2865
 }
 
 ilponwa_area = { #4

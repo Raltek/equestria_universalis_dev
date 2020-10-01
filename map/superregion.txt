@@ -41,6 +41,11 @@ southern_equus_superregion = {
 	western_equestria_region
 }
 
+western_zebrica_superregion= {
+	peninsular_region
+	Riseia_region
+}
+
 northern_zebrica_superregion= {
 	canterribean_region
 }
