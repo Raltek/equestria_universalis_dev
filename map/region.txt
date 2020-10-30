@@ -1015,23 +1015,18 @@ caucasia_region = {
 	}
 }
 
-arabia_region = {
+eastern_hestraya_region = {
 	areas = {
 		tabuk_area
 		medina_area
-		mecca_area
+		kurdufan_area
 		asir_area
 		tihama_al_yemen_area
 		upper_yemen_area
 		yemen_area
 		mahra_area
 		hadramut_area
-		bahrain_area
-		oman_area
-		pirate_coast_area
 		dhofar_area
-		mascat_area
-		qasim_area
 		yamamah_area
 		nafud_area
 	}
@@ -1079,18 +1074,22 @@ guinea_region = {
 }
 
 
-sahel_region = {
+central_hestraya_region = {
 	areas = {
 		darfur_central_sahara_area
 		kanem_area
+		berar_area
+		tapti_area
+		garjat_area
+		mecca_area
 		bornu_area
 		azbin_area
-		kurdufan_area
 		western_sahara_area
 		dendi_area
 		baghena_area
 		niger_bend_area
 		east_azbin_area
+		
 	}
 	monsoon = {
 		00.06.01
@@ -1348,10 +1347,7 @@ bengal_region = {
 		east_bengal_area
 		naga_hills_area
 		jharkhand_area
-		orissa_area
-		garjat_area
 		assam_area
-		upper_mahanadi_area
 		tripura_area
 	}
 	monsoon = {
@@ -1367,7 +1363,6 @@ west_india_region = {
 		jaipur_area
 		malwa_area
 		saurashtra_area
-		tapti_area
 		sindh_area
 		northern_sindh_area
 		khandesh_area
@@ -1394,7 +1389,6 @@ deccan_region = {
 		malabar_area
 		raichur_doab_area
 		golconda_area
-		berar_area
 		ahmednagar_area
 	}
 	monsoon = {
@@ -1529,17 +1523,15 @@ north_china_region = {
 
 Riseia_region = {
 	areas = {
-		nehuenken_area
-		cuyo_area
-		southern_pampas_area
-		buenos_aires_area
-		banda_oriental_area
-		south_atlantic_islands_area
-		southern_chile_area
-		central_chile_area
-		misiones_area
-		patagonian_andes
-		bahia_blanca_area
+		al_gallopydah_area
+		mareousse_area
+		sadlhara_area
+		wustrota_area
+		ghaba_area
+		beihoof_area
+		buckure_area
+		lipzako_area
+		sahmaneda_area
 	}
 }
 
