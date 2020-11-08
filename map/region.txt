@@ -940,16 +940,14 @@ maghreb_region = {
 	}
 }
 
-mashriq_region = {
+western_hestraya_region = {
 	areas = {
-		syria_area
-		palestine_area
-		al_jazira_area
-		iraq_arabi_area
-		basra_area
-		trans_jordan_area
-		syrian_desert_area
-		aleppo_area
+		zarmarej_area
+		trotabad_area
+		sarygam_area
+		buckka_area
+		khorramaneabad_area
+		maregostan_area
 	}
 }
 
@@ -973,17 +971,13 @@ anatolia_region = {
 persia_region = {
 	areas = {
 		luristan_area
-		farsistan_area
 		iraq_e_ajam_area
 		tabarestan_area
 		azerbaijan_area
 		isfahan_area
 		kerman_area
-		persian_gulf_coast
 		tabriz_area
-		khuzestan_area
 		shahrizor_area
-		mogostan_area
 	}
 }
 
@@ -996,9 +990,6 @@ khorasan_region = {
 		sistan_area
 		makran_area
 		kalat_area
-		birjand_area
-		herat_area
-		mashhad_area
 	}
 }
 
@@ -1017,18 +1008,14 @@ caucasia_region = {
 
 eastern_hestraya_region = {
 	areas = {
-		tabuk_area
-		medina_area
-		kurdufan_area
-		asir_area
-		tihama_al_yemen_area
-		upper_yemen_area
-		yemen_area
-		mahra_area
-		hadramut_area
-		dhofar_area
-		yamamah_area
-		nafud_area
+		Maredin_area
+		Fmares_area
+		Sarmanei_area
+		hamanedan_area
+		ardakmane_area
+		anibesa_area
+		shahia_area
+		Buckluchistan_area
 	}
 }
 
@@ -1076,19 +1063,16 @@ guinea_region = {
 
 central_hestraya_region = {
 	areas = {
-		darfur_central_sahara_area
-		kanem_area
-		berar_area
-		tapti_area
-		garjat_area
-		mecca_area
-		bornu_area
-		azbin_area
-		western_sahara_area
-		dendi_area
-		baghena_area
-		niger_bend_area
-		east_azbin_area
+		karbuckla_area
+		trotbas_area
+		manezwa_area
+		shayda_area
+		suhmane_area
+		semane_area
+		hisanlab_area
+		Ardabucklan_area
+		trotran_area
+		ash_smareqiyah_area
 		
 	}
 	monsoon = {

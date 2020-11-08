@@ -2024,12 +2024,8 @@ karaman_area = { #4
 	   4307
 }
 
-basra_area = { #4
-	408 2311 2312 
-}
-
-khuzestan_area = { #5
-	412 2217 4289  4342
+zarmarej_area = { #5
+	2217 4342 436 4324 4325
 }
 
 
@@ -2038,12 +2034,8 @@ khuzestan_area = { #5
 # Arabia				               #
 ########################################
 
-bahrain_area = { #5
-	394 395 396 2340
-}
-
-pirate_coast_area = { #4
-	404
+trotabad_area = { #4
+	394 2340 408 412
 }
 
 nafud_area = { #3
@@ -2054,44 +2046,40 @@ tabuk_area = { #4
 	383 2328 4268
 }
 
-mecca_area = { #5
-	385 2331 2332 4277 4278 2220
+semane_area = { #5
+	385 4277 2220 2331 2332
 }
 
-asir_area = { #3
-	391 4282
+hamanedan_area = { #3
+	391 401 2341
 }
 
-tihama_al_yemen_area = { #3
-	387 4279
+anibesa_area = { #3
+	387 1099 1219
 }
 
-upper_yemen_area = { #3
-	390 2344 4281
+ardakmane_area = { #3
+	4284 2801 2242
 }
 
-yemen_area = { #Lower Yemen #
-	388 2345 4280
+shahia_area = { #4
+	1221 1119 2798 2266
 }
 
-hadramut_area = { #3
-	2343 4283
+Fmares_area = { #5
+	2344 4281 4280 2345 2343
 }
 
-mahra_area = { #3
-	402 1099 4284
+Maredin_area = { #5
+	388 1118 389 402 4283
 }
 
-dhofar_area = { #3 (Dhofar + Masirah)
-	401 2341
+Sarmanei_area = { #3
+	4279 390 4282
 }
 
-oman_area = { #3 (Oman Proper)
-	403 4287  
-}
-
-mascat_area = { #3 (Batinah and Muscat coast
-	400 4286
+maregostan_area = { #5
+	403 4287 400 4286 404
 }
 
 ########################################
@@ -2330,12 +2318,17 @@ ogaden_area = { #5
 	1207 1208 1210 2778 2779
 }
 
-darfur_central_sahara_area = { #5
-	774 1219 2801 2802 2932 386 2335 2346 2342
+hisanlab_area = { #5
+	2802 2342 398
 }
 
-kurdufan_area = { #3
-	1216 1221 2800 1219 2801 1220 1222 1225 2798 1119 2242 2266 1118
+Ardabucklan_area = { #4
+	386 2335 2346 4278
+}
+
+
+Buckluchistan_area = { #5
+	1216 2800 1220 1222 1225
 }
 
 lower_nubia_area = { #3
@@ -2599,7 +2592,7 @@ guinea_coast_area = { #4
 }
 
 south_atlantic_islands_area = { #2
-	1095 2025
+	1095
 }
 
 matamba_area = { #3
@@ -2663,16 +2656,16 @@ kabulistan_area = { #5
 	448 451 452 578 2226
 }
 
-mashhad_area = { #4 - Northern Khorasan
-	2221 2235 2236 4326
+sarygam_area = { #4
+	2221 4326 4336 430
 }
 
 herat_area = {	#3 - Eastern Khorasan
-	446 4324 4325 
+	446
 }
 
 birjand_area = { #3 - Western Khorasan
-	436 4334 4336 
+	4334
 }
 
 ghor_area = { #3
@@ -2692,15 +2685,15 @@ kerman_area = { #4
 }
 
 persian_gulf_coast = { #4
-	430 2219 2223 4332 
+	2219
 }
 
-mogostan_area = { #3
-	431 2999 4327
+buckka_area = { #4
+	2999 4327 4332 4331
 }
 
 farsistan_area = { #4
-	2218 4329 4330 4331
+	2218 4329 4330
 }
 
 iraq_e_ajam_area = { #5
@@ -2820,8 +2813,24 @@ orissa_area = { #5
 	2038 2043 
 }
 
-garjat_area = { #5
-	2048 4445 545 4433 4446 2339 4275 2336 4447 4451 392 4274 4273 2082 552
+manezwa_area = { #4
+	4433 545 4442 548
+}
+
+ash_smareqiyah_area = { #3
+	4274 4443 546
+}
+
+shayda_area = { #4
+	4273 2082 2025 392
+}
+
+suhmane_area = { #4
+	2339 4275 4447 4451 
+}
+
+trotran_area = { #4
+	4445 4446 2336 552
 }
 
 telingana_area = { #3
@@ -2924,10 +2933,6 @@ mysore_area = { #5
 	533 2031 4421 4422 4426
 }
 
-berar_area = { #5
-	546 548 4442 4443
-}
-
 assam_area = { #5
 	566 571 2040 2042 4440
 }
@@ -2968,8 +2973,16 @@ patan_area = { #4
 	503 2053 4456 4480
 }
 
-tapti_area = { #3
-	517 2036 529 4430 399 2347 4285 2333 398 397 4434
+khorramaneabad_area = { #5
+	2236 2235 2219
+}
+
+karbuckla_area = { #4
+	2347 399 4285 397 2333
+}
+
+trotbas_area = { #4
+	517 2036 4430 529 4434
 }
 
 saurashtra_area = { #5
