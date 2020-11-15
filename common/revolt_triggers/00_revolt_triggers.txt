@@ -1,0 +1,4 @@
+
+CNT = {
+	always = no
+}

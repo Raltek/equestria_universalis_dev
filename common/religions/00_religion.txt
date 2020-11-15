@@ -339,7 +339,7 @@ pony_religion = {
 	}
 	rjiken = {
 		color = {63 161 111}
-		icon = 17
+		icon = 16
 		country = {
 			stability_cost_modifier = -0.1
 		}

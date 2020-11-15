@@ -1,5 +1,5 @@
-owner = 
-controller = 
+owner = ROC
+controller = ROC
 add_core = ROC
 culture = arahnoan
 religion = old_believer

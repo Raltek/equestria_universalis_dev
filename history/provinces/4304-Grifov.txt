@@ -1,5 +1,5 @@
-owner = 
-controller = 
+owner = BRO
+controller = BRO
 add_core = BRO
 culture = prywhenian
 religion = old_believer

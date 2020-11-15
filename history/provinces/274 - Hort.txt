@@ -1,6 +1,4 @@
-owner = 
-controller = 
-add_core = 
+
 culture = northpony
 religion = pony_animism
 

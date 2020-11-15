@@ -18,7 +18,7 @@ capital = 2206
 	
 	leader = {
 		name = "Giulio IX di Navarro"
-		type = "general"
+		type = general
 		fire  = 3
 		shock = 2
 		manuever = 0

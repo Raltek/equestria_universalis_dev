@@ -4,16 +4,12 @@ government_rank = 3
 technology_group = equestrian
 primary_culture = canterlotian
 religion = celestial
-#add_accepted_culture = equestrian_unicorn
-#add_accepted_culture = equestrian_pegasus
-#add_accepted_culture = equestrian_earth_pony
-#religion = harmonism
 capital = 1809 # Canterlot
 
 1.1.1 = {
 	monarch = {
 		name = "Celestia"
-		dynasty = ""
+		dynasty = "Faust"
 		birth_date = 1.1.1
 		adm = 3
 		dip = 4

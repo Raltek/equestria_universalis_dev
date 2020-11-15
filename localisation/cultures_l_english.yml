@@ -4,12 +4,16 @@
  cloudburian:0 "Cloudburian"
  whitetailer:0 "Whitetailer"
  hauklandish:0 "Hauklandish"
- riverpony_group:0 "Riverlands Ponies"
- riverpony:0 "Riverpony"
+ tarpean:0 "Tarpean"
+ 
+ riverpony_group:0 "Riverponies"
+ riverpony:0 "Rijekan"
  lakepony:0 "Lakepony"
- nimbusian:0 "Nimbusian"
+ bakaran:0 "Bakaran"
+ 
  diamond_dog:0 "Diamond Dog"
  diamond:0 "Diamond Mountainer"
+ 
  herzlander:0 "Griffking Griffons"
  katerin:0 "Scheißwalder"
  griffkingian:0 "North Griffkinger"
@@ -18,8 +22,10 @@
  romauan:0 "Romauan"
  griefwalder:0 "Greifwalder"
  adelartian:0 "Adelartian"
+ 
  northpony_group:0 "Northern Ponies"
  northpony:0 "Northpony"
+ 
  wingbardian:0 "Wingbardian Griffons"
  karthinian:0 "Karthinian"
  taloncan:0 "Taloncan"
@@ -28,6 +34,8 @@
  mattonian:0 "Mattonian"
  talontan:0 "Talontian"
  piumontese:0 "Piumontese"
+ talousian:0 "Talousian"
+ 
  aquileian:0 "Aquilean Griffons"
  aquilan:0 "Aquilan"
  rilan:0 "Rilan"
@@ -36,40 +44,50 @@
  westrienne:0 "Westtrian"
  flowenois:0 "Flowenois"
  pridean:0 "Pridean"
+ 
  griffon_celtic:0 "Ancient Griffons"
  pomovarran:0 "Pomovarran"
  rumare:0 "Rumarean"
+ 
+ nimbusian_group:0 "Nimbusian Ponies"
  prancestrasian:0 "Prancestrasian"
  ioneighan:0 "Ioneighan"
- nimbusian_group:0 "Nimbusian Ponies"
- highpony_group:0 "Highpony"
+ nimbusian:0 "Nimbusian"
+ 
+ highpony_group:0 "Hillponies"
  ponaidhean:0 "Pónaidh"
- bakaran:0 "Bakaran"
  wittenlandic:0 "Wittenlandic"
  barradian:0 "Barradian"
- ilgakardian:0 "Ilgakardian"
+ 
  varten_group:0 "Vartai Ponies"
+ ilgakardian:0 "Ilgakardian"
  hellquil:0 "Rikismestan"
- tarpean:0 "Tarpean"
- austurlander:0 "Austurlander"
+ 
  olenian_group:0 "Olenian Deer"
+ austurlander:0 "Austurlander"
+ 
  changeling_group:0 "Changeling"
  greneclyf:0 "Greneclyfian"
+ 
  griffonstone_group:0 "Solarspike Griffons"
  griffonstone:0 "Griffonstonean"
  gruselberger:0 "Blackhollower"
- arantigan_culture:0 "Arantigan"
+ 
  arantigan_group:0 "Arantigan Griffons"
+ arantigan_culture:0 "Arantigan"
+ 
  sicameonese_group:0 "Sicameonese Griffons"
  arahnoan:0 "Arahnoan"
  midorian:0 "Midorian"
  tridentean:0 "Tridentean"
  escarlatan:0 "Escarlatan"
- talousian:0 "Talousian"
+ 
  evian_group:0 "Evian Griffons"
  lushian:0 "Lushian"
  prywhenian:0 "Prywhenian"
+ 
  wild_griffon:0 "Wild Griffons"
+ aboriginal:0 "Wild Griffon"
 
  minotaur_group:0 "Minotaurs"
  kyanoian:0 "Kyanoian"
@@ -81,10 +99,14 @@
  prench:0 "Prench"
  albionian:0 "Albionian"
  stratusian:0 "Stratusburger"
+ marelander:0 "Marelander"
+ fillydelphian:0 "Fillydelphian"
+ 
  severyanian:0 "Severyanan Ponies"
  trotsylvanian:0 "Trotsylvanian"
  petershoofite:0 "Petershoofite"
  zakatnieite:0 "Zakatnie"
  zayatskite:0 "Zayatskie"
- marelander:0 "Marelander"
- fillydelphian:0 "Fillydelphian"
+ 
+ thestral:0 "Thestral"
+ shade_thestral:0 "Shade Thestral"

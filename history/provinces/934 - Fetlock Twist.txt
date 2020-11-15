@@ -1,7 +1,7 @@
 owner = HOL
 controller = HOL
 add_core = HOL
-culture = marelander
+culture = shade_thestral
 religion = celestial
 hre = yes
 base_tax = 3

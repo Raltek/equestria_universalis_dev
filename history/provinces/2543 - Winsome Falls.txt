@@ -1,6 +1,13 @@
-owner = CNT
-controller = CNT
-add_core = CNT
+owner = HOL
+controller = HOL
+add_core = HOL
+culture = shade_thestral
+religion = celestial
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
 
 discovered_by = equestrian
 discovered_by = severyanian
