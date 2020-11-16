@@ -6,7 +6,7 @@ color = { 218 167 57 }
 
 historical_idea_groups = {
 	administrative_ideas
-	exploration_ideas
+	diplomatic_ideas
 	quality_ideas
 	maritime_ideas
 	economic_ideas

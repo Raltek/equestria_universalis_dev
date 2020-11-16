@@ -18,6 +18,12 @@ march = {
 	start_date = 500.1.1
 	end_date = 535.1.2
 }
+march = {
+	first = KTR
+	second = MID
+	start_date = 500.1.1
+	end_date = 535.1.2
+}
 alliance = {
 	first = FEA
 	second = RDW
