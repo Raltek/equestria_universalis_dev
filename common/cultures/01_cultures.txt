@@ -527,6 +527,7 @@ griffon_celtic = {
 		}
 	}
 	rumare = {
+		primary = LAK
 		dynasty_names = {
 			"Aberffraw" "Dinefwr" "Mathrafal" "Gwynedd" "Tudor" "Kernew" "Glyndwr" "Ternyllwg" 
 			"Morgannwg" "Caradoc" "Mostyn" "Gorfynydd" Denbigh "Gwynn" "Gwarthaf" "Môn" "Penfro"
@@ -587,6 +588,26 @@ griffon_celtic = {
 			Onbrawst Owena Eugenia Prawst Ragnell Ragnhild Rhiaindrech Rioantdrec Rhiainfelt Regina Rhiannon 
 			Rhonwen Sannant Sara Sarah Senena Sibyl Sibylla Sioned Siwan Siân Joan Susanna Susana Tangwystl 
 			Tancostyla Tegla Thecla Ysbail Ystradwel
+		}
+	}
+	arantigan_culture = {
+		primary = ARG
+		male_names = {
+			Glessandro Galfonso Gambrogio Gamedeo Andrea Angelo Antonio Benito Camillo Carlo
+			Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+			Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+			Luigi Mario Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+			Raffaele Griffberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio
+		}
+		female_names = {
+		 Maria Anna Sara Laura Sofia Stella Angela Giovanna Guiseppina Gianna Giulia Valentina 
+		}
+		dynasty_names = {
+			Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+			Caviglia Ceccherini Cialdini Cusani Dezza "di Robilant" "di Gavoia" Featherin
+			Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+			Menabrea Orengo Pallavicino Pecori-Giraldi  Pelloux Perruchetti Pianelli Porro
+			Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari Vaccari Zupelli
 		}
 	}
 }
@@ -1062,30 +1083,6 @@ griffonstone_group = {
 	}	
 }
 
-arantigan_group = {
-	graphical_culture = westerngfx
-	arantigan_culture = {
-		primary = ARG
-		male_names = {
-			Glessandro Galfonso Gambrogio Gamedeo Andrea Angelo Antonio Benito Camillo Carlo
-			Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
-			Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
-			Luigi Mario Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
-			Raffaele Griffberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio
-		}
-		female_names = {
-		 Maria Anna Sara Laura Sofia Stella Angela Giovanna Guiseppina Gianna Giulia Valentina 
-		}
-		dynasty_names = {
-			Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
-			Caviglia Ceccherini Cialdini Cusani Dezza "di Robilant" "di Gavoia" Featherin
-			Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
-			Menabrea Orengo Pallavicino Pecori-Giraldi  Pelloux Perruchetti Pianelli Porro
-			Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari Vaccari Zupelli
-		}
-	}
-}
-
 sicameonese_group = {
 	graphical_culture = westerngfx
 	arahnoan = {
@@ -1235,39 +1232,21 @@ evian_group = {
 minotaur_group = {
 	graphical_culture = westerngfx
 	kyanoian = {
-		
-		male_names = {
-			Alexios Alexandros Evgénios Basílios Stratigós Ilías Stylianí Polémios Strátos Kýros Argos Skiódis Alíki Íkaros Bartholomoús Geórgios Giánnis Dimitrios Konstantinos Theodoros Theodosios Filippos
-			}
-		female_names = {
-			Sidirá Ioánna Amoulía Moumoulína María Eiríni Elena Evgenia Evridiki Filippa Irini Konstantina Sophia Theodora Theodosia 
-			}
-		dynasty_names = {
-			Argyris Floros Antonis Giannopoulos Ioannidis Sekarthionis Aetos Economos Laskaris Kolopoulos Asteripoulos Laikoanos Neachorapoulos Aetiapoulos Kaikiopoulos Akartheos
-			}
+		primary = KYA
 	}
 	asterionese = {
         primary = MIT
-		male_names = {
-			Alexios Alexandros Evgénios Basílios Stratigós Ilías Stylianí Polémios Strátos Kýros Argos Skiódis Alíki Íkaros Bartholomoús Geórgios Giánnis Dimitrios Konstantinos Theodoros Theodosios Filippos
-			}
-		female_names = {
-			Sidirá Ioánna Amoulía Moumoulína María Eiríni Elena Evgenia Evridiki Filippa Irini Konstantina Sophia Theodora Theodosia 
-			}
-		dynasty_names = {
-			Argyris Floros Antonis Giannopoulos Ioannidis Sekarthionis Aetos Economos Laskaris Kolopoulos Asteripoulos Laikoanos Neachorapoulos Aetiapoulos Kaikiopoulos Akartheos
-			}
 	}
 	notosian = {
          
-		male_names = {
-			Alexios Alexandros Evgénios Basílios Stratigós Ilías Stylianí Polémios Strátos Kýros Argos Skiódis Alíki Íkaros Bartholomoús Geórgios Giánnis Dimitrios Konstantinos Theodoros Theodosios Filippos
-			}
-		female_names = {
-			Sidirá Ioánna Amoulía Moumoulína María Eiríni Elena Evgenia Evridiki Filippa Irini Konstantina Sophia Theodora Theodosia 
-			}
-		dynasty_names = {
-			Argyris Floros Antonis Giannopoulos Ioannidis Sekarthionis Aetos Economos Laskaris Kolopoulos Asteripoulos Laikoanos Neachorapoulos Aetiapoulos Kaikiopoulos Akartheos
-			}
 	}
+	male_names = {
+		Alexios Alexandros Evgénios Basílios Stratigós Ilías Stylianí Polémios Strátos Kýros Argos Skiódis Alíki Íkaros Bartholomoús Geórgios Giánnis Dimitrios Konstantinos Theodoros Theodosios Filippos
+		}
+	female_names = {
+		Sidirá Ioánna Amoulía Moumoulína María Eiríni Elena Evgenia Evridiki Filippa Irini Konstantina Sophia Theodora Theodosia 
+		}
+	dynasty_names = {
+		Argyris Floros Antonis Giannopoulos Ioannidis Sekarthionis Aetos Economos Laskaris Kolopoulos Asteripoulos Laikoanos Neachorapoulos Aetiapoulos Kaikiopoulos Akartheos
+		}
 }

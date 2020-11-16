@@ -1,0 +1,14 @@
+owner = KYA
+controller = KYA
+culture = kyanoian
+religion = actualism
+add_core = KYA
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = griffon
+discovered_by = riverpony
+discovered_by = minotaur

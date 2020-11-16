@@ -48,6 +48,7 @@
  griffon_celtic:0 "Ancient Griffons"
  pomovarran:0 "Pomovarran"
  rumare:0 "Rumarean"
+ arantigan_culture:0 "Arantigan"
  
  nimbusian_group:0 "Nimbusian Ponies"
  prancestrasian:0 "Prancestrasian"
@@ -72,9 +73,6 @@
  griffonstone_group:0 "Solarspike Griffons"
  griffonstone:0 "Griffonstonean"
  gruselberger:0 "Blackhollower"
- 
- arantigan_group:0 "Arantigan Griffons"
- arantigan_culture:0 "Arantigan"
  
  sicameonese_group:0 "Sicameonese Griffons"
  arahnoan:0 "Arahnoan"

@@ -1,0 +1,19 @@
+government = republic
+add_government_reform = military_dictatorship_reform
+government_rank = 1
+technology_group = minotaur
+religion = actualism
+primary_culture = kyanoian
+capital = 317
+fixed_capital = 317
+
+530.6.20 = {
+	monarch = {
+		name = "Alexandros"
+		dynasty = "Aspida"
+		birth_date = 497.4.6
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}

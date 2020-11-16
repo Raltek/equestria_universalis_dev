@@ -6,6 +6,7 @@ primary_culture = marelander
 religion = celestial
 capital = 2547  # Manehattan
 fixed_capital = 2547
+elector = yes
 
 530.6.20 = {
 	monarch = {

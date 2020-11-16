@@ -189,6 +189,7 @@ MIO = "countries/Midoria.txt"
 ROC = "countries/Roca Leon.txt"
 MIT = "countries/Asterion.txt"
 COL = "countries/Coloe.txt"
+KYA = "countries/Kyanoia.txt"
 
 #Evi Valley
 DRB = "countries/Drakburg.txt"
