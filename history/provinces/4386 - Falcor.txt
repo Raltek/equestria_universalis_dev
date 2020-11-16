@@ -13,4 +13,4 @@ is_city = yes
 fort_15th = yes
 
 discovered_by = griffon
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur

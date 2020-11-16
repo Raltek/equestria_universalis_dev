@@ -4,10 +4,12 @@ culture = cloudburian
 religion = archonate
 add_core = KLB
 hre = no
-base_tax = 3
-base_production = 3
+base_tax = 4
+base_production = 4
 base_manpower = 1
 is_city = yes
 
 discovered_by = griffon
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur
+
+center_of_trade = 1

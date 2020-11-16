@@ -1,4 +1,4 @@
 # No previous file for Western Sea of Åland
 discovered_by = NCH
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur
 discovered_by = griffon

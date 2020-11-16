@@ -9,6 +9,6 @@ base_production = 5
 base_manpower = 4
 is_city = yes
 trade_goods = paper
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur
 discovered_by = griffon
 center_of_trade = 1

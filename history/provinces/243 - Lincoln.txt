@@ -5,11 +5,11 @@ religion = archonate
 add_core = BLL
 hre = no
 base_tax = 1
-base_production = 1
-base_manpower = 1
+base_production = 2
+base_manpower = 3
 is_city = yes
 
 discovered_by = griffon
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur
 
 trade_goods = grain

@@ -3,5 +3,5 @@
 discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = tzinacatlian
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur
 discovered_by = griffon

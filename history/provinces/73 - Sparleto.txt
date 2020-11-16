@@ -10,6 +10,6 @@ base_manpower = 5
 is_city = yes
 
 discovered_by = griffon
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur
 
 fort_15th = yes

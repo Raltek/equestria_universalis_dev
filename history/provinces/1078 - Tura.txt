@@ -9,7 +9,7 @@ base_production = 3
 base_manpower = 6
 is_city = yes
 
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur
 discovered_by = griffon
 
 add_permanent_province_modifier = {

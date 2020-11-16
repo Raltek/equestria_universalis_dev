@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = minotaur
+religion = actualism
+primary_culture = notosian
+capital = 4271
+
+530.6.20 = {
+	monarch = {
+		name = "Ioánna"
+		dynasty = "Tauria"
+		birth_date = 502.8.7
+		adm = 2
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}

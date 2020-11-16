@@ -11,4 +11,4 @@ base_manpower = 3
 is_city = yes
 
 discovered_by = griffon
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur

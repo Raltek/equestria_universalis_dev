@@ -12,5 +12,4 @@ is_city = yes
 center_of_trade = 1
 
 discovered_by = griffon
-discovered_by = riverpony
-discovered_by = minotaur
+discovered_by = riverpony discovered_by = minotaur

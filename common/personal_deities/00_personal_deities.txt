@@ -81,10 +81,7 @@ wise_lady =
 	technology_cost = -0.05
 	
 	allow = {
-		OR = {
-			tag = VED
-			tag = SKR
-		}
+		primary_culture = vedinian
 		OR = {
 			religion = archonate
 			religion = old_believer
@@ -106,22 +103,15 @@ wise_lady =
 }
 sycaecia =
 {
-	sailors_recovery_speed = 0.25
+	global_ship_trade_power = 0.1
 	naval_morale = 0.1		
 	
 	allow = {
 		OR = {
-			tag = ESC 
-			tag = ARN 
-			tag = KLO 
-			tag = LEV 
-			tag = QUR 
-			tag = TDT 
-			tag = ETF 
-			tag = ESE 
-			tag = ELE 
-			tag = CAZ 
-			tag = MIO 
+			primary_culture = midorian
+			primary_culture = arahnoan
+			primary_culture = tridentean
+			primary_culture = escarlatan
 		}
 		OR = {
 			religion = archonate
@@ -149,12 +139,7 @@ eviliana =
 	
 	allow = {
 		OR = {
-			tag = LMM 
-			tag = TLV 
-			tag = MIV 
-			tag = DRB 
-			tag = LUS
-
+			primary_culture = prywhenian
 		}
 		OR = {
 			religion = archonate

@@ -1,3 +1,3 @@
 # No previous file for Sl�ibhte �adroma
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur
 discovered_by = griffon

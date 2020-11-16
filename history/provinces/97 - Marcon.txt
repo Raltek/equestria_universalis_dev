@@ -1,6 +1,6 @@
-owner = AET
-controller = AET
-add_core = AET
+owner = GRW
+controller = GRW
+add_core = GRW
 add_claim = RLA
 culture = rilan
 religion = archonate
@@ -11,6 +11,6 @@ base_manpower = 1
 is_city = yes
 
 discovered_by = griffon
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur
 
 trade_goods = grain

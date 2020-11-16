@@ -17,4 +17,4 @@ fort_15th = yes
 center_of_trade = 2
 
 discovered_by = griffon
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur

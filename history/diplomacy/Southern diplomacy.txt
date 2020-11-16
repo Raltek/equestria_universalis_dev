@@ -60,3 +60,47 @@ vassal = {
 	start_date = 500.1.1
 	end_date = 535.1.2
 }
+
+alliance = {
+	first = MIO
+	second = CAZ
+	start_date = 500.1.1
+	end_date = 535.1.2
+}
+alliance = {
+	first = MIO
+	second = ELE
+	start_date = 500.1.1
+	end_date = 535.1.2
+}
+
+alliance = {
+	first = KLO
+	second = LEV
+	start_date = 500.1.1
+	end_date = 535.1.2
+}
+alliance = {
+	first = KLO
+	second = ARN
+	start_date = 500.1.1
+	end_date = 535.1.2
+}
+alliance = {
+	first = ETF
+	second = ROC
+	start_date = 500.1.1
+	end_date = 535.1.2
+}
+alliance = {
+	first = QUR
+	second = ESE
+	start_date = 500.1.1
+	end_date = 535.1.2
+}
+alliance = {
+	first = QUR
+	second = TDT
+	start_date = 500.1.1
+	end_date = 535.1.2
+}

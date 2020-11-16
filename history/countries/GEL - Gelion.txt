@@ -1,0 +1,19 @@
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+technology_group = minotaur
+religion = actualism
+primary_culture = notosian
+capital = 149
+fixed_capital = 149
+
+530.6.20 = {
+	monarch = {
+		name = "Theodoros"
+		dynasty = "Kek"
+		birth_date = 470.12.12
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+}

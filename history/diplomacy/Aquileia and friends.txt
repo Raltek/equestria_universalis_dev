@@ -14,7 +14,7 @@ vassal = {
 
 march = {
 	first = AQU
-	second = AET
+	second = GRW
 	start_date = 500.1.1
 	end_date = 535.1.2
 }

@@ -77,7 +77,7 @@ VER = "countries/Verenia.txt"
 # Aquileia
 AQU = "countries/Aquileia.txt"
 WST = "countries/Westtry.txt"
-AET = "countries/Greifwald.txt"
+GRW = "countries/Greifwald.txt"
 ADE = "countries/Adelart.txt"
 POM = "countries/Pomovarra.txt"
 TAR = "countries/Tarrin.txt"
@@ -190,6 +190,8 @@ ROC = "countries/Roca Leon.txt"
 MIT = "countries/Asterion.txt"
 COL = "countries/Coloe.txt"
 KYA = "countries/Kyanoia.txt"
+AET = "countries/Aetia.txt"
+GEL = "countries/Gelion.txt"
 
 #Evi Valley
 DRB = "countries/Drakburg.txt"

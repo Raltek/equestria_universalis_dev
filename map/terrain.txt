@@ -99,7 +99,7 @@ categories =  {
 		supply_limit = 5
 		
 		terrain_override = {
-			20 238 46 21 27 1930 1776 4379 375 4378 4248 2369 479 2019
+			20 238 46 21 27 1930 1776 4379 375 4378 4248 2369 479 2019 320
 		}
 	}
 
@@ -178,6 +178,7 @@ categories =  {
 		supply_limit = 5
 		
 		terrain_override = {
+			406 4337
 		}
 	}	
 	

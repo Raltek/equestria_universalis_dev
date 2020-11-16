@@ -10,7 +10,7 @@ base_manpower = 2
 is_city = yes
 
 discovered_by = griffon
-discovered_by = riverpony
+discovered_by = riverpony discovered_by = minotaur
 
 add_permanent_province_modifier = {
 	name = river_estuary_modifier

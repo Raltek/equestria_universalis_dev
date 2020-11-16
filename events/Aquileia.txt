@@ -87,7 +87,7 @@ country_event = { #Aquileia breaks apart in the aftermath of the Discret Takeove
 		ai_chance = { factor = 100 }
 		add_legitimacy = -20
 		add_prestige = -20
-		AET = { grant_independence = yes }
+		GRW = { grant_independence = yes }
 		WST = { grant_independence = yes }
 		POM = { grant_independence = yes }
 		TAR = { grant_independence = yes }
