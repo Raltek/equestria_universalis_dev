@@ -8,12 +8,12 @@ capital = 4392
 
 530.6.20 = {
 	monarch = {
-		name = "Leopold II"
+		name = "Leonore II"
 		dynasty = "Eyrie"
 		birth_date = 494.3.11
 		adm = 3
 		dip = 1
 		mil = 4
-		
+		female = yes
 	}
 }

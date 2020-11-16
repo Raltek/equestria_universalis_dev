@@ -19,12 +19,12 @@ fixed_capital = 118
 		
 	}
 	
-	leader = {
-		name = "Garlo III di Almieri"
-		type = general
-		fire  = 4
-		shock = 5
-		manuever = 2
-		siege = 3
-	}
+	#leader = {
+	#	name = "Garlo III di Almieri"
+	#	type = general
+	#	fire  = 4
+	#	shock = 5
+	#	manuever = 2
+	#	siege = 3
+	#}
 }

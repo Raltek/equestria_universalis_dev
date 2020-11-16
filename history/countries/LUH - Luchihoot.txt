@@ -9,12 +9,12 @@ capital = 140
 
 530.6.20 = {
 	monarch = {
-		name = "Marco IV"
+		name = "Margherita IV"
 		dynasty = "di Luchino"
 		birth_date = 492.3.11
 		adm = 1
 		dip = 2
 		mil = 0
-		
+		female = yes
 	}
 }

@@ -9,12 +9,12 @@ fixed_capital = 167
 
 530.6.20 = {
 	monarch = {
-		name = "Wilhelm II"
+		name = "Wilhelmina II"
 		dynasty = "Helstein"
 		birth_date = 515.3.7
 		adm = 2
 		dip = 4
 		mil = 1
-		
+		female = yes
 	}
 }

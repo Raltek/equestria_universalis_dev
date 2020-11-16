@@ -8,20 +8,21 @@ capital = 2206
 
 530.6.20 = {
 	monarch = {
-		name = "Giulio IX"
+		name = "Gianna IX"
 		dynasty = "di Navarro"
 		birth_date = 482.3.11
 		adm = 2
 		dip = 1
 		mil = 4
+		female = yes
 	}
 	
-	leader = {
-		name = "Giulio IX di Navarro"
-		type = general
-		fire  = 3
-		shock = 2
-		manuever = 0
-		siege = 0
-	}
+	#leader = {
+	#	name = "Gianna IX di Navarro"
+	#	type = general
+	#	fire  = 3
+	#	shock = 2
+	#	manuever = 0
+	#	siege = 0
+	#}
 }

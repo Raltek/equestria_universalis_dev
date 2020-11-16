@@ -19,7 +19,7 @@ fixed_capital = 78
 	}
 	
 	leader = {
-		name = "Berthold II von Yalenberg"
+		name = "Joachim von Bruma"
 		type = general
 		fire  = 5
 		shock = 3

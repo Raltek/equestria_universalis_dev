@@ -12,7 +12,7 @@ fixed_capital = 4250
 	monarch = {
 		name = "Varenas"
 		dynasty = "Glyf"
-		
+		female = yes
 		birth_date = 494.2.2
 		adm = 2
 		dip = 1

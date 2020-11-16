@@ -8,7 +8,7 @@ capital = 4271
 
 530.6.20 = {
 	monarch = {
-		name = "Ioánna"
+		name = "Ioanna"
 		dynasty = "Tauria"
 		birth_date = 502.8.7
 		adm = 2

@@ -17,6 +17,7 @@ elector = yes
 		adm = 0
 		dip = 0
 		mil = 0
+		female = yes
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = infertile_personality

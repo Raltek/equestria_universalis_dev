@@ -6,7 +6,7 @@ religion = celestial
 hre = yes
 base_tax = 4
 base_production = 4
-base_manpower = 4
+base_manpower = 6
 is_city = yes
 
 discovered_by = equestrian

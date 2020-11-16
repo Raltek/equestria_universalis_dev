@@ -8,12 +8,12 @@ capital = 201
 
 530.6.20 = {
 	monarch = {
-		name = "Antonio II"
+		name = "Alessa II"
 		dynasty = "Pallocini"
 		birth_date = 496.3.11
 		adm = 2
 		dip = 0
 		mil = 1
-		
+		female = yes
 	}
 }

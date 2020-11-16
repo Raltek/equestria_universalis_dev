@@ -12,4 +12,5 @@ trade_goods = dyes
 discovered_by = riverpony discovered_by = minotaur
 discovered_by = griffon
 
+center_of_trade = 1
 fort_15th = yes
