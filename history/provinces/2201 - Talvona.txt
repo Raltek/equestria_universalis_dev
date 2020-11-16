@@ -4,9 +4,9 @@ culture = lushian
 religion = old_believer
 add_core = TLV
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 3
+base_production = 2
+base_manpower = 3
 is_city = yes
 
 discovered_by = griffon

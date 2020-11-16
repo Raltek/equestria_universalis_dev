@@ -4,9 +4,9 @@ culture = prywhenian
 religion = old_believer
 add_core = BRO
 hre = no
-base_tax = 2
+base_tax = 1
 base_production = 2
-base_manpower = 3
+base_manpower = 2
 is_city = yes
 
 discovered_by = griffon

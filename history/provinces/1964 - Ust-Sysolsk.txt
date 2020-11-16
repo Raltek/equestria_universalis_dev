@@ -14,4 +14,6 @@ discovered_by = equestrian
 discovered_by = severyanian
 discovered_by = griffon
 
+center_of_trade = 1
+
 fort_15th = yes

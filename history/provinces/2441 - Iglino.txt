@@ -1,6 +1,6 @@
 owner = RCT
 controller = RCT
-culture = riverpony
+culture = rijekan
 religion = rjiken
 add_core = RCT
 hre = no

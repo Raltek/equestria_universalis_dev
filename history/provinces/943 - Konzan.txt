@@ -14,3 +14,4 @@ discovered_by = severyanian
 discovered_by = tzinacatlian
 
 trade_goods = grain
+center_of_trade = 1

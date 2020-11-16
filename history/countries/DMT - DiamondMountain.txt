@@ -5,8 +5,8 @@ technology_group = riverpony
 unit_type = eastern
 primary_culture = diamond
 religion = diamond_dog_faith
-capital = 4147
-fixed_capital = 4147
+capital = 4252
+fixed_capital = 4252
 
 530.6.20 = {
 	monarch = {

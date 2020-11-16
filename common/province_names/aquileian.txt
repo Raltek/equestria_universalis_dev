@@ -1,0 +1,7 @@
+#Pomovarra
+1878 = "Armande"
+1866 = "Val-du-Seyche"
+93 = "Frégneux"
+4366 = "Durancie"
+4369 = "Portecourt"
+266 = "Flowena" 

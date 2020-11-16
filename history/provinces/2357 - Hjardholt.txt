@@ -4,9 +4,9 @@ culture = austurlander
 religion = olenian
 add_core = OLV
 hre = no
-base_tax = 3
-base_production = 3
-base_manpower = 3
+base_tax = 2
+base_production = 1
+base_manpower = 2
 is_city = yes
 
 discovered_by = riverpony discovered_by = minotaur

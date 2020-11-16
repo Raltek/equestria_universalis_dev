@@ -1,6 +1,6 @@
 owner = CLV
 controller = CLV
-culture = riverpony
+culture = rijekan
 religion = rjiken
 add_core = CLV
 hre = no

@@ -4,9 +4,9 @@ culture = katerin
 religion = old_believer
 add_core = KTR
 hre = no
-base_tax = 4
-base_production = 3
-base_manpower = 5
+base_tax = 3
+base_production = 2
+base_manpower = 3
 is_city = yes
 
 discovered_by = griffon

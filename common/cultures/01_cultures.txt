@@ -613,7 +613,7 @@ griffon_celtic = {
 }
 riverpony_group = {
 	graphical_culture = easterngfx
-	riverpony = {
+	rijekan = {
 		primary = RCT
 	}
 	lakepony = {
