@@ -1,5 +1,4 @@
 isolationism = {
-	stability_cost_to_declare_war = 3
-	fabricate_claims_cost = 10	
 	province_warscore_cost = 10
+	fabricate_claims_cost = 10
 }
