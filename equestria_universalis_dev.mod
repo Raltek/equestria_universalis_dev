@@ -12,7 +12,7 @@ replace_path="history/wars"
 replace_path="history/advisors"
 
 replace_path="decisions"
-#replace_path="events"
+replace_path="events"
 replace_path="missions"
 
 replace_path="common/client_states"

@@ -3592,6 +3592,22 @@ on_flagship_destroyed = {
 
 # this = Released country, FROM = Releasing country
 on_country_released = {
+	if = {
+		limit = {
+			FROM = { has_reform = religious_permanent_revolution_reform }
+			NOT = { tag = PAP }
+		}
+		change_religion = FROM
+		adopt_reform_progress = FROM
+		add_country_modifier = {
+			name = global_holy_war_released_modifier
+			duration = 3650
+			hidden = yes
+		}
+		capital_scope = {
+			change_religion = FROM
+		}
+	}
 }
 # ROOT = province, FROM = country
 on_trade_good_changed = {

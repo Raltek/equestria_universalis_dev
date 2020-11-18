@@ -10,8 +10,8 @@ fixed_capital = 473
 
 520.12.24 = {
 	monarch = {
-		name = "Chrysanthemum Petal"
-		dynasty = "Blessedic"
+		name = "Petal"
+		dynasty = "Blessed"
 		birth_date = 468.6.14
 		adm = 3
 		dip = 1
@@ -35,8 +35,8 @@ fixed_capital = 473
 }
 520.12.26 = {
 	heir = {
-		name = "Ink Flow"
-		dynasty = "Blessedic"
+		name = "Flow"
+		dynasty = "Blessed"
 		birth_date = 491.8.12
 		adm = 3
 		dip = 3

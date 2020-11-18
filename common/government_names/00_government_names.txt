@@ -62,7 +62,7 @@ griffon_county = {
 			tag = PUL
 			tag = TAR
 			tag = GRW
-			
+			tag = BLH
 		}
 	}
 }
