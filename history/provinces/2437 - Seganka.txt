@@ -4,9 +4,9 @@ culture = prancestrasian
 religion = nimbusian_pantheon
 add_core = PNY
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 2
+base_production = 3
+base_manpower = 3
 is_city = yes
 
 discovered_by = riverpony discovered_by = minotaur

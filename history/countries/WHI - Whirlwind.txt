@@ -5,8 +5,8 @@ technology_group = riverpony
 unit_type = eastern
 primary_culture = ioneighan
 religion = nimbusian_pantheon
-capital = 2358
-fixed_capital = 2358
+capital = 4692
+fixed_capital = 4692
 
 530.6.20 = {
 	monarch = {

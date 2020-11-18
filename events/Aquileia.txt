@@ -91,6 +91,7 @@ country_event = { #Aquileia breaks apart in the aftermath of the Discret Takeove
 		WST = { grant_independence = yes }
 		POM = { grant_independence = yes }
 		TAR = { grant_independence = yes }
+		LOI = { grant_independence = yes }
 		create_vassal = RLA
 		create_vassal = VNV
 		create_vassal = FLW

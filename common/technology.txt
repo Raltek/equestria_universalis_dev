@@ -27,7 +27,7 @@ groups = {
 	}
 
 	changeling = {
-		start_level = 3
+		start_level = 2
 		start_cost_modifier = 0.20
 		nation_designer_unit_type = eastern
 	}
@@ -66,7 +66,7 @@ groups = {
 	}
 
 	riverpony = { # Eastern Ponies
-		start_level = 3
+		start_level = 2
 		start_cost_modifier = 0.20
 		nation_designer_unit_type = eastern
 	}

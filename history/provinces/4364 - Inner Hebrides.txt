@@ -1,0 +1,13 @@
+owner = HAU
+controller = HAU
+culture = hauklandish
+religion = old_believer
+add_core = HAU
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = riverpony
+discovered_by = griffon

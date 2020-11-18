@@ -1,6 +1,6 @@
 owner = WHI
 controller = WHI
-culture = ioneighan
+culture = iofosian
 religion = nimbusian_pantheon
 add_core = WHI
 hre = no

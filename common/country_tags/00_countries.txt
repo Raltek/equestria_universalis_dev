@@ -43,6 +43,7 @@ ICT = "countries/Icetail.txt"
 ELF = "countries/Elf_Lake.txt"
 WNT = "countries/Winterhold.txt"
 ARC = "countries/Arcturian.txt"
+HAU = "countries/Haukland.txt"
 
 # Heartlands
 VIN = "countries/Vinnin.txt"
@@ -202,3 +203,4 @@ LUS = "countries/Lushi.txt"
 BRO = "countries/Brodfeld.txt"
 SYD = "countries/Sydia.txt"
 KIV = "countries/Kivessin.txt"
+ZAP = "countries/Zaphzia.txt"

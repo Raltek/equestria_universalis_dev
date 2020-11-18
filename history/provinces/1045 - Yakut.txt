@@ -1,11 +1,11 @@
 owner = PNY
 controller = PNY
-culture = prancestrasian
+culture = iofosian
 religion = nimbusian_pantheon
 add_core = PNY
 hre = no
 base_tax = 1
-base_production = 1
+base_production = 2
 base_manpower = 1
 is_city = yes
 

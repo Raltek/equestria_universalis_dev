@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = elective_monarchy
 government_rank = 1
-technology_group = griffon
+technology_group = olenian
 unit_type = western
 primary_culture = austurlander
 religion = olenian

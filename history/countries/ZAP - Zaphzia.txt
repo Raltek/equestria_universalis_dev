@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 2
+technology_group = griffon
+primary_culture = zaphzian
+religion = old_believer
+capital = 468
+fixed_capital = 468
+
+530.6.20 = {
+	monarch = {
+		name = "Ryurik"
+		dynasty = "Kaivsky"
+		
+		birth_date = 478.10.5
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}
+
+

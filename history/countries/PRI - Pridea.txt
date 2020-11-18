@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 technology_group = griffon
 primary_culture = pridean
+government_rank = 1
 religion = archonate
 capital = 195 # Pridée
 

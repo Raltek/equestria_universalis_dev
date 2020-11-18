@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 technology_group = griffon
 primary_culture = flowenois
+government_rank = 1
 add_accepted_culture = vinovian
 religion = archonate
 capital = 2967 # Westkeep

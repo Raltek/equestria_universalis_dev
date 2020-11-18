@@ -79,11 +79,17 @@ north_griffon = {
 		}
 	}
 	hauklandish = {
+		primary = HAU
 		male_names = {
-			Tomas Ulrik
+			Tomas Ulrik Louis Mathias Matthew Meinwerk Merten Martin Michael Norbert Ordulf 
+		Philip Renard Reinmar Roger Sigbert Sigisbert
+		Sigfrid Siegfried Sigward Sigurd Simon Steffen Thomas Waldemar
+		Werner Victor Werneke Weybrecht Wichbert Wichmann Wigebert Wolter Walter Wulff Ulf
 		}
 		female_names = {
-			Elisabet Gunhild
+			Elisabet Gunhild Christina Ulrika Eleonora Hedwig
+			Anna Asta Astrid Beata Birgitta Brigid Bothild Cecilia Elin Helena Holmfrid Iliana Inga 
+			Ingeborg Ingegerd Ingfrid Ingrid Karin Katarina Kristina Linda 
 		}
 	}
 	tarpean = {
@@ -738,6 +744,62 @@ highpony_group = {
 			Stiubhart Singlear Sutherlarach
 		}
 	}
+	iofosian = {
+
+		male_names = {
+			Aonghas Alasdair Ailbeart Adhamh Ailean Anndra Arailt Artair Aaron Amhlaidh Ailpein
+			Bhaltair Boisil Brian Benneit Beathan Boisil Brus Bruadar Breacan Bearnard Bhaltair
+			Cresdean Calum Conan Conal Cormac Cailean
+			Domhnall Donnchadh Dughall Daibhidh Diarmid Dolan Daniel Deorsa Dughlas
+			Eoghan Eobhann Eideard Eachann Eoin Eosaph Eanruig Ellair
+			Fearchar Faolan Fearghas Fionn Filib Frangan Friseal Fionnlagh
+			Gillebríghde Gillechreosd Gillecallum Gilleasp Gilleandrais Garbhan Goiridh Griogair
+			Hamish Harailt Horas
+			Iain Iacob Iosag Iomhar Iosaph Iona
+			Lucais Labhrainn
+			Maoilios Murchadh Martain Mascual Marcus Mata Mecheil Morgan Mungan Murchadh
+			Neacal Niall Niallghas
+			Oilbhreis Oisean
+			Padraig Pol Peadar
+			Raibeart Ruadh Ruaraidh Raghnall Ruiseart
+			Seumas Seoras Somhairle Seleas Samuel Sachairi Steaphan
+			Thomais Tadhg Toibaid
+			Uilleam Uisdean
+		}
+		female_names = { 
+			
+			Anna
+			Beathag Baraball Bearnas Beitiris Bhioctoria Brighde
+			Catreona Ceit Coinneach Claimha
+			Deirdre Deoiridh Diorbhail
+			Ealasaid Cibhlin Eubh
+			Floraidh Floireans Fionnaghal Frangag Fionnghuala
+			Gormal Gormlaith Giorsal
+			Iseabail 
+			Liusaidh Leagsaidh Leitis Lucrais Leosa
+			Mairead Marsail Marta Milread Moibeal Moire Mor Mairi
+			Nansaidh
+			Olibhia Oighrig
+			Peanaidh
+			Rut Raonaid Rebeca
+			Seonag Sorcha Sene Siusan Seleas
+			Tearlag Teasag
+			Una
+		}
+		dynasty_names = {
+			Arasgain
+			Bochanan Beitean Brus
+			Caimbeul Cinneide Caimbeulach Comyn Cochran
+			Donohoe Dernly
+			Gordan Grannd Guinne
+			Haig
+			Lamont
+			NicCongáil NicDhiarmaid Moireach NicPharlain NicLeoid NicDhomhnaill NicDhonnachaidh Munro NicNab
+			Ncill
+			Rothach Ros
+			Stiubhart Singlear Sutherlarach
+		}
+	}
 
 	wittenlandic = {
 		primary = WIT
@@ -1226,6 +1288,24 @@ evian_group = {
 			Soimescu Leuescu Codreanu Ghica Vacarescu
 			Golescu Dumbravean Muntean
 		}
+	}
+	zaphzian = {
+		primary = ZAP
+		male_names = {
+			Ivan Dmitriy Yuriy Andrei Semen Boris Fyodor Oleg Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy 
+			Dorofey Feodosiy Feofilakt Gavriil Innokentiy Iosif Lavrentiy Makariy Matveiy Mikhail Nazariy 
+			Onisim Pavel Prokopiy Pyotr Radomir Saveliy Sergei Terentiy Valeriy Yakim Yevgeniy Yaroslav Yaropolk 
+			Vyacheslav Vsevolod Igor Izyaslav Rostislav Vladimir Mstislav Gleb Roman Ryurik Svyatoslav Ingvar 	
+			Stanislav Daniil Nikifor
+		}
+		female_names = {
+			Gavriila Larisa Aleksandra Alla Bronislava Svetlana Yuliya Yaroslava Vladislava Lyudmila Nadejda Rostislava
+		}
+	
+		dynasty_names = {
+			Bulba Krawvelets Grifnitsky Vereskopadsky Thrushkevsky Preenliura Sikorwing Greywing Kreenakh Stalskaw Antoninov Klawrolev Uklawichenko Protko Kestral Shiblin Kozbeak
+		}
+
 	}
 }
 

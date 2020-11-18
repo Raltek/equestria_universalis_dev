@@ -4,9 +4,9 @@ culture = ioneighan
 religion = nimbusian_pantheon
 add_core = ION
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 3
+base_manpower = 2
 is_city = yes
 
 center_of_trade = 2

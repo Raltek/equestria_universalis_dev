@@ -1,0 +1,13 @@
+owner = ZAP
+controller = ZAP
+culture = zaphzian
+religion = old_believer
+add_core = ZAP
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 5
+is_city = yes
+center_of_trade = 1
+discovered_by = riverpony discovered_by = minotaur
+discovered_by = griffon

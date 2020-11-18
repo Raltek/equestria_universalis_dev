@@ -6,9 +6,9 @@ culture = bakaran
 religion = waveism
 add_core = BAK
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
+base_tax = 5
+base_production = 3
+base_manpower = 3
 is_city = yes
 
 discovered_by = riverpony discovered_by = minotaur

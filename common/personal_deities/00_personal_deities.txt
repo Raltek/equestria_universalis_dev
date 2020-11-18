@@ -140,6 +140,7 @@ eviliana =
 	allow = {
 		OR = {
 			primary_culture = prywhenian
+			primary_culture = zaphzian
 		}
 		OR = {
 			religion = archonate
