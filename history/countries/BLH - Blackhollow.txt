@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = griffon
 primary_culture = gruselberger
 religion = archonate
-capital = 4531 # Blackhollow
+capital = 160 # Blackhollow
 
 530.6.20 = {
 	monarch = {
