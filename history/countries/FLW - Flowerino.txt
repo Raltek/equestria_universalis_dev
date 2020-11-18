@@ -5,15 +5,3 @@ government_rank = 1
 primary_culture = flowenois
 religion = archonate
 capital = 81 # Flowerino
-
-530.6.20 = {
-	monarch = {
-		name = "Raimbaut II"
-		dynasty = "de Mauléone"
-		birth_date = 490.3.11
-		adm = 2
-		dip = 1
-		mil = 1
-		
-	}
-}

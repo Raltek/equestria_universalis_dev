@@ -4,7 +4,7 @@ tags={
 	"Map"
 }
 name="Equestria Universalis [Dev]"
-supported_version="1.29.3"
+supported_version="1.30"
 path="mod/equestria_universalis_dev"
 replace_path="history/provinces"
 replace_path="history/diplomacy"
@@ -12,7 +12,7 @@ replace_path="history/wars"
 replace_path="history/advisors"
 
 replace_path="decisions"
-replace_path="events"
+#replace_path="events"
 replace_path="missions"
 
 replace_path="common/client_states"

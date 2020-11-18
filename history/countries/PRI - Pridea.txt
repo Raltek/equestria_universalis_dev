@@ -5,15 +5,3 @@ primary_culture = pridean
 government_rank = 1
 religion = archonate
 capital = 195 # Pridée
-
-530.6.20 = {
-	monarch = {
-		name = "Jean II"
-		dynasty = "le Corsaire"
-		birth_date = 490.3.11
-		adm = 1
-		dip = 2
-		mil = 4
-		
-	}
-}

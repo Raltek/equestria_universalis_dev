@@ -1,5 +1,5 @@
 NDefines.NGame.START_DATE = "535.1.1"
-NDefines.NGame.END_DATE = "912.1.2"
+NDefines.NGame.END_DATE = "907.1.1"
 
 NDefines.NFrontend.CAMERA_LOOKAT_X = 2690.0
 NDefines.NFrontend.CAMERA_LOOKAT_SETTINGS_X = 2690.0

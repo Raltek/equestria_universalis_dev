@@ -133,7 +133,7 @@ herzlander = {
 			Johann Karl Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang 
 			Andreas Bruno Burkhard Günther Lukas Micharl Reimund Ulrich Wilfried Wolfram Konrad Edwin 
 			Marcus Osmund Peter Ralph Reginald Sigehelm Wulfhelm Wulfhere Alfred
-			Alwin Adémar Adolf Albert Arnold Baltasar
+			Alwin Ademar Adolf Albert Arnold Baltasar
 			Benedict Bernd Bernard Bernhard Bertold Bertram Bertrand Burchard 
 			Claus Nicholas Cobbo Cord Dietmar Diederik Ekkehard Ekbert Engelbert Engelhard 
 			Erik Ewald Frederick Gerard Gebhard Giselmar Gottschalk Hans 
@@ -155,7 +155,7 @@ herzlander = {
 			Raphael Karl Kajetan
 			Otto Heinrich Werner Alfred Benedikt Dietrich 
 			Florian Gerhard Immanuel Johan Leonhard Nikolaus Paul Ruprecht Stefan Thomas Ulrich 
-			Vinzenz André Charles Didier Emmanuel Frédéric Gérard Henri Jules Matthieu Nicolas Pascal 
+			Vinzenz Andre Charles Didier Emmanuel Frederic Gerard Henri Jules Matthieu Nicolas Pascal 
 			Vincent Claudio Edmondo Leonardo Timoteo
 		}
 		
@@ -234,7 +234,7 @@ herzlander = {
 		Johann Karl Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang 
 		Andreas Bruno Burkhard Günther Lukas Micharl Reimund Ulrich Wilfried Wolfram Konrad Edwin 
 		Marcus Osmund Peter Ralph Reginald Sigehelm Wulfhelm Wulfhere Alfred
-		Alwin Adémar Adolf Albert Arnold Baltasar
+		Alwin Ademar Adolf Albert Arnold Baltasar
 		Benedict Bernd Bernard Bernhard Bertold Bertram Bertrand Burchard 
 		Claus Nicholas Cobbo Cord Dietmar Diederik Ekkehard Ekbert Engelbert Engelhard 
 		Erik Ewald Frederick Gerard Gebhard Giselmar Gottschalk Hans 
@@ -252,7 +252,7 @@ herzlander = {
 		Bernadette Berta Bertha Bettina Bianca Bianka Birgit Brigitte Britta Brunhild Brünhild Brunhilde Brünhilde Cäcilia 
 		Cäcilie Caren Carina Carla Carmen Carolin Caroline Catarina Catharina Cathrin Catrin Cecilia Cecilie Celina Celine 
 		Charlotte Chiara Christa Christel Christiane Christina Christine Clara Claudia Constanze Cordula Corina Corinna 
-		Cornelia Dagmar Daniela Denise Desirée Désirée Diana Dietlind Dietlinde Dora Doris Dorothea Edda Edith Elena 
+		Cornelia Dagmar Daniela Denise Desiree Desiree Diana Dietlind Dietlinde Dora Doris Dorothea Edda Edith Elena 
 		Eleonora Eleonore Elfriede Elisa Elisabeth Elise Elke Ella Ellen Elli Elly Elma Elsa Elsbeth Else Elvira Emelie 
 		Emely Emilia Emilie Emily Emma Emmeline Emmi Emmy Erdmute Erica Erika Erna Ester Esther Eugenie Eva Evelyn 
 		Fabienne Fanny Felicia Felicitas Felizia Felizitas Finja Finnja Fiona Flora Florentina Florentine Franziska Frauke 
@@ -321,7 +321,7 @@ wingbardian = {
 		Guoso Gallisto Gamillo Gandido Gangrande Garlo Gassio Gastore Gataldo Gatone Gecco 
 		Ghiaffredo Ghiano Giro Giuccio Glaudio Glemente Gostanzo Gesare
 		Gomita Gonone Gornelio Gorradino Gorrado Gosimo Gosma Gostante Gostantino 
-		Gristoforo Gamiano Gavide Gemetrio Gioniso Goménico 
+		Gristoforo Gamiano Gavide Gemetrio Gioniso Gomenico 
 		Gurante Gedoardo Gelio Gemmanuele Gennio Genrico Genzio Genzo Gercole 
 		Germenegildo Gettore Geugenio Gezio Gezzelino Griffabrizio Griffausto Griffederigo
 		Griffelice Grifferdinando Grifferruccio Griffilippo Griffiorello Grifflavio Griffolco Griffortunato 
@@ -386,9 +386,9 @@ aquileian = {
 	aquilan = {
 		primary = AQU
 		dynasty_names = {
-			"de Vyzima" "de Trébourg" "de la Tour" "du Lion" 
+			"de Vyzima" "de Trebourg" "de la Tour" "du Lion" 
 			"des Andes" "de la Foi" "de Montfort" "du Carmagnac" "de Penthievre" "de Dreux"
-			"de la Trêve" "du Grandé" "du Règne" "d'Escoubleau" "de Neufville" "de Rila"
+			"de la Trêve" "du Grande" "du Règne" "d'Escoubleau" "de Neufville" "de Rila"
 		}
 	}
 	rilan = {
@@ -411,45 +411,45 @@ aquileian = {
 	}
 
 	dynasty_names = {
-		"de Louvie" "de Flovénie" "de Montbéliard" "de Bécignier" 
-		"de La Trémoille" "de Créquy" "de Broglie" "de Nicolaÿ"
+		"de Louvie" "de Flovenie" "de Montbeliard" "de Becignier" 
+		"de La Tremoille" "de Crequy" "de Broglie" "de Nicolaÿ"
 		"de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
 		"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
-		"de Barrau" "de Réquigny" "de Rougé" "du Quenoy" "de Ficquelmont"
+		"de Barrau" "de Requigny" "de Rouge" "du Quenoy" "de Ficquelmont"
 		"de Talleyrand" "d'Aubegny" "d'Erie" "de Montmorency" "de Marigny"
-		"de Beauharnais" "l'Aviengriffe" "Ailecramé"
+		"de Beauharnais" "l'Aviengriffe" "Ailecrame"
 	}
 	male_names = {
-		Édouard Érrard Étienne Adémar Adrien Aimery Alain 
-		Aldebert Aldéric Alphonse Amaury Amédée Ancel André Antoine Archambaud Arnaud 
-		Arnault Arnoul Aubry Aymar Barthélémi Baudouin Benoît Bérenger Bernard Bertrand Bohemond 
+		edouard errard etienne Ademar Adrien Aimery Alain 
+		Aldebert Alderic Alphonse Amaury Amedee Ancel Andre Antoine Archambaud Arnaud 
+		Arnault Arnoul Aubry Aymar Barthelemi Baudouin Benoît Berenger Bernard Bertrand Bohemond 
 		Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 
-		Frédéric Gaucher Gaucelin Gauthier Geoffroi Géraud Gilbert Gilles Godefroi
-		Guichard Guiges Guilhem Guillaume Guy Hélie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
-		Jaufré Jaspert Jean Jourdain Julien Léon Léonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
-		Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiébaut 
+		Frederic Gaucher Gaucelin Gauthier Geoffroi Geraud Gilbert Gilles Godefroi
+		Guichard Guiges Guilhem Guillaume Guy Helie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
+		Jaufre Jaspert Jean Jourdain Julien Leon Leonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
+		Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiebaut 
 		Thierry Thomas Valeran Yves Donatien Josèphe Damien Roche Camille Lucien Lucas
 	}
 	female_names = {
-		Éléonore Élodie Étiennette Adèle Adalmode Adelaide Adelinde 
-		Agnès Aléarde Alice Aliénor Agath
+		Eleonore Elodie Etiennette Adèle Adalmode Adelaide Adelinde 
+		Agnès Alearde Alice Alienor Agath
 		Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde 
-		Béatrice Béatrix Belleassez Benoîte Bérengère
-		Berthe Blanche Bonne Bourgogne Bourguigne Cécile Cathèrine 
-		Charlotte Chloé Constance Denise Douce Echive Eglantine
+		Beatrice Beatrix Belleassez Benoîte Berengère
+		Berthe Blanche Bonne Bourgogne Bourguigne Cecile Cathèrine 
+		Charlotte Chloe Constance Denise Douce Echive Eglantine
 		Elisabeth Emma Ermengarde Ermessinde Esclarmonde 
-		Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Héloise Helvis Hodierne Ide Ildégarde
+		Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Heloise Helvis Hodierne Ide Ildegarde
 		Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe Maryline
-		Mascarose Mathilde Mélisande Mélisende Mélusine Péronelle Pernelle Perinne Pernette Plaisance 
-		Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
-		Jade Maelle Phrégate Camille
+		Mascarose Mathilde Melisande Melisende Melusine Peronelle Pernelle Perinne Pernette Plaisance 
+		Raymonde Sarrazine Solène Sophie Stephanie Sybille Tiburge Valence Yolande
+		Jade Maelle Phregate Camille
 	}
 }
 griffon_celtic = {
 	pomovarran = {
 		primary = POM
 		dynasty_names = {
-			"Rohan" "Penteur" "Leon" "Roazhon" "Poutrecoet" "Naoned" "Leon" "de Dinan" "de Vitré"
+			"Rohan" "Penteur" "Leon" "Roazhon" "Poutrecoet" "Naoned" "Leon" "de Dinan" "de Vitre"
 			"de Rohan" "de Porhoët" "de Châteaubriant" "Guennec" "Pensec" "de Cornouaille" 
 			"de Tannes" "de Pomovarrie"  "Sant Nazar" "Tanguy"  "Hennebont" "Gwened" "de Sèbles" "de Rieux"
 		}
@@ -738,7 +738,7 @@ highpony_group = {
 			Gordan Grannd Guinne
 			Haig
 			Lamont
-			NicCongáil NicDhiarmaid Moireach NicPharlain NicLeoid NicDhomhnaill NicDhonnachaidh Munro NicNab
+			NicCongail NicDhiarmaid Moireach NicPharlain NicLeoid NicDhomhnaill NicDhonnachaidh Munro NicNab
 			Ncill
 			Rothach Ros
 			Stiubhart Singlear Sutherlarach
@@ -794,7 +794,7 @@ highpony_group = {
 			Gordan Grannd Guinne
 			Haig
 			Lamont
-			NicCongáil NicDhiarmaid Moireach NicPharlain NicLeoid NicDhomhnaill NicDhonnachaidh Munro NicNab
+			NicCongail NicDhiarmaid Moireach NicPharlain NicLeoid NicDhomhnaill NicDhonnachaidh Munro NicNab
 			Ncill
 			Rothach Ros
 			Stiubhart Singlear Sutherlarach
@@ -848,7 +848,7 @@ varten_group = {
 		Vincentas Vilhelmas Vytenis Kestutis Viktoras Leonas Linas Bronislovas Darius 
 	}
 	female_names = {
-		Agné Morta Viltauté Agné Aldona Amalija Audra Aurelija Aušra Austeja Barbora Daina Daiva Dalia Danute Diana Doroteja 
+		Agne Morta Viltaute Agne Aldona Amalija Audra Aurelija Aušra Austeja Barbora Daina Daiva Dalia Danute Diana Doroteja 
 		Edita Egle Elena Elžbieta Elze Emilija Ernesta Estera Gabija Gabriele Giedre Gintare Ieva Ilona Inga Irena Jadvyga 
 		Janina Jelena Yelena Jolanta Julija Justina Kamile Karolina Katre Kotryna Kristina Laima Leja Lilija Lina Liucija 
 		Liudvika Margarita Marija Marijona Melanija Migle Milda Monika Morta Ona Rasa Regina Rozalija Rože Ruta Sandra Saule 
@@ -1025,7 +1025,7 @@ olenian_group = {
 				Gandalfr Geirr Georg George Gnupa Gorm Greger Gregory Grimr Grim Godfrey Guðmundr 
 				Gudmund Gudröd Gunnarr Gunnar Hakon Halsten Haraldr Harold Haukr Helgi Helge Hemming 
 				Holmger Hrafn Hrolfr Rolf Hrane Hæsteinn Hjalmar Hysing 
-				Ingólfr Ingolf Ingemar Ingjald Ivar Jedvard Edward Jon John Karl Charles Kettil Kettilmund 
+				Ingolfr Ingolf Ingemar Ingjald Ivar Jedvard Edward Jon John Karl Charles Kettil Kettilmund 
 				Kjartan Klas Knut Kol Kolbjörn Magnus Markus Marcus Mats Matthew Nils Niklas Nicholas Oddr 
 				Odd Ofeig Olafr Olaf Ormr Orm Ottarr Ottar Refr Refil Ragnarr Ragnar Rikulfr Rögnvaldr 
 				Ragnvald Skuli Skule Snorri Sigbjörn Sigtrygg Sigurðr Sigurd Starkad Steinn Sten 
@@ -1066,36 +1066,36 @@ changeling_group = {
 	greneclyf = {
 	primary = NCH
 		male_names = {
-					Turlough Donal Muireadhach Conchobhar Feidlimidh Cathaoir Muchadh Áed Fonnchadh Brian Criomhthann Art Cathal 
-					Gearóid Muiris Tadhg Seán Niall Einrí Conn Eoghan Aonghus Comhghall Maeleachlain Diarmaid Flann Aerdghal 
-					Bearach Caoímhin Donnabhain Eíhmhín Fearghal Iarfhlaith Lorccán Mathúin Naomhán Oisín Pádraig Ríagáin 
+					Turlough Donal Muireadhach Conchobhar Feidlimidh Cathaoir Muchadh aed Fonnchadh Brian Criomhthann Art Cathal 
+					Gearoid Muiris Tadhg Sean Niall Einrí Conn Eoghan Aonghus Comhghall Maeleachlain Diarmaid Flann Aerdghal 
+					Bearach Caoímhin Donnabhain Eíhmhín Fearghal Iarfhlaith Lorccan Mathúin Naomhan Oisín Padraig Ríagain 
 					Somhairle
 		}
 		female_names = {
-			Saraid Órfhlaith Fedelma
-			Ablach Áedammair Affraic Euphemia Aíbinn Aibilín Eva Aileann Áine Agnes Anlaith Aróc Aíbinn 
-			Barrdub Ben-Laigen Ben-Míde Ben-Muman Ben-Ulad Brigit Brigit Bé-Fáil Bébinn Cacht 
-			Caillech-Fhinnéin Cainnech Caisséne Caitilín Catherine Caíntigern Caírech Cathán Catríona 
-			Catherine Cellach Ciar Cnes Coblaith Cobflaith Cobflaith Cobflaith Conchenn Condál Crínóch 
-			Crístina Christina Cumman Deirdre Der-bForgaill Devorguilla Derbáil Derborgaill Devorguilla 
+			Saraid orfhlaith Fedelma
+			Ablach aedammair Affraic Euphemia Aíbinn Aibilín Eva Aileann aine Agnes Anlaith Aroc Aíbinn 
+			Barrdub Ben-Laigen Ben-Míde Ben-Muman Ben-Ulad Brigit Brigit Be-Fail Bebinn Cacht 
+			Caillech-Fhinnein Cainnech Caissene Caitilín Catherine Caíntigern Caírech Cathan Catríona 
+			Catherine Cellach Ciar Cnes Coblaith Cobflaith Cobflaith Cobflaith Conchenn Condal Crínoch 
+			Crístina Christina Cumman Deirdre Der-bForgaill Devorguilla Derbail Derborgaill Devorguilla 
 			Der-Ilei Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla 
-			Dúinsech Dúnlaith Echrad Éibhleann Eilionora Eleanor Eithne Eithne Ellbríg Emer Emer Étaín 
+			Dúinsech Dúnlaith Echrad eibhleann Eilionora Eleanor Eithne Eithne Ellbríg Emer Emer etaín 
 			Eva Euginia Eugenia Faílenn Fedelm Finneacht Finnguala Finnguala Flann Forbflaith Fíne Garb 
-			Gelgéis Gerróc Gnathnad Gormflaith Gormflaith Gormlaith Gormflaith Gráinne Imag Íte Lann 
+			Gelgeis Gerroc Gnathnad Gormflaith Gormflaith Gormlaith Gormflaith Grainne Imag Íte Lann 
 			Lasairfíona Lathir Lerben Lerthan Lígach Lucia Lucia Martha Martha Mauda Matilda Muadhnait 
-			Muirenn Murron Muirgel Muriel Muirne Morna Máel-Mide Máel-Muire Malmure Máire Maria Máiread 
-			Máirgred Margaret Mór Mor Mór-Muman Nárbflaith Nuala Finnguala Órlaith Órnat Róis Ros Sadb 
-			Samthann Scáthach Sébdann Selblaith Seonaid Joan Sinech Siobán Joan Sisuile Sláíne Slaine 
-			Sorcha Suaibsech Sáerlaith Sétach Síthmaith Tailefhlaith Tailltiu Temair Tuathflaith Tómnat 
-			Uallach Uasal Úna Una Mona Éua
+			Muirenn Murron Muirgel Muriel Muirne Morna Mael-Mide Mael-Muire Malmure Maire Maria Mairead 
+			Mairgred Margaret Mor Mor Mor-Muman Narbflaith Nuala Finnguala orlaith ornat Rois Ros Sadb 
+			Samthann Scathach Sebdann Selblaith Seonaid Joan Sinech Sioban Joan Sisuile Slaíne Slaine 
+			Sorcha Suaibsech Saerlaith Setach Síthmaith Tailefhlaith Tailltiu Temair Tuathflaith Tomnat 
+			Uallach Uasal Úna Una Mona eua
 		}
 		dynasty_names = { 
 			"O'Donnell" "O'Neill" "O'Connor" "O'Brien" MacLochlainn MacMurrough MacWilliam
 			MacNamara "O'Reilly"  "FitzGerald" Kelly
-			"Meic Bráenáin" "MacMorrough Kavanagh" "Dál gCais" "Ua Fáeláin" "Shannon"
+			"Meic Braenain" "MacMorrough Kavanagh" "Dal gCais" "Ua Faelain" "Shannon"
 			"FitzPatrick" "O Ruairc" "O'More" "O' Conchobair" "MacDermot" "O' Cellaigh"
 			"Mac Sweeney" "O'Doherty" "Burke" "O' Cathail" "O'Clery" "Mac Egan" "O' Fergail"
-			"O'Flaherty" "O' Gallchobhair" "Cotter" "O' Faoláin" "MacIntyre" "O'Queely"
+			"O'Flaherty" "O' Gallchobhair" "Cotter" "O' Faolain" "MacIntyre" "O'Queely"
 			"Corcu Loígde"
 		}
 
@@ -1106,43 +1106,28 @@ griffonstone_group = {
 	graphical_culture = westerngfx
 	griffonstone = {
 		primary = BOI
-		male_names = {  Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
-			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
-			Ancietus Reinhold August Elias Harald Eggert Konrad Fritz Cornelius Erhard Horst Herbert Rolf
-			Wilhelm Erwin Wolfgang Kalus Friedrich Rikard Siegfried Gustav Heinrich Waldemar Theodor Ludwig 
-			Oskar Ferdinand Albrecht Reinhardt Strom
-		}
-		female_names = { 
-			Jessica Emma Hanna Sofia Marie Iris Elsa Victoria Karin Ingrid Margarethe Edith Erna Mia Theresa
-			Pauline Louisa Luoise Clara Sara Karja Eva Sophie Carla Gretchen Kathrine Heidi Lorelei Regitze Ilsa Wilhelmina 
-			Ulrike Sieglinde Wanda Ulla Ingeborg Charlotte Hedwig Irene Rita Anne Elsbeth Elisabeth Rosa Sonja Barbara Brunhilde
-		}
-		dynasty_names = {
-			Greytalon Mistfeather Stormfeather Raincrest Hellcrest Bronzetail Thundertail Mudbeak Helltalon Duskwing
-			Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
-			Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing
-		}
+		
 	}
 	gruselberger = {
 		primary = BLH
-		male_names = {  
-			Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
-			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
-			Ancietus Reinhold August Elias Harald Eggert Konrad Fritz Cornelius Erhard Horst Herbert Rolf
-			Wilhelm Erwin Wolfgang Kalus Friedrich Rikard Siegfried Gustav Heinrich Waldemar Theodor Ludwig 
-			Oskar Ferdinand Albrecht Reinhardt Strom
-		}
-		female_names = { 
-			Jessica Emma Hanna Sofia Marie Iris Elsa Victoria Karin Ingrid Margarethe Edith Erna Mia Theresa
-			Pauline Louisa Luoise Clara Sara Karja Eva Sophie Carla Gretchen Kathrine Heidi Lorelei Regitze Ilsa Wilhelmina 
-			Ulrike Sieglinde Wanda Ulla Ingeborg Charlotte Hedwig Irene Rita Anne Elsbeth Elisabeth Rosa Sonja Barbara Brunhilde
-		}
-		dynasty_names = {
-			Greytalon Mistfeather Stormfeather Raincrest Hellcrest Bronzetail Thundertail Mudbeak Helltalon Duskwing
-			Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
-			Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing
-		}
 	}	
+	male_names = {  
+		Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
+		Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
+		Ancietus Reinhold August Elias Harald Eggert Konrad Fritz Cornelius Erhard Horst Herbert Rolf
+		Wilhelm Erwin Wolfgang Kalus Friedrich Rikard Siegfried Gustav Heinrich Waldemar Theodor Ludwig 
+		Oskar Ferdinand Albrecht Reinhardt Strom
+	}
+	female_names = { 
+		Jessica Emma Hanna Sofia Marie Iris Elsa Victoria Karin Ingrid Margarethe Edith Erna Mia Theresa
+		Pauline Louisa Luoise Clara Sara Karja Eva Sophie Carla Gretchen Kathrine Heidi Lorelei Regitze Ilsa Wilhelmina 
+		Ulrike Sieglinde Wanda Ulla Ingeborg Charlotte Hedwig Irene Rita Anne Elsbeth Elisabeth Rosa Sonja Barbara Brunhilde
+	}
+	dynasty_names = {
+		Greytalon Mistfeather Stormfeather Raincrest Hellcrest Bronzetail Thundertail Mudbeak Helltalon Duskwing
+		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
+		Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing
+	}
 }
 
 sicameonese_group = {
@@ -1151,20 +1136,20 @@ sicameonese_group = {
 		primary = ARN
 		male_names = {
 			Sebastian Matias Nicolas Samuel Joaquin Martin Jeronimo Emmanuel Maximiliano Rodrigo
-			Agustín Alberto Alejandro Alfonso Álvaro Antonio Arsenio Augusto Baldomero
-			Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
-			Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
+			Agustín Alberto Alejandro Alfonso alvaro Antonio Arsenio Augusto Baldomero
+			Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Damaso
+			Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Felix Fernando Francisco
 			Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-			Joaquín José  Juan Julio Leopoldo Lorenzo 
-			Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
-			Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente 
+			Joaquín Jose  Juan Julio Leopoldo Lorenzo 
+			Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolas Pablo Pascual
+			Pedro Rafael Raimundo Ramon Ricardo Santiago Sebastian Segismundo Valeriano Vicente 
 		}
 	
 		female_names = { 
 			Sofia Mariana Gabriela Victoria Lucia Sara Samantha Emma Catalina Julieta Antonella
-			Adelita Araceli Belén Camila Candelaria Chavela Consuelo Cristina Delfina Esperanza
+			Adelita Araceli Belen Camila Candelaria Chavela Consuelo Cristina Delfina Esperanza
 			Fidelia Graciela Irene Isadora Isabella Jimena Ximena Luciana Lucrecia María Marisol
-			Noemí Nohemi Valentina Valeria Rocío Socorro Sofía Teófila Amaranta Úrsula Rebeca Remedios
+			Noemí Nohemi Valentina Valeria Rocío Socorro Sofía Teofila Amaranta Úrsula Rebeca Remedios
 		}
 		dynasty_names = {
 			Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar
@@ -1174,20 +1159,20 @@ sicameonese_group = {
 		primary = MIO
 		male_names = {
 			Sebastian Matias Nicolas Samuel Joaquin Martin Jeronimo Emmanuel Maximiliano Rodrigo
-			Agustín Alberto Alejandro Alfonso Álvaro Antonio Arsenio Augusto Baldomero
-			Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
-			Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
+			Agustín Alberto Alejandro Alfonso alvaro Antonio Arsenio Augusto Baldomero
+			Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Damaso
+			Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Felix Fernando Francisco
 			Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-			Joaquín José  Juan Julio Leopoldo Lorenzo 
-			Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
-			Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente 
+			Joaquín Jose  Juan Julio Leopoldo Lorenzo 
+			Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolas Pablo Pascual
+			Pedro Rafael Raimundo Ramon Ricardo Santiago Sebastian Segismundo Valeriano Vicente 
 		}
 	
 		female_names = { 
 			Sofia Mariana Gabriela Victoria Lucia Sara Samantha Emma Catalina Julieta Antonella
-			Adelita Araceli Belén Camila Candelaria Chavela Consuelo Cristina Delfina Esperanza
+			Adelita Araceli Belen Camila Candelaria Chavela Consuelo Cristina Delfina Esperanza
 			Fidelia Graciela Irene Isadora Isabella Jimena Ximena Luciana Lucrecia María Marisol
-			Noemí Nohemi Valentina Valeria Rocío Socorro Sofía Teófila Amaranta Úrsula Rebeca Remedios
+			Noemí Nohemi Valentina Valeria Rocío Socorro Sofía Teofila Amaranta Úrsula Rebeca Remedios
 		}
 		dynasty_names = {
 			Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar
@@ -1197,20 +1182,20 @@ sicameonese_group = {
 		primary = TDT
 		male_names = {
 			Sebastian Matias Nicolas Samuel Joaquin Martin Jeronimo Emmanuel Maximiliano Rodrigo
-			Agustín Alberto Alejandro Alfonso Álvaro Antonio Arsenio Augusto Baldomero
-			Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
-			Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
+			Agustín Alberto Alejandro Alfonso alvaro Antonio Arsenio Augusto Baldomero
+			Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Damaso
+			Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Felix Fernando Francisco
 			Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-			Joaquín José  Juan Julio Leopoldo Lorenzo 
-			Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
-			Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente 
+			Joaquín Jose  Juan Julio Leopoldo Lorenzo 
+			Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolas Pablo Pascual
+			Pedro Rafael Raimundo Ramon Ricardo Santiago Sebastian Segismundo Valeriano Vicente 
 		}
 	
 		female_names = { 
 			Sofia Mariana Gabriela Victoria Lucia Sara Samantha Emma Catalina Julieta Antonella
-			Adelita Araceli Belén Camila Candelaria Chavela Consuelo Cristina Delfina Esperanza
+			Adelita Araceli Belen Camila Candelaria Chavela Consuelo Cristina Delfina Esperanza
 			Fidelia Graciela Irene Isadora Isabella Jimena Ximena Luciana Lucrecia María Marisol
-			Noemí Nohemi Valentina Valeria Rocío Socorro Sofía Teófila Amaranta Úrsula Rebeca Remedios
+			Noemí Nohemi Valentina Valeria Rocío Socorro Sofía Teofila Amaranta Úrsula Rebeca Remedios
 		}
 		dynasty_names = {
 			Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar
@@ -1221,20 +1206,20 @@ sicameonese_group = {
 		primary = ESC
 		male_names = {
 			Sebastian Matias Nicolas Samuel Joaquin Martin Jeronimo Emmanuel Maximiliano Rodrigo
-			Agustín Alberto Alejandro Alfonso Álvaro Antonio Arsenio Augusto Baldomero
-			Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
-			Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
+			Agustín Alberto Alejandro Alfonso alvaro Antonio Arsenio Augusto Baldomero
+			Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Damaso
+			Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Felix Fernando Francisco
 			Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-			Joaquín José  Juan Julio Leopoldo Lorenzo 
-			Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
-			Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente 
+			Joaquín Jose  Juan Julio Leopoldo Lorenzo 
+			Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolas Pablo Pascual
+			Pedro Rafael Raimundo Ramon Ricardo Santiago Sebastian Segismundo Valeriano Vicente 
 		}
 	
 		female_names = { 
 			Sofia Mariana Gabriela Victoria Lucia Sara Samantha Emma Catalina Julieta Antonella
-			Adelita Araceli Belén Camila Candelaria Chavela Consuelo Cristina Delfina Esperanza
+			Adelita Araceli Belen Camila Candelaria Chavela Consuelo Cristina Delfina Esperanza
 			Fidelia Graciela Irene Isadora Isabella Jimena Ximena Luciana Lucrecia María Marisol
-			Noemí Nohemi Valentina Valeria Rocío Socorro Sofía Teófila Amaranta Úrsula Rebeca Remedios
+			Noemí Nohemi Valentina Valeria Rocío Socorro Sofía Teofila Amaranta Úrsula Rebeca Remedios
 		}
 		dynasty_names = {
 			Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar
@@ -1248,15 +1233,15 @@ evian_group = {
 	lushian = {
 		primary = LUS
 		male_names = { 
-			László István József János Sándor Ferenc Zoltán Tibor Imre Lajor Gábor Gyorgy Gyula Attila András
+			Laszlo Istvan Jozsef Janos Sandor Ferenc Zoltan Tibor Imre Lajor Gabor Gyorgy Gyula Attila Andras
 		}
 	
 		female_names  = {
-			Mária Erzsébet Éva Katalin Ilona Zsuzsanna Anna Ildikó Judit Ágnes Margit Erika Julianna Edit Irén
+			Maria Erzsebet eva Katalin Ilona Zsuzsanna Anna Ildiko Judit agnes Margit Erika Julianna Edit Iren
 		}
 	
 		dynasty_names = {
-			Nagy Kovács Tóth Szabó Horváth Varga Kiss Molnár Németh Farkas Balogh Papp Takács
+			Nagy Kovacs Toth Szabo Horvath Varga Kiss Molnar Nemeth Farkas Balogh Papp Takacs
 		}
 
 	}
@@ -1321,10 +1306,10 @@ minotaur_group = {
          
 	}
 	male_names = {
-		Alexios Alexandros Evgénios Basílios Stratigós Ilías Stylianí Polémios Strátos Kýros Argos Skiódis Alíki Íkaros Bartholomoús Geórgios Giánnis Dimitrios Konstantinos Theodoros Theodosios Filippos
+		Alexios Alexandros Evgenios Basílios Stratigos Ilías Stylianí Polemios Stratos Kýros Argos Skiodis Alíki Íkaros Bartholomoús Georgios Giannis Dimitrios Konstantinos Theodoros Theodosios Filippos
 		}
 	female_names = {
-		Sidirá Ioánna Amoulía Moumoulína María Eiríni Elena Evgenia Evridiki Filippa Irini Konstantina Sophia Theodora Theodosia 
+		Sidira Ioanna Amoulía Moumoulína María Eiríni Elena Evgenia Evridiki Filippa Irini Konstantina Sophia Theodora Theodosia 
 		}
 	dynasty_names = {
 		Argyris Floros Antonis Giannopoulos Ioannidis Sekarthionis Aetos Economos Laskaris Kolopoulos Asteripoulos Laikoanos Neachorapoulos Aetiapoulos Kaikiopoulos Akartheos

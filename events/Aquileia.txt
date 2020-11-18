@@ -87,15 +87,75 @@ country_event = { #Aquileia breaks apart in the aftermath of the Discret Takeove
 		ai_chance = { factor = 100 }
 		add_legitimacy = -20
 		add_prestige = -20
-		GRW = { grant_independence = yes }
-		WST = { grant_independence = yes }
-		POM = { grant_independence = yes }
-		TAR = { grant_independence = yes }
-		LOI = { grant_independence = yes }
-		create_vassal = RLA
-		create_vassal = VNV
-		create_vassal = FLW
-		create_vassal = WSK
-		create_vassal = PRI
+		add_stability = -3
+		#GRW = { grant_independence = yes }
+		#WST = { grant_independence = yes }
+		#POM = { grant_independence = yes }
+		#TAR = { grant_independence = yes }
+		#LOI = { grant_independence = yes }
+		#create_vassal = RLA
+		#create_vassal = VNV
+		#create_vassal = FLW
+		#create_vassal = WSK
+		#create_vassal = PRI
+		#RLA = {
+		#	set_government_rank = 1
+		#	add_government_reform = leading_clergy_reform
+		#	define_ruler = {
+		#		name = "Fidelitas"
+		#		dynasty = "von Katerinburg"
+		#		culture = katerin
+		#		adm = 3
+		#		dip = 3
+		#		mil = 2
+		#		fixed = yes
+		#		age = 62
+		#	}
+		#}
+		#VNV = {
+		#	define_ruler = {
+		#		name = "Anne-Josèphe I"
+		#		dynasty = "de Vinovie"
+		#		age = 34
+		#		adm = 2
+		#		dip = 3
+		#		mil = 2
+		#		fixed = yes
+		#		female = yes
+		#	}
+		#}
+		#FLW = {
+		#	define_ruler = {
+		#		name = "Raimbaut II"
+		#		dynasty = "de Mauléone"
+		#		age = 48
+		#		adm = 2
+		#		dip = 1
+		#		mil = 1
+		#		fixed = yes
+		#	}
+		#}
+		#WSK = {
+		#	define_ruler = {
+		#		name = "Arnaud"
+		#		dynasty = "Tréveau"
+		#		age = 55
+		#		adm = 5
+		#		dip = 4
+		#		mil = 5
+		#		fixed = yes
+		#	}
+		#}
+		#PRI = {
+		#	define_ruler = {
+		#		name = "Jean II"
+		#		dynasty = "le Corsaire"
+		#		age = 29
+		#		adm = 1
+		#		dip = 2
+		#		mil = 4
+		#	}
+		#}
+		
 	}
 }

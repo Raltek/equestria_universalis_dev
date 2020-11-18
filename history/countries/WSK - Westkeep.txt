@@ -6,15 +6,3 @@ government_rank = 1
 add_accepted_culture = vinovian
 religion = archonate
 capital = 2967 # Westkeep
-
-530.6.20 = {
-	monarch = {
-		name = "Arnaud"
-		dynasty = "Tréveau"
-		birth_date = 490.3.11
-		adm = 5
-		dip = 4
-		mil = 5
-		
-	}
-}

@@ -5,15 +5,3 @@ primary_culture = vinovian
 government_rank = 1
 religion = archonate
 capital = 186 # Vinovie
-
-530.6.20 = {
-	monarch = {
-		name = "Anne-Josèphe I"
-		dynasty = "de Vinovie"
-		birth_date = 490.3.11
-		adm = 2
-		dip = 3
-		mil = 2
-		female = yes
-	}
-}
